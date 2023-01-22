@@ -1,5 +1,5 @@
-# Improved Peel-and-Bound: Methods for Generating Dual Bounds with Multivalued Decision Diagrams
-This repository contains the code used to perform comparisons of the peel-and-bound method and the branch-and-bound method. Details about both algorithms and their implementations can be found in the paper: *Peel-and-Bound: Generating Stronger Relaxed Bounds with Multivalued Decision Diagrams*
+# Improved Peel-and-Bound
+This repository contains the code used to perform comparisons of the peel-and-bound method and the branch-and-bound method. Details about both algorithms and their implementations can be found in the paper: *Improved Peel-and-Bound: Methods for Generating Dual Bounds with Multivalued Decision Diagrams*
 
 ## Getting ready to use this repository
 1. Install Julia by following the instructions [here](https://julialang.org/downloads/). In theory any up-to-date version of Julia should work, but if not, reverting to v1.6.1 will fix any deprecation issues.
