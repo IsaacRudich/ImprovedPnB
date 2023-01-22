@@ -1,4 +1,4 @@
-# Peel-and-Bound
+# Improved Peel-and-Bound: Methods for Generating Dual Bounds with Multivalued Decision Diagrams
 This repository contains the code used to perform comparisons of the peel-and-bound method and the branch-and-bound method. Details about both algorithms and their implementations can be found in the paper: *Peel-and-Bound: Generating Stronger Relaxed Bounds with Multivalued Decision Diagrams*
 
 ## Getting ready to use this repository
@@ -7,30 +7,34 @@ This repository contains the code used to perform comparisons of the peel-and-bo
 3. Open the terminal on a Mac or the command shell on a Windows. Navigate to the cloned repository and then into the *src* folder. If you are not sure how to navigate within the temrinal/shell I suggest using a search engine with the phrase *"navigating folders in terminal/shell"*. I am refraining from linking a specific article in case it is removed or edited. 
 4. Type `julia` and hit *Enter* to start the julia REPL. It should look like this after a few seconds:<img width="781" alt="Image1" src="https://user-images.githubusercontent.com/65783146/160921840-4259962b-21c4-4a29-8447-532b5112dde8.png">
 
-5. Type `include("DDForDP,jl")` into the REPL and hit *Enter*. This will load the code.
-6. Once the code is loaded it needs to be compiled. To test that the code is working, and compile it in the process, type `solveSOPPeel(8,64, loggingOn=true)` into the REPL and hit *Enter*. After the code is done running, it should have found an optimal solution with a cost of 55. The time and specific solution may vary from computer to computer.<img width="855" alt="Image2" src="https://user-images.githubusercontent.com/65783146/160921880-c86f7060-3e02-481e-baaa-8e7b9d44c9ec.png">
-
+5. Type `include("PeelAndBound.jl")` into the REPL and hit *Enter*. This will load the code.
 
 ## Using this repository
-Now that the REPL is running and the code is compiled, there are a few methods available to you. All of the benchmark SOP problems from [TSPLIB](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/sop/) are already loaded for you. The only function you need to be familiar with is `benchmarkSOPs()`, but there are several options that can be adjusted. Take note that every time `benchmarkSOPs()` runs, it starts by solving a small problem to make sure the code has compiled. The results of this run are not saved, only written to the terminal.
+Now that the REPL is running and the code is loaded, there are a few methods available to you. All of the benchmark SOP problems from [TSPLIB](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/sop/)  and TSPTW and Makespan problems from [this](https://lopez-ibanez.eu/tsptw-instances) library, are already loaded for you. To run them you will need to use the and `solve_sop` and `solve_tsptw` functions. The parameters available are detailed below. Please be aware that if you turn on parallel processing you must start Julia with parallel threads [see here](https://docs.julialang.org/en/v1/manual/multi-threading/). Take note that every time this runs, it starts by solving a small problem to make sure the code has compiled. The results of this run are not saved, only written to the terminal. There are similar functions for 
 
-### Required Parameters.
-* `width` must be the first input value and it must be an integer. This determines the maximum width decision diagram constructed while the solver is working. A minimum of 2 is required.
+### Required Parameter Only for `solve_tsptw`
+* `makespan` If this value is `true` then the solver will model the makespan variant of the problem, and if it is `false` it will model the TSPTW variant of the problem. 
+
+### Optional Parameters Only for `solve_tsptw`
+* `set` must be an integer. This determines which benchmark set to pull from. There are 7: {1=>AFG, 2=>GendreauDumas, 3=>Langevin, 4=>OhlmannThomas, 5=>SolomonPesant, 6=>SolomonPotvinBengio, 7=>Dumas}. The default is 1.
+* `num` must be an integer. This determines which instance from the benchmark set to pull. It will pull the instance whose file name is at that index in alphabetical order according to Julia. There are too many to list but for each set the number of files (and hence the max valid input) is {1=>50, 2=>130, 3=>70, 4=>25, 5=>27, 6=>30, 7=>135}. The default is 1.
+
+
+### Optional Parameters for Both Functions
+* `max_width` must be an integer. This determines the maximum width decision diagram constructed while the solver is working. A minimum of 2 is required. The default is 128 (which is very small).
+* `widthofsearch` must be an integer. This determines the width of the diversified search used at the beginning of the run. The default is 100 (which is very large).
+* `peel_setting` must be either `frontier`, `lastexactnode`, or `maximal`. The default is `maximal`, changing it will change the way nodes are selected during peel-and-bound. The differences are discussed in the paper, and will not be repreated here. 
+* `run_parallel` If this is `true`, and Julia has been correctly started with multiple threads [see here](https://docs.julialang.org/en/v1/manual/multi-threading/), then parallel processing will be used to speed up the solver. The default is `false`.
+
+file_name::Union{String, Nothing}=nothing, time_limit::Union{Int, Nothing}=nothing,bestknownvalue::Union{T,Nothing}=nothing)where{T<:Real}
+
+
 * `fileName` must be the second input value and it must be a string (surrounded by quotation marks). This determines the location of the output file.
 * `timeLimit` must be the third input value and it must be an integer. This determines how long each problem is allowed to run for in seconds. 
 
 For example, running `benchmarkSOPs(64,"outputFiles/peel_64.txt", 60)` will run the solver on all of the benchmark problems for a maximum of 60 seconds, with a maximum decision diagram width of 64, create a file in the *outputFiles* folder called *peel_64*, and write all of the results to that file. 
 
-### Optional Parameters
-The first two optional parameters select the problems to run. Each benchmark problem has an assigned index; the indices are listed in the table at the bottom of this document.
 
-* `numStart` must be a valid index and determines the first problem to solve. The default value is `1`.
-* `numEnd` must be a valid index greater than `numStart` and determines the last problem to solve. The default value is `41`. 
-
-For example, running `benchmarkSOPs(64,"outputFiles/peel_64.txt", 60, numStart=8,numEnd=9)` will limit the solver so it only runs problems br17.10 and br17.12.
-
-* `usePeel` must be either `true` or `false`. If true, the solver will use peel-and-bound. If false, the solver will use branch-and-bound. The default value is `true`.
-* `peelSetting` must be either `peellen` or `peelf`. The default is `peellen`, changing it to `peelf` will change the way nodes are selected during peel-and-bound to the *frontier method* from the *last exact node* method. The difference is discussed in the paper, and will not be repreated here. 
 
 A command using all of the optional parameters may look like this:
 
