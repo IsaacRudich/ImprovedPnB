@@ -19,27 +19,23 @@ Now that the REPL is running and the code is loaded, there are a few methods ava
 * `set` must be an integer. This determines which benchmark set to pull from. There are 7: {1=>AFG, 2=>GendreauDumas, 3=>Langevin, 4=>OhlmannThomas, 5=>SolomonPesant, 6=>SolomonPotvinBengio, 7=>Dumas}. The default is 1.
 * `num` must be an integer. This determines which instance from the benchmark set to pull. It will pull the instance whose file name is at that index in alphabetical order according to Julia. There are too many to list but for each set the number of files (and hence the max valid input) is {1=>50, 2=>130, 3=>70, 4=>25, 5=>27, 6=>30, 7=>135}. The default is 1.
 
+### Optional Parameters Only for `solve_sop`
+* `num` must be an integer. This determines which instance from the benchmark set to pull. There are 41 available, and the options are listed at the bottom of this documentation.
 
 ### Optional Parameters for Both Functions
 * `max_width` must be an integer. This determines the maximum width decision diagram constructed while the solver is working. A minimum of 2 is required. The default is 128 (which is very small).
 * `widthofsearch` must be an integer. This determines the width of the diversified search used at the beginning of the run. The default is 100 (which is very large).
 * `peel_setting` must be either `frontier`, `lastexactnode`, or `maximal`. The default is `maximal`, changing it will change the way nodes are selected during peel-and-bound. The differences are discussed in the paper, and will not be repreated here. 
 * `run_parallel` If this is `true`, and Julia has been correctly started with multiple threads [see here](https://docs.julialang.org/en/v1/manual/multi-threading/), then parallel processing will be used to speed up the solver. The default is `false`.
-
-file_name::Union{String, Nothing}=nothing, time_limit::Union{Int, Nothing}=nothing,bestknownvalue::Union{T,Nothing}=nothing)where{T<:Real}
-
-
-* `fileName` must be the second input value and it must be a string (surrounded by quotation marks). This determines the location of the output file.
-* `timeLimit` must be the third input value and it must be an integer. This determines how long each problem is allowed to run for in seconds. 
-
-For example, running `benchmarkSOPs(64,"outputFiles/peel_64.txt", 60)` will run the solver on all of the benchmark problems for a maximum of 60 seconds, with a maximum decision diagram width of 64, create a file in the *outputFiles* folder called *peel_64*, and write all of the results to that file. 
-
+* `file_name` must be a string (surrounded by quotation marks) or `nothing`. This determines the location of the output file, or tells the solver not to make one if it is `nothing` (the solver will still print the results to the terminal). The default is `nothing`.
+* `time_limit` must be an integer or `nothing`. This determines how long each problem is allowed to run for in seconds, or tells the solver not to use a time limit if it is `nothing`. The default is `nothing`.
+* `bestknownvalue` must be a number or `nothing`. If this is a number, the solver will skip the initial search for feasible solutions, and will use the vallue as a trimming heuristic when improving relaxed bounds. 
 
 
 A command using all of the optional parameters may look like this:
+`solve_tsptw(false,set=7,num=135,max_width=2048, widthofsearch=5,peel_setting=maximal, run_parallel=false, file_name="./example.txt", time_limit=1800,bestknownvalue=100000)`
 
-`benchmarkSOPs(64, "example.txt", 60;numStart=3,numEnd=3,usePeel=false, peelSetting=peelf)`
-
+If you want to get under the hood and play around with the solver more directy, you will find the setup code for TSPTW and SOP in the `user_files` folder. All of the code specific to those problems is located there. The generic code for the solver is in the `solver` folder. The frameworks for modeling DD nodes and problems are in the `model` folder. 
 
 
 | Index | Problem Name |
