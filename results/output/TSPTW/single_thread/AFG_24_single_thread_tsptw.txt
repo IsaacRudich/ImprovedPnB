@@ -1,0 +1,67 @@
+File Name: rbg034a.tw
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 2 3 4 5 7 6 8 12 13 14 19 11 10 9 30 16 15 22 17 18 24 21 20 29 23 25 26 32 27 34 28 35 31 33 36 
+Cost: 2278
+6.55 seconds
+Bounds: [1950.0,2278.0]
+Optimality Gap: 14.399999999999999%
+Data: 1950.0,2278.0,14.399999999999999
+17.01 seconds
+Improved Solution:
+Sequence: 1 2 3 4 5 7 6 9 13 14 19 11 8 16 10 17 12 30 23 15 29 22 18 24 21 20 31 28 25 26 27 32 35 34 33 36 
+Cost: 2244
+Bounds: [1950.0,2244.0]
+Optimality Gap: 13.100000000000001%
+Data: 1950.0,2244.0,13.100000000000001
+27.65 seconds
+Nodes In Queue: 1
+Bounds: [2123.0,2244.0]
+Optimality Gap: 5.390000000000001%
+Data: 2123.0,2244.0,5.390000000000001
+47.5 seconds
+Nodes In Queue: 2
+Bounds: [2222.0,2244.0]
+Optimality Gap: 0.98%
+Data: 2222.0,2244.0,0.98
+67.5 seconds
+Nodes In Queue: 4
+Improved Solution:
+Sequence: 1 2 4 5 3 8 9 7 6 14 19 11 12 13 10 15 30 16 23 20 17 18 24 21 29 22 25 26 27 32 28 31 35 34 33 36 
+Cost: 2238
+Bounds: [2222.0,2238.0]
+Optimality Gap: 0.7100000000000001%
+Data: 2222.0,2238.0,0.7100000000000001
+74.88 seconds
+Nodes In Queue: 5
+Improved Solution:
+Sequence: 1 2 3 4 5 7 6 8 9 14 19 11 10 12 13 15 30 16 23 18 17 20 24 21 29 22 25 26 27 32 28 31 35 34 33 36 
+Cost: 2234
+Bounds: [2222.0,2234.0]
+Optimality Gap: 0.54%
+Data: 2222.0,2234.0,0.54
+81.26 seconds
+Nodes In Queue: 6
+Improved Solution:
+Sequence: 1 2 3 5 7 6 8 9 12 13 14 19 11 15 10 17 20 16 18 24 21 29 22 25 28 23 31 30 27 32 26 35 34 33 36 
+Cost: 2222
+Bounds: [2222.0,2222.0]
+Optimality Gap: 0.0%
+Data: 2222.0,2222.0,0.0
+83.72 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 2 3 5 7 6 8 9 12 13 14 19 11 15 10 17 20 16 18 24 21 29 22 25 28 23 31 30 27 32 26 35 34 33 36 
+Cost: 2222
+86.18 seconds
+Bounds: [2222.0,2222.0]
+Optimality Gap: 0.0%
+Data: 2222.0,2222.0,0.0
+86.18 seconds

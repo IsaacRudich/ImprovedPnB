@@ -1,0 +1,69 @@
+File Name: kro124p.4.sop
+Peel Setting: frontier
+Max Width: 2048
+Variety Search Width: 5
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 63 6 75 8 93 28 58 57 55 77 32 17 45 11 72 10 49 90 88 66 65 26 89 40 2 82 33 5 48 100 85 50 67 80 97 22 94 92 69 14 27 12 23 21 83 60 84 15 30 87 51 43 36 99 53 16 70 18 31 56 79 62 35 7 9 61 96 78 13 76 95 52 41 71 3 29 34 86 91 74 38 24 19 4 42 25 68 81 73 44 37 39 46 20 98 59 47 64 54 101 
+Cost: 83716
+27.14 seconds
+Bounds: [28879,83716]
+Optimality Gap: 65.5%
+Data: 28879,83716,65.5
+295.45 seconds
+Improved Solution:
+Sequence: 1 63 6 90 88 75 8 89 82 33 5 85 57 77 49 65 26 22 94 66 97 92 28 58 69 50 48 14 55 27 12 32 17 21 11 83 60 45 72 10 84 15 93 67 40 2 30 87 51 43 36 53 16 70 18 80 31 56 79 23 62 35 7 9 61 96 78 13 76 95 52 41 100 71 3 29 34 86 91 74 38 24 19 4 42 68 81 25 98 47 54 64 73 44 37 39 46 20 99 59 101 
+Cost: 80628
+Bounds: [28879,80628]
+Optimality Gap: 64.18%
+Data: 28879,80628,64.18
+333.32 seconds
+Nodes In Queue: 1
+Bounds: [30312,80628]
+Optimality Gap: 62.41%
+Data: 30312,80628,62.41
+695.52 seconds
+Nodes In Queue: 2
+Bounds: [30357,80628]
+Optimality Gap: 62.35000000000001%
+Data: 30357,80628,62.35000000000001
+1048.78 seconds
+Nodes In Queue: 3
+Bounds: [30504,80628]
+Optimality Gap: 62.17%
+Data: 30504,80628,62.17
+1399.4 seconds
+Nodes In Queue: 4
+Bounds: [30674,80628]
+Optimality Gap: 61.96%
+Data: 30674,80628,61.96
+1749.99 seconds
+Nodes In Queue: 5
+Bounds: [30770,80628]
+Optimality Gap: 61.839999999999996%
+Data: 30770,80628,61.839999999999996
+2107.41 seconds
+Nodes In Queue: 6
+Bounds: [30838,80628]
+Optimality Gap: 61.75000000000001%
+Data: 30838,80628,61.75000000000001
+2455.34 seconds
+Nodes In Queue: 7
+Bounds: [30852,80628]
+Optimality Gap: 61.739999999999995%
+Data: 30852,80628,61.739999999999995
+2821.36 seconds
+Nodes In Queue: 8
+Bounds: [30875,80628]
+Optimality Gap: 61.71%
+Data: 30875,80628,61.71
+3202.25 seconds
+Nodes In Queue: 9
+Bounds: [30876,80628]
+Optimality Gap: 61.71%
+Data: 30876,80628,61.71
+3571.17 seconds
+Nodes In Queue: 10

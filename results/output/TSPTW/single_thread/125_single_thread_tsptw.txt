@@ -1,0 +1,54 @@
+File Name: n80w40.005.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+9.12 seconds
+Bounds: [489.0,NA]
+Data: 489.0,9223372036854775807,100.0
+23.04 seconds
+Improved Solution:
+Sequence: 1 12 21 22 25 19 75 43 77 50 23 5 34 63 68 56 70 18 16 42 35 62 8 67 61 72 40 30 33 36 3 14 46 9 64 58 47 32 78 27 51 15 11 65 74 37 57 6 39 55 52 13 20 17 66 2 69 76 53 4 71 45 59 60 79 41 26 73 54 7 10 29 24 48 44 80 28 31 81 38 49 82 
+Cost: 719
+Bounds: [489.0,719.0]
+Optimality Gap: 31.990000000000002%
+Data: 489.0,719.0,31.990000000000002
+32.44 seconds
+Improved Solution:
+Sequence: 1 12 21 22 25 77 19 75 43 50 23 5 34 63 68 56 70 18 16 42 35 62 8 67 61 72 40 30 33 36 3 14 46 9 64 58 47 32 78 51 27 15 11 65 74 37 57 6 39 55 52 13 20 2 66 69 71 17 45 53 4 76 59 60 41 26 79 73 54 7 10 48 24 29 44 80 28 31 81 38 49 82 
+Cost: 697
+Bounds: [489.0,697.0]
+Optimality Gap: 29.84%
+Data: 489.0,697.0,29.84
+39.49 seconds
+Nodes In Queue: 1
+Bounds: [612.0,697.0]
+Optimality Gap: 12.2%
+Data: 612.0,697.0,12.2
+80.63 seconds
+Nodes In Queue: 1
+Bounds: [665.0,697.0]
+Optimality Gap: 4.590000000000001%
+Data: 665.0,697.0,4.590000000000001
+106.49 seconds
+Nodes In Queue: 1
+Improved Solution:
+Sequence: 1 12 21 22 25 19 75 43 77 50 23 5 34 63 68 56 70 18 16 42 35 62 8 67 61 72 40 30 33 36 3 14 46 9 64 58 47 32 78 27 51 15 11 65 74 37 57 6 39 55 52 13 20 2 66 69 17 71 4 45 53 76 59 60 41 79 26 73 54 7 10 29 24 48 44 80 28 31 81 38 49 82 
+Cost: 695
+Bounds: [694.0,695.0]
+Optimality Gap: 0.13999999999999999%
+Data: 694.0,695.0,0.13999999999999999
+122.31 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 12 21 22 25 19 75 43 77 50 23 5 34 63 68 56 70 18 16 42 35 62 8 67 61 72 40 30 33 36 3 14 46 9 64 58 47 32 78 27 51 15 11 65 74 37 57 6 39 55 52 13 20 2 66 69 17 71 4 45 53 76 59 60 41 79 26 73 54 7 10 29 24 48 44 80 28 31 81 38 49 82 
+Cost: 695
+130.12 seconds
+Bounds: [695.0,695.0]
+Optimality Gap: 0.0%
+Data: 695.0,695.0,0.0
+130.12 seconds

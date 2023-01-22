@@ -1,0 +1,21 @@
+File Name: N60ft404.dat
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 31 55 46 8 34 40 9 47 44 13 49 25 15 35 52 2 3 38 29 16 21 51 4 6 10 58 36 56 28 59 43 19 22 24 41 50 33 7 60 39 30 57 42 5 23 27 45 18 20 37 11 14 53 12 32 17 54 26 48 61 
+Cost: 1283.6000000000004
+4.8 seconds
+Optimal Solution Found:
+Sequence: 1 31 55 46 8 34 40 9 47 44 13 49 25 15 35 52 2 3 38 29 16 21 51 4 6 10 58 36 56 28 59 43 19 22 24 41 50 33 7 60 39 30 57 42 5 23 27 45 18 20 37 11 14 53 12 32 17 54 26 48 61 
+Cost: 1283.6000000000004
+5.46 seconds
+Bounds: [1283.6000000000004,1283.6000000000004]
+Optimality Gap: 0.0%
+Data: 1283.6000000000004,1283.6000000000004,0.0
+5.46 seconds

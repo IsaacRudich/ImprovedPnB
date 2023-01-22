@@ -1,0 +1,26 @@
+File Name: n80w200.005.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+22.44 seconds
+Bounds: [180.0,NA]
+Data: 180.0,9223372036854775807,100.0
+80.52 seconds
+Improved Solution:
+Sequence: 1 58 46 51 44 16 26 12 34 20 50 73 31 40 39 77 67 37 15 2 62 21 24 43 78 19 60 75 80 74 6 9 45 61 47 53 48 17 65 70 55 63 13 7 8 54 32 18 29 22 28 25 49 10 33 35 23 79 68 76 5 14 52 4 64 3 66 59 41 36 27 69 11 38 30 71 56 72 81 42 57 82 
+Cost: 484
+Bounds: [180.0,484.0]
+Optimality Gap: 62.81%
+Data: 180.0,484.0,62.81
+270.13 seconds
+Nodes In Queue: 1
+Bounds: [235.0,484.0]
+Optimality Gap: 51.449999999999996%
+Data: 235.0,484.0,51.449999999999996
+599.83 seconds
+Nodes In Queue: 2

@@ -1,0 +1,26 @@
+File Name: rc_202.3.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 22 15 12 9 26 20 6 21 23 25 13 11 14 29 3 2 17 10 16 24 18 4 5 27 7 8 28 19 30 
+Cost: 894.1028999999999
+1.84 seconds
+Bounds: [889.0382999999999,894.1028999999999]
+Optimality Gap: 0.5700000000000001%
+Data: 889.0382999999999,894.1028999999999,0.5700000000000001
+5.83 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 22 15 12 9 26 20 6 21 23 25 13 11 14 29 3 2 17 10 16 24 18 4 5 27 7 8 28 19 30 
+Cost: 894.1028999999999
+9.24 seconds
+Bounds: [894.1028999999999,894.1028999999999]
+Optimality Gap: 0.0%
+Data: 894.1028999999999,894.1028999999999,0.0
+9.24 seconds

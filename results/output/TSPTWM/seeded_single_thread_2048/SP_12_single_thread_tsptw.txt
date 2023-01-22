@@ -1,0 +1,22 @@
+File Name: rc204.0
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [839.2354,839.24]
+Optimality Gap: 0.0%
+Data: 839.2354,839.24,0.0
+24.46 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 32 31 3 7 8 18 17 6 4 2 26 24 25 30 11 14 15 16 19 13 12 20 22 28 27 29 9 23 10 21 5 33 34 
+Cost: 839.2354
+46.36 seconds
+Bounds: [839.2354,839.2354]
+Optimality Gap: 0.0%
+Data: 839.2354,839.2354,0.0
+46.36 seconds

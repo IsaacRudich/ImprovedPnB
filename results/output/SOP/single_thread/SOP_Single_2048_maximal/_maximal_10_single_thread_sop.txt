@@ -1,0 +1,95 @@
+File Name: ft53.1.sop
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 5
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 4 3 17 16 38 37 36 41 39 5 2 42 44 43 47 46 45 35 33 32 34 27 26 28 30 53 52 51 49 50 25 24 23 20 19 18 12 11 13 15 14 10 7 6 9 8 22 21 40 48 29 31 54 
+Cost: 8556
+24.67 seconds
+Bounds: [4428,8556]
+Optimality Gap: 48.25%
+Data: 4428,8556,48.25
+115.34 seconds
+Improved Solution:
+Sequence: 1 37 36 41 39 5 3 17 16 38 19 20 2 42 48 43 47 44 46 45 35 33 32 27 26 28 30 4 14 13 12 11 15 18 24 25 23 22 9 8 7 6 52 49 50 53 51 29 21 40 10 34 31 54 
+Cost: 8370
+Bounds: [4428,8370]
+Optimality Gap: 47.099999999999994%
+Data: 4428,8370,47.099999999999994
+196.57 seconds
+Nodes In Queue: 1
+Bounds: [4506,8370]
+Optimality Gap: 46.160000000000004%
+Data: 4506,8370,46.160000000000004
+376.9 seconds
+Nodes In Queue: 2
+Improved Solution:
+Sequence: 1 37 36 41 38 19 17 12 14 13 39 46 43 47 44 42 48 45 35 53 52 51 50 49 30 29 26 28 27 4 3 2 9 10 8 7 6 11 15 21 25 24 23 22 40 33 34 32 31 5 18 16 20 54 
+Cost: 8244
+Bounds: [4508,8244]
+Optimality Gap: 45.32%
+Data: 4508,8244,45.32
+554.37 seconds
+Nodes In Queue: 3
+Bounds: [4542,8244]
+Optimality Gap: 44.91%
+Data: 4542,8244,44.91
+731.22 seconds
+Nodes In Queue: 4
+Bounds: [4571,8244]
+Optimality Gap: 44.55%
+Data: 4571,8244,44.55
+916.17 seconds
+Nodes In Queue: 5
+Bounds: [4585,8244]
+Optimality Gap: 44.379999999999995%
+Data: 4585,8244,44.379999999999995
+1088.59 seconds
+Nodes In Queue: 6
+Bounds: [4586,8244]
+Optimality Gap: 44.37%
+Data: 4586,8244,44.37
+1275.87 seconds
+Nodes In Queue: 7
+Bounds: [4592,8244]
+Optimality Gap: 44.3%
+Data: 4592,8244,44.3
+1453.37 seconds
+Nodes In Queue: 8
+Bounds: [4595,8244]
+Optimality Gap: 44.26%
+Data: 4595,8244,44.26
+1634.08 seconds
+Nodes In Queue: 9
+Bounds: [4618,8244]
+Optimality Gap: 43.980000000000004%
+Data: 4618,8244,43.980000000000004
+1804.45 seconds
+Nodes In Queue: 10
+Improved Solution:
+Sequence: 1 4 37 36 41 39 5 3 17 16 38 19 20 2 42 44 43 48 47 46 45 35 33 32 27 8 7 6 52 50 53 51 49 30 29 26 28 14 12 11 13 15 18 24 21 25 23 22 40 9 10 34 31 54 
+Cost: 8123
+Bounds: [4623,8123]
+Optimality Gap: 43.09%
+Data: 4623,8123,43.09
+1981.31 seconds
+Nodes In Queue: 11
+Bounds: [4624,8123]
+Optimality Gap: 43.08%
+Data: 4624,8123,43.08
+2313.15 seconds
+Nodes In Queue: 13
+Bounds: [4630,8123]
+Optimality Gap: 43.0%
+Data: 4630,8123,43.0
+2667.05 seconds
+Nodes In Queue: 15
+Bounds: [4633,8123]
+Optimality Gap: 42.96%
+Data: 4633,8123,42.96
+3003.74 seconds
+Nodes In Queue: 17

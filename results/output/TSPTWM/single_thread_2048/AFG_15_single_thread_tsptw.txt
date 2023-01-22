@@ -1,0 +1,33 @@
+File Name: rbg021.5.tw
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 2 3 4 5 12 13 20 18 11 16 9 15 10 7 17 19 14 8 6 21 
+Cost: 4518
+2.44 seconds
+Bounds: [4476.0,4518.0]
+Optimality Gap: 0.9299999999999999%
+Data: 4476.0,4518.0,0.9299999999999999
+6.2 seconds
+Improved Solution:
+Sequence: 1 2 3 4 5 12 13 20 11 10 7 9 15 16 17 18 19 14 8 6 21 
+Cost: 4516
+Bounds: [4476.0,4516.0]
+Optimality Gap: 0.89%
+Data: 4476.0,4516.0,0.89
+7.23 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 2 3 4 5 12 13 20 11 10 7 9 15 16 17 18 19 14 8 6 21 
+Cost: 4516
+18.36 seconds
+Bounds: [4516.0,4516.0]
+Optimality Gap: 0.0%
+Data: 4516.0,4516.0,0.0
+18.36 seconds

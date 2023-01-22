@@ -1,0 +1,34 @@
+File Name: n100w100.003.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [351.0,685.0]
+Optimality Gap: 48.76%
+Data: 351.0,685.0,48.76
+189.97 seconds
+Nodes In Queue: 1
+Bounds: [452.0,685.0]
+Optimality Gap: 34.01%
+Data: 452.0,685.0,34.01
+478.17 seconds
+Nodes In Queue: 2
+Bounds: [453.0,685.0]
+Optimality Gap: 33.87%
+Data: 453.0,685.0,33.87
+704.26 seconds
+Nodes In Queue: 3
+Bounds: [473.0,685.0]
+Optimality Gap: 30.95%
+Data: 473.0,685.0,30.95
+927.45 seconds
+Nodes In Queue: 4
+Bounds: [474.0,685.0]
+Optimality Gap: 30.8%
+Data: 474.0,685.0,30.8
+2925.01 seconds
+Nodes In Queue: 15

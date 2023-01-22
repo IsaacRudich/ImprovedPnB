@@ -1,0 +1,21 @@
+File Name: n80w140.002.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 66 42 27 50 75 79 67 44 53 65 4 13 24 72 64 33 26 62 28 10 18 73 37 20 63 11 80 45 25 21 36 15 48 12 6 76 46 32 49 9 52 5 31 54 19 56 23 8 43 60 61 51 70 57 35 71 74 59 22 30 77 34 7 55 38 16 3 29 17 69 58 41 78 39 47 40 2 14 81 68 82 
+Cost: 651
+57.47 seconds
+Optimal Solution Found:
+Sequence: 1 66 42 27 50 75 79 67 44 53 65 4 13 24 72 64 33 26 62 28 10 18 73 37 20 63 11 80 45 25 21 36 15 48 12 6 76 46 32 49 9 52 5 31 54 19 56 23 8 43 60 61 51 70 57 35 71 74 59 22 30 77 34 7 55 38 16 3 29 17 69 58 41 78 39 47 40 2 14 81 68 82 
+Cost: 651
+155.8 seconds
+Bounds: [651.0,651.0]
+Optimality Gap: 0.0%
+Data: 651.0,651.0,0.0
+155.8 seconds

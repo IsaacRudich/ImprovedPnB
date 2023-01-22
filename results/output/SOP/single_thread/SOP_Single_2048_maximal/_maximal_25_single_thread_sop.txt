@@ -1,0 +1,37 @@
+File Name: p43.4.sop
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 5
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 5 15 33 25 24 36 4 2 28 31 12 6 27 38 22 40 43 42 7 37 29 14 32 10 19 21 35 23 30 18 41 3 8 13 17 16 11 26 34 20 9 39 44 
+Cost: 84085
+3.79 seconds
+Bounds: [82770,84085]
+Optimality Gap: 1.5599999999999998%
+Data: 82770,84085,1.5599999999999998
+21.54 seconds
+Improved Solution:
+Sequence: 1 5 38 15 33 27 25 22 24 36 2 12 40 42 43 7 37 4 29 32 10 19 21 41 35 14 6 3 23 28 30 31 8 13 17 16 11 26 18 20 34 9 39 44 
+Cost: 83050
+Bounds: [82770,83050]
+Optimality Gap: 0.33999999999999997%
+Data: 82770,83050,0.33999999999999997
+29.71 seconds
+Nodes In Queue: 1
+Bounds: [82885,83050]
+Optimality Gap: 0.2%
+Data: 82885,83050,0.2
+37.28 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 5 15 33 27 25 22 24 36 38 12 40 42 7 37 4 29 31 32 10 19 21 41 43 35 14 3 23 28 30 8 13 17 16 6 11 20 18 26 39 34 9 2 44 
+Cost: 83005
+39.58 seconds
+Bounds: [83005,83005]
+Optimality Gap: 0.0%
+Data: 83005,83005,0.0
+39.58 seconds

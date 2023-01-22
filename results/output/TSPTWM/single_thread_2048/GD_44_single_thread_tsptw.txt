@@ -1,0 +1,46 @@
+File Name: n20w180.004.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 19 11 4 18 9 3 8 12 5 20 2 15 14 7 17 10 16 21 13 6 22 
+Cost: 291
+3.36 seconds
+Bounds: [267.0,291.0]
+Optimality Gap: 8.25%
+Data: 267.0,291.0,8.25
+8.06 seconds
+Improved Solution:
+Sequence: 1 19 11 4 18 9 20 3 8 12 5 2 14 7 10 15 21 16 17 13 6 22 
+Cost: 288
+Bounds: [267.0,288.0]
+Optimality Gap: 7.290000000000001%
+Data: 267.0,288.0,7.290000000000001
+18.88 seconds
+Nodes In Queue: 1
+Bounds: [283.0,288.0]
+Optimality Gap: 1.7399999999999998%
+Data: 283.0,288.0,1.7399999999999998
+27.92 seconds
+Nodes In Queue: 2
+Improved Solution:
+Sequence: 1 19 11 4 18 9 20 3 8 12 5 2 15 10 7 6 14 21 16 17 13 22 
+Cost: 284
+Bounds: [283.0,284.0]
+Optimality Gap: 0.35000000000000003%
+Data: 283.0,284.0,0.35000000000000003
+29.45 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 19 11 4 18 9 20 3 8 12 5 2 15 10 7 6 14 21 16 17 13 22 
+Cost: 284
+30.96 seconds
+Bounds: [284.0,284.0]
+Optimality Gap: 0.0%
+Data: 284.0,284.0,0.0
+30.96 seconds

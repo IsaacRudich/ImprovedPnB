@@ -1,0 +1,59 @@
+File Name: rbg109a.sop
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 5
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 2 9 7 5 3 8 6 4 10 22 18 13 14 12 11 17 23 19 16 15 24 20 21 25 26 28 27 31 29 30 33 32 34 42 38 37 36 35 46 45 43 41 40 39 55 49 52 48 54 47 44 60 51 67 57 56 53 50 58 65 66 72 59 73 70 61 64 63 62 71 74 76 68 69 75 78 77 81 79 85 82 80 86 84 83 93 91 89 87 88 94 92 90 97 95 99 98 103 104 102 101 96 100 109 110 107 106 108 105 111 
+Cost: 1178
+32.11 seconds
+Bounds: [584,1178]
+Optimality Gap: 50.42%
+Data: 584,1178,50.42
+95.16 seconds
+Improved Solution:
+Sequence: 1 2 9 6 4 3 8 7 5 10 14 12 11 22 18 16 15 17 23 19 13 21 25 24 20 26 28 27 30 31 29 32 34 35 33 39 37 36 40 41 42 38 55 49 43 44 45 60 46 50 53 54 47 51 48 52 56 67 57 63 62 58 65 64 59 69 72 66 61 73 70 68 71 74 76 75 78 77 81 79 82 80 86 85 84 83 93 91 89 87 88 94 92 90 97 95 100 98 102 101 96 103 99 104 109 110 107 106 108 105 111 
+Cost: 1040
+Bounds: [584,1040]
+Optimality Gap: 43.85%
+Data: 584,1040,43.85
+125.07 seconds
+Nodes In Queue: 1
+Bounds: [617,1040]
+Optimality Gap: 40.67%
+Data: 617,1040,40.67
+236.12 seconds
+Nodes In Queue: 2
+Bounds: [619,1040]
+Optimality Gap: 40.48%
+Data: 619,1040,40.48
+336.89 seconds
+Nodes In Queue: 3
+Bounds: [620,1040]
+Optimality Gap: 40.38%
+Data: 620,1040,40.38
+1133.5 seconds
+Nodes In Queue: 10
+Bounds: [623,1040]
+Optimality Gap: 40.1%
+Data: 623,1040,40.1
+1730.4 seconds
+Nodes In Queue: 15
+Bounds: [625,1040]
+Optimality Gap: 39.900000000000006%
+Data: 625,1040,39.900000000000006
+1831.59 seconds
+Nodes In Queue: 16
+Bounds: [626,1040]
+Optimality Gap: 39.81%
+Data: 626,1040,39.81
+1923.76 seconds
+Nodes In Queue: 17
+Bounds: [630,1040]
+Optimality Gap: 39.42%
+Data: 630,1040,39.42
+2014.62 seconds
+Nodes In Queue: 18

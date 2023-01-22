@@ -1,0 +1,26 @@
+File Name: n100w160.002.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 52 36 45 93 90 64 74 57 43 39 82 22 13 62 98 5 20 100 87 42 12 49 89 72 96 23 25 51 67 71 27 97 78 17 35 60 70 3 68 28 94 31 32 40 75 101 4 86 88 63 99 11 59 53 73 81 69 26 38 18 30 19 2 61 83 9 54 84 8 76 58 33 55 77 85 7 95 34 6 79 10 50 91 14 44 15 66 48 47 41 37 56 92 46 16 65 21 80 29 24 102 
+Cost: 791
+102.04 seconds
+Bounds: [781.0,791.0]
+Optimality Gap: 1.26%
+Data: 781.0,791.0,1.26
+274.62 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 52 36 45 93 90 64 74 57 43 39 82 22 13 62 98 5 20 100 87 42 12 49 89 72 96 23 25 51 67 71 27 97 78 17 35 60 70 3 68 28 94 31 32 40 75 101 4 86 88 63 99 11 59 53 73 81 69 26 38 18 30 19 2 61 83 9 54 84 8 76 58 33 55 77 85 7 95 34 6 79 10 50 91 14 44 15 66 48 47 41 37 56 92 46 16 65 21 80 29 24 102 
+Cost: 791
+861.44 seconds
+Bounds: [791.0,791.0]
+Optimality Gap: 0.0%
+Data: 791.0,791.0,0.0
+861.44 seconds

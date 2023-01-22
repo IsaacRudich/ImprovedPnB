@@ -1,0 +1,82 @@
+File Name: n200w40.003.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+16.42 seconds
+Bounds: [438.0,NA]
+Data: 438.0,9223372036854775807,100.0
+189.13 seconds
+Nodes In Queue: 1
+Bounds: [474.0,NA]
+Data: 474.0,9223372036854775807,100.0
+405.68 seconds
+Nodes In Queue: 1
+Bounds: [497.0,NA]
+Data: 497.0,9223372036854775807,100.0
+417.97 seconds
+Nodes In Queue: 1
+Bounds: [565.0,NA]
+Data: 565.0,9223372036854775807,100.0
+640.45 seconds
+Nodes In Queue: 2
+Bounds: [568.0,NA]
+Data: 568.0,9223372036854775807,100.0
+837.34 seconds
+Nodes In Queue: 3
+Bounds: [618.0,NA]
+Data: 618.0,9223372036854775807,100.0
+1020.69 seconds
+Nodes In Queue: 4
+Bounds: [621.0,NA]
+Data: 621.0,9223372036854775807,100.0
+1377.92 seconds
+Nodes In Queue: 6
+Bounds: [622.0,NA]
+Data: 622.0,9223372036854775807,100.0
+1509.31 seconds
+Nodes In Queue: 6
+Bounds: [625.0,NA]
+Data: 625.0,9223372036854775807,100.0
+1686.15 seconds
+Nodes In Queue: 7
+Bounds: [626.0,NA]
+Data: 626.0,9223372036854775807,100.0
+2044.31 seconds
+Nodes In Queue: 9
+Bounds: [628.0,NA]
+Data: 628.0,9223372036854775807,100.0
+2159.96 seconds
+Nodes In Queue: 10
+Bounds: [629.0,NA]
+Data: 629.0,9223372036854775807,100.0
+2179.25 seconds
+Nodes In Queue: 10
+Bounds: [632.0,NA]
+Data: 632.0,9223372036854775807,100.0
+2319.48 seconds
+Nodes In Queue: 10
+Bounds: [634.0,NA]
+Data: 634.0,9223372036854775807,100.0
+2475.86 seconds
+Nodes In Queue: 11
+Bounds: [636.0,NA]
+Data: 636.0,9223372036854775807,100.0
+2487.12 seconds
+Nodes In Queue: 11
+Bounds: [643.0,NA]
+Data: 643.0,9223372036854775807,100.0
+2869.3 seconds
+Nodes In Queue: 11
+Bounds: [644.0,NA]
+Data: 644.0,9223372036854775807,100.0
+3217.54 seconds
+Nodes In Queue: 13
+Bounds: [645.0,NA]
+Data: 645.0,9223372036854775807,100.0
+3408.01 seconds
+Nodes In Queue: 14

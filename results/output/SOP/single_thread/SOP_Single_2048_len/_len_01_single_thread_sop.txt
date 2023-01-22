@@ -1,0 +1,16 @@
+File Name: ESC07.sop
+Peel Setting: lastexactnode
+Max Width: 2048
+Variety Search Width: 5
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Optimal Solution Found:
+Sequence: 1 2 5 3 8 7 6 4 9 
+Cost: 2125
+0.05 seconds
+Bounds: [2125,2125]
+Optimality Gap: 0.0%
+Data: 2125,2125,0.0
+0.05 seconds

@@ -1,0 +1,89 @@
+File Name: n60w80.005.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 21 25 15 37 54 18 10 60 6 45 43 11 52 48 51 57 34 17 2 19 29 16 53 26 55 23 5 7 58 13 49 22 38 30 31 56 14 39 32 44 41 12 4 20 50 33 35 42 36 9 46 28 40 3 47 59 8 27 61 24 62 
+Cost: 475
+19.04 seconds
+Bounds: [280.0,475.0]
+Optimality Gap: 41.05%
+Data: 280.0,475.0,41.05
+46.81 seconds
+Improved Solution:
+Sequence: 1 21 25 15 37 54 18 10 60 6 45 43 11 52 48 51 57 34 17 2 19 29 16 53 26 55 23 5 7 58 13 49 22 38 30 31 56 14 39 12 41 32 44 4 20 50 33 35 42 36 9 46 28 40 3 47 59 8 27 61 24 62 
+Cost: 474
+Bounds: [280.0,474.0]
+Optimality Gap: 40.93%
+Data: 280.0,474.0,40.93
+64.23 seconds
+Nodes In Queue: 1
+Bounds: [354.0,474.0]
+Optimality Gap: 25.319999999999997%
+Data: 354.0,474.0,25.319999999999997
+136.93 seconds
+Nodes In Queue: 2
+Bounds: [360.0,474.0]
+Optimality Gap: 24.05%
+Data: 360.0,474.0,24.05
+191.3 seconds
+Nodes In Queue: 3
+Bounds: [378.0,474.0]
+Optimality Gap: 20.25%
+Data: 378.0,474.0,20.25
+239.89 seconds
+Nodes In Queue: 4
+Improved Solution:
+Sequence: 1 10 21 18 37 54 15 25 60 6 45 43 11 52 48 51 57 34 17 2 19 29 16 53 26 55 23 5 7 58 13 49 22 38 30 31 56 14 39 12 41 44 32 4 20 50 33 35 42 36 9 46 28 40 3 47 59 8 27 61 24 62 
+Cost: 471
+Bounds: [381.0,471.0]
+Optimality Gap: 19.11%
+Data: 381.0,471.0,19.11
+261.94 seconds
+Nodes In Queue: 4
+Bounds: [385.0,471.0]
+Optimality Gap: 18.26%
+Data: 385.0,471.0,18.26
+296.05 seconds
+Nodes In Queue: 5
+Bounds: [418.0,471.0]
+Optimality Gap: 11.25%
+Data: 418.0,471.0,11.25
+321.86 seconds
+Nodes In Queue: 5
+Bounds: [425.0,471.0]
+Optimality Gap: 9.77%
+Data: 425.0,471.0,9.77
+330.49 seconds
+Nodes In Queue: 4
+Improved Solution:
+Sequence: 1 21 25 15 37 54 18 10 60 6 45 43 11 52 48 51 57 34 17 2 19 29 16 53 26 55 23 5 7 58 13 49 22 38 30 31 56 14 39 12 41 44 32 4 20 50 33 35 42 36 9 46 3 40 28 47 59 27 8 61 24 62 
+Cost: 468
+Bounds: [425.0,468.0]
+Optimality Gap: 9.19%
+Data: 425.0,468.0,9.19
+339.0 seconds
+Nodes In Queue: 3
+Bounds: [464.0,468.0]
+Optimality Gap: 0.8500000000000001%
+Data: 464.0,468.0,0.8500000000000001
+347.75 seconds
+Nodes In Queue: 2
+Bounds: [467.0,468.0]
+Optimality Gap: 0.21%
+Data: 467.0,468.0,0.21
+356.32 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 21 25 15 37 54 18 10 60 6 45 43 11 52 48 51 57 34 17 2 19 29 16 53 26 55 23 5 7 58 13 49 22 38 30 31 56 14 39 12 41 44 32 4 20 50 33 35 42 36 9 46 3 40 28 47 59 27 8 61 24 62 
+Cost: 468
+363.2 seconds
+Bounds: [468.0,468.0]
+Optimality Gap: 0.0%
+Data: 468.0,468.0,0.0
+363.2 seconds

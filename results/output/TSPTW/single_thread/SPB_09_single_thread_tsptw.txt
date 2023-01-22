@@ -1,0 +1,26 @@
+File Name: rc_203.1.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 18 17 11 14 9 13 4 10 16 12 19 15 8 6 5 7 3 2 20 
+Cost: 453.48209999999995
+1.89 seconds
+Bounds: [427.91384,453.48209999999995]
+Optimality Gap: 5.64%
+Data: 427.91384,453.48209999999995,5.64
+5.52 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 18 17 11 14 9 13 4 10 16 12 19 15 8 6 5 7 3 2 20 
+Cost: 453.48209999999995
+10.84 seconds
+Bounds: [453.48209999999995,453.48209999999995]
+Optimality Gap: 0.0%
+Data: 453.48209999999995,453.48209999999995,0.0
+10.84 seconds

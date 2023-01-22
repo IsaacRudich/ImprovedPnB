@@ -1,0 +1,70 @@
+File Name: n100w100.001.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 47 88 12 66 7 36 35 56 18 68 69 51 94 17 86 96 28 76 5 95 30 74 87 80 26 57 61 92 62 77 82 32 39 10 49 20 72 85 91 4 6 43 78 83 60 42 98 21 90 73 50 54 65 45 8 55 37 71 46 58 44 16 81 38 24 75 100 48 19 11 34 33 29 70 79 15 22 53 2 25 9 93 67 89 63 23 13 27 64 40 14 41 52 3 31 99 97 84 59 101 102 
+Cost: 682
+69.49 seconds
+Bounds: [224.0,682.0]
+Optimality Gap: 67.16%
+Data: 224.0,682.0,67.16
+272.44 seconds
+Improved Solution:
+Sequence: 1 47 88 12 66 7 36 35 56 18 68 69 51 94 17 86 96 28 76 5 95 30 74 87 80 26 57 61 92 62 77 82 32 85 91 4 39 6 10 72 20 49 43 78 54 83 65 42 60 98 21 90 73 50 45 8 55 37 71 46 58 44 16 81 24 75 100 48 19 38 11 34 33 29 70 79 15 22 53 2 25 9 93 67 89 63 23 13 27 64 40 14 41 52 3 31 99 84 97 59 101 102 
+Cost: 670
+Bounds: [224.0,670.0]
+Optimality Gap: 66.57%
+Data: 224.0,670.0,66.57
+374.62 seconds
+Nodes In Queue: 1
+Bounds: [406.0,670.0]
+Optimality Gap: 39.4%
+Data: 406.0,670.0,39.4
+704.29 seconds
+Nodes In Queue: 2
+Bounds: [411.0,670.0]
+Optimality Gap: 38.66%
+Data: 411.0,670.0,38.66
+966.65 seconds
+Nodes In Queue: 3
+Bounds: [454.0,670.0]
+Optimality Gap: 32.24%
+Data: 454.0,670.0,32.24
+1235.81 seconds
+Nodes In Queue: 4
+Bounds: [458.0,670.0]
+Optimality Gap: 31.64%
+Data: 458.0,670.0,31.64
+1759.01 seconds
+Nodes In Queue: 6
+Bounds: [460.0,670.0]
+Optimality Gap: 31.34%
+Data: 460.0,670.0,31.34
+2021.13 seconds
+Nodes In Queue: 7
+Bounds: [464.0,670.0]
+Optimality Gap: 30.75%
+Data: 464.0,670.0,30.75
+2516.79 seconds
+Nodes In Queue: 9
+Bounds: [465.0,670.0]
+Optimality Gap: 30.599999999999998%
+Data: 465.0,670.0,30.599999999999998
+2766.34 seconds
+Nodes In Queue: 10
+Bounds: [466.0,670.0]
+Optimality Gap: 30.45%
+Data: 466.0,670.0,30.45
+3045.55 seconds
+Nodes In Queue: 11
+Bounds: [467.0,670.0]
+Optimality Gap: 30.3%
+Data: 467.0,670.0,30.3
+3511.96 seconds
+Nodes In Queue: 13

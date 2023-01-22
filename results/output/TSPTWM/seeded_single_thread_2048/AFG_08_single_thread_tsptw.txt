@@ -1,0 +1,14 @@
+File Name: rbg019b.tw
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+4.11 seconds
+Bounds: [3840.0,3840.0]
+Optimality Gap: 0.0%
+Data: 3840.0,3840.0,0.0
+4.11 seconds

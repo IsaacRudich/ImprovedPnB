@@ -1,0 +1,54 @@
+File Name: n60w80.005.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [280.0,468.0]
+Optimality Gap: 40.17%
+Data: 280.0,468.0,40.17
+33.77 seconds
+Nodes In Queue: 1
+Bounds: [354.0,468.0]
+Optimality Gap: 24.36%
+Data: 354.0,468.0,24.36
+125.52 seconds
+Nodes In Queue: 2
+Bounds: [360.0,468.0]
+Optimality Gap: 23.080000000000002%
+Data: 360.0,468.0,23.080000000000002
+191.83 seconds
+Nodes In Queue: 3
+Bounds: [378.0,468.0]
+Optimality Gap: 19.23%
+Data: 378.0,468.0,19.23
+250.93 seconds
+Nodes In Queue: 4
+Bounds: [381.0,468.0]
+Optimality Gap: 18.59%
+Data: 381.0,468.0,18.59
+270.31 seconds
+Nodes In Queue: 3
+Bounds: [385.0,468.0]
+Optimality Gap: 17.740000000000002%
+Data: 385.0,468.0,17.740000000000002
+306.64 seconds
+Nodes In Queue: 4
+Bounds: [418.0,468.0]
+Optimality Gap: 10.68%
+Data: 418.0,468.0,10.68
+331.15 seconds
+Nodes In Queue: 3
+Bounds: [464.0,468.0]
+Optimality Gap: 0.8500000000000001%
+Data: 464.0,468.0,0.8500000000000001
+342.51 seconds
+Nodes In Queue: 2
+363.03 seconds
+Bounds: [468.0,468.0]
+Optimality Gap: 0.0%
+Data: 468.0,468.0,0.0
+363.03 seconds

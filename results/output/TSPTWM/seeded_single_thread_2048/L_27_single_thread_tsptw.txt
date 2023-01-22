@@ -1,0 +1,17 @@
+File Name: N40ft207.dat
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Optimal Solution Found:
+Sequence: 1 35 31 12 24 29 22 6 32 30 8 39 37 13 5 28 16 18 33 23 11 9 19 20 40 15 17 34 14 4 3 10 25 36 21 27 38 26 7 2 41 
+Cost: 884.8999999999999
+0.27 seconds
+Bounds: [884.8999999999999,884.8999999999999]
+Optimality Gap: 0.0%
+Data: 884.8999999999999,884.8999999999999,0.0
+0.27 seconds

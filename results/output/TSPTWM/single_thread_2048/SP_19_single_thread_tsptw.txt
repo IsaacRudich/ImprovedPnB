@@ -1,0 +1,26 @@
+File Name: rc206.0
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 26 10 12 15 3 17 2 22 25 11 16 13 14 30 35 24 31 36 33 23 20 19 9 8 7 32 4 5 18 6 28 21 27 34 29 37 
+Cost: 893.2148000000001
+8.58 seconds
+Bounds: [802.8513,893.2148000000001]
+Optimality Gap: 10.12%
+Data: 802.8513,893.2148000000001,10.12
+19.34 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 26 10 12 15 3 17 2 22 25 11 16 13 14 30 35 24 31 36 33 23 20 19 9 8 7 32 4 5 18 6 28 21 27 34 29 37 
+Cost: 893.2148000000001
+40.68 seconds
+Bounds: [893.2148000000001,893.2148000000001]
+Optimality Gap: 0.0%
+Data: 893.2148000000001,893.2148000000001,0.0
+40.68 seconds

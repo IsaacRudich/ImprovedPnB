@@ -1,0 +1,34 @@
+File Name: rc208.1
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [447.86469999999997,509.04]
+Optimality Gap: 12.02%
+Data: 447.86469999999997,509.04,12.02
+20.99 seconds
+Nodes In Queue: 1
+Bounds: [450.31870000000004,509.04]
+Optimality Gap: 11.540000000000001%
+Data: 450.31870000000004,509.04,11.540000000000001
+37.38 seconds
+Nodes In Queue: 2
+Bounds: [478.72990000000004,509.04]
+Optimality Gap: 5.949999999999999%
+Data: 478.72990000000004,509.04,5.949999999999999
+45.03 seconds
+Nodes In Queue: 2
+Bounds: [505.8883999999999,509.04]
+Optimality Gap: 0.62%
+Data: 505.8883999999999,509.04,0.62
+47.44 seconds
+Nodes In Queue: 1
+50.02 seconds
+Bounds: [509.04,509.04]
+Optimality Gap: 0.0%
+Data: 509.04,509.04,0.0
+50.02 seconds

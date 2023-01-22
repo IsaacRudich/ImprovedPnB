@@ -1,0 +1,24 @@
+File Name: n60w40.001.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [507.0,591.0]
+Optimality Gap: 14.21%
+Data: 507.0,591.0,14.21
+19.21 seconds
+Nodes In Queue: 1
+Bounds: [590.0,591.0]
+Optimality Gap: 0.16999999999999998%
+Data: 590.0,591.0,0.16999999999999998
+31.21 seconds
+Nodes In Queue: 1
+35.15 seconds
+Bounds: [591.0,591.0]
+Optimality Gap: 0.0%
+Data: 591.0,591.0,0.0
+35.15 seconds

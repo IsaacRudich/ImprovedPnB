@@ -1,0 +1,70 @@
+File Name: n100w80.004.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+16.53 seconds
+Bounds: [294.0,NA]
+Data: 294.0,9223372036854775807,100.0
+64.72 seconds
+Nodes In Queue: 1
+Bounds: [446.0,NA]
+Data: 446.0,9223372036854775807,100.0
+203.01 seconds
+Nodes In Queue: 2
+Bounds: [452.0,NA]
+Data: 452.0,9223372036854775807,100.0
+289.66 seconds
+Nodes In Queue: 3
+Bounds: [543.0,NA]
+Data: 543.0,9223372036854775807,100.0
+380.67 seconds
+Nodes In Queue: 4
+Bounds: [545.0,NA]
+Data: 545.0,9223372036854775807,100.0
+459.72 seconds
+Nodes In Queue: 5
+Bounds: [546.0,NA]
+Data: 546.0,9223372036854775807,100.0
+532.34 seconds
+Nodes In Queue: 6
+Bounds: [550.0,NA]
+Data: 550.0,9223372036854775807,100.0
+607.81 seconds
+Nodes In Queue: 7
+Bounds: [566.0,NA]
+Data: 566.0,9223372036854775807,100.0
+680.84 seconds
+Nodes In Queue: 8
+Bounds: [567.0,NA]
+Data: 567.0,9223372036854775807,100.0
+900.29 seconds
+Nodes In Queue: 11
+Bounds: [568.0,NA]
+Data: 568.0,9223372036854775807,100.0
+1042.39 seconds
+Nodes In Queue: 13
+Bounds: [569.0,NA]
+Data: 569.0,9223372036854775807,100.0
+1114.66 seconds
+Nodes In Queue: 14
+Bounds: [571.0,NA]
+Data: 571.0,9223372036854775807,100.0
+1551.47 seconds
+Nodes In Queue: 20
+Bounds: [572.0,NA]
+Data: 572.0,9223372036854775807,100.0
+1689.64 seconds
+Nodes In Queue: 22
+Bounds: [573.0,NA]
+Data: 573.0,9223372036854775807,100.0
+1773.45 seconds
+Nodes In Queue: 23
+Bounds: [574.0,NA]
+Data: 574.0,9223372036854775807,100.0
+3082.48 seconds
+Nodes In Queue: 43

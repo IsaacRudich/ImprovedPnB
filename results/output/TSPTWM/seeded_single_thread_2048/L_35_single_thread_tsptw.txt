@@ -1,0 +1,14 @@
+File Name: N40ft405.dat
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+0.37 seconds
+Bounds: [982.6,982.6]
+Optimality Gap: 0.0%
+Data: 982.6,982.6,0.0
+0.37 seconds

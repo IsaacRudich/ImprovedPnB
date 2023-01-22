@@ -1,0 +1,64 @@
+File Name: rc_207.2.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [526.02164,701.25]
+Optimality Gap: 24.990000000000002%
+Data: 526.02164,701.25,24.990000000000002
+16.05 seconds
+Nodes In Queue: 1
+Bounds: [594.2866000000001,701.25]
+Optimality Gap: 15.25%
+Data: 594.2866000000001,701.25,15.25
+37.62 seconds
+Nodes In Queue: 2
+Bounds: [615.12624,701.25]
+Optimality Gap: 12.280000000000001%
+Data: 615.12624,701.25,12.280000000000001
+48.95 seconds
+Nodes In Queue: 2
+Bounds: [619.2575,701.25]
+Optimality Gap: 11.690000000000001%
+Data: 619.2575,701.25,11.690000000000001
+56.49 seconds
+Nodes In Queue: 2
+Bounds: [631.1363400000001,701.25]
+Optimality Gap: 10.0%
+Data: 631.1363400000001,701.25,10.0
+67.66 seconds
+Nodes In Queue: 2
+Bounds: [636.528,701.25]
+Optimality Gap: 9.229999999999999%
+Data: 636.528,701.25,9.229999999999999
+73.96 seconds
+Nodes In Queue: 2
+Bounds: [638.33324,701.25]
+Optimality Gap: 8.97%
+Data: 638.33324,701.25,8.97
+79.64 seconds
+Nodes In Queue: 2
+Bounds: [664.1089999999999,701.25]
+Optimality Gap: 5.3%
+Data: 664.1089999999999,701.25,5.3
+85.92 seconds
+Nodes In Queue: 3
+Bounds: [672.4421399999999,701.25]
+Optimality Gap: 4.109999999999999%
+Data: 672.4421399999999,701.25,4.109999999999999
+87.97 seconds
+Nodes In Queue: 2
+Bounds: [695.39254,701.25]
+Optimality Gap: 0.84%
+Data: 695.39254,701.25,0.84
+90.08 seconds
+Nodes In Queue: 1
+92.84 seconds
+Bounds: [701.25,701.25]
+Optimality Gap: 0.0%
+Data: 701.25,701.25,0.0
+92.84 seconds

@@ -1,0 +1,32 @@
+File Name: n20w140.005.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 16 20 7 8 9 17 3 18 13 19 6 14 10 2 4 15 12 21 5 11 22 
+Cost: 276
+1.89 seconds
+Bounds: [275.0,276.0]
+Optimality Gap: 0.36%
+Data: 275.0,276.0,0.36
+5.1 seconds
+Improved Solution:
+Sequence: 1 16 20 7 9 17 8 3 18 10 19 13 6 14 12 2 4 15 21 5 11 22 
+Cost: 275
+Bounds: [275.0,275.0]
+Optimality Gap: 0.0%
+Data: 275.0,275.0,0.0
+8.33 seconds
+Optimal Solution Found:
+Sequence: 1 16 20 7 9 17 8 3 18 10 19 13 6 14 12 2 4 15 21 5 11 22 
+Cost: 275
+8.34 seconds
+Bounds: [275.0,275.0]
+Optimality Gap: 0.0%
+Data: 275.0,275.0,0.0
+8.34 seconds

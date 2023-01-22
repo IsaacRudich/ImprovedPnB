@@ -1,0 +1,94 @@
+File Name: p43.3.sop
+Peel Setting: frontier
+Max Width: 2048
+Variety Search Width: 5
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 5 38 15 13 10 32 33 31 28 2 4 36 24 25 27 35 14 12 6 17 20 16 43 41 42 39 40 37 3 8 29 23 22 30 7 9 11 19 21 18 26 34 44 
+Cost: 29530
+7.87 seconds
+Bounds: [27555,29530]
+Optimality Gap: 6.69%
+Data: 27555,29530,6.69
+49.28 seconds
+Improved Solution:
+Sequence: 1 5 15 13 17 16 10 33 32 31 28 4 2 38 36 24 25 27 14 6 12 20 35 43 42 41 40 39 23 22 37 3 7 30 11 9 8 26 34 19 21 18 29 44 
+Cost: 29300
+Bounds: [27555,29300]
+Optimality Gap: 5.96%
+Data: 27555,29300,5.96
+65.38 seconds
+Nodes In Queue: 1
+Bounds: [27980,29300]
+Optimality Gap: 4.51%
+Data: 27980,29300,4.51
+113.53 seconds
+Nodes In Queue: 2
+Bounds: [27990,29300]
+Optimality Gap: 4.47%
+Data: 27990,29300,4.47
+153.35 seconds
+Nodes In Queue: 3
+Bounds: [28000,29300]
+Optimality Gap: 4.44%
+Data: 28000,29300,4.44
+223.08 seconds
+Nodes In Queue: 5
+Bounds: [28005,29300]
+Optimality Gap: 4.42%
+Data: 28005,29300,4.42
+258.57 seconds
+Nodes In Queue: 6
+Bounds: [28010,29300]
+Optimality Gap: 4.3999999999999995%
+Data: 28010,29300,4.3999999999999995
+292.84 seconds
+Nodes In Queue: 7
+Bounds: [28020,29300]
+Optimality Gap: 4.37%
+Data: 28020,29300,4.37
+480.69 seconds
+Nodes In Queue: 12
+Bounds: [28025,29300]
+Optimality Gap: 4.35%
+Data: 28025,29300,4.35
+691.36 seconds
+Nodes In Queue: 18
+Bounds: [28030,29300]
+Optimality Gap: 4.33%
+Data: 28030,29300,4.33
+763.72 seconds
+Nodes In Queue: 20
+Bounds: [28035,29300]
+Optimality Gap: 4.32%
+Data: 28035,29300,4.32
+1264.83 seconds
+Nodes In Queue: 34
+Bounds: [28040,29300]
+Optimality Gap: 4.3%
+Data: 28040,29300,4.3
+1466.76 seconds
+Nodes In Queue: 40
+Bounds: [28045,29300]
+Optimality Gap: 4.279999999999999%
+Data: 28045,29300,4.279999999999999
+2081.18 seconds
+Nodes In Queue: 58
+Bounds: [28050,29300]
+Optimality Gap: 4.2700000000000005%
+Data: 28050,29300,4.2700000000000005
+2182.4 seconds
+Nodes In Queue: 60
+Bounds: [28055,29300]
+Optimality Gap: 4.25%
+Data: 28055,29300,4.25
+3015.52 seconds
+Nodes In Queue: 83
+Bounds: [28060,29300]
+Optimality Gap: 4.2299999999999995%
+Data: 28060,29300,4.2299999999999995
+3267.68 seconds
+Nodes In Queue: 90

@@ -1,0 +1,94 @@
+File Name: n100w60.001.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [360.0,655.0]
+Optimality Gap: 45.04%
+Data: 360.0,655.0,45.04
+144.19 seconds
+Nodes In Queue: 1
+Bounds: [530.0,655.0]
+Optimality Gap: 19.08%
+Data: 530.0,655.0,19.08
+332.86 seconds
+Nodes In Queue: 2
+Bounds: [531.0,655.0]
+Optimality Gap: 18.93%
+Data: 531.0,655.0,18.93
+463.9 seconds
+Nodes In Queue: 3
+Bounds: [557.0,655.0]
+Optimality Gap: 14.96%
+Data: 557.0,655.0,14.96
+556.51 seconds
+Nodes In Queue: 4
+Bounds: [558.0,655.0]
+Optimality Gap: 14.81%
+Data: 558.0,655.0,14.81
+642.51 seconds
+Nodes In Queue: 5
+Bounds: [561.0,655.0]
+Optimality Gap: 14.35%
+Data: 561.0,655.0,14.35
+746.17 seconds
+Nodes In Queue: 6
+Bounds: [562.0,655.0]
+Optimality Gap: 14.2%
+Data: 562.0,655.0,14.2
+816.2 seconds
+Nodes In Queue: 7
+Bounds: [577.0,655.0]
+Optimality Gap: 11.91%
+Data: 577.0,655.0,11.91
+887.16 seconds
+Nodes In Queue: 8
+Bounds: [578.0,655.0]
+Optimality Gap: 11.76%
+Data: 578.0,655.0,11.76
+947.46 seconds
+Nodes In Queue: 9
+Bounds: [580.0,655.0]
+Optimality Gap: 11.450000000000001%
+Data: 580.0,655.0,11.450000000000001
+1044.57 seconds
+Nodes In Queue: 10
+Bounds: [581.0,655.0]
+Optimality Gap: 11.3%
+Data: 581.0,655.0,11.3
+1121.18 seconds
+Nodes In Queue: 11
+Bounds: [582.0,655.0]
+Optimality Gap: 11.15%
+Data: 582.0,655.0,11.15
+1314.75 seconds
+Nodes In Queue: 14
+Bounds: [595.0,655.0]
+Optimality Gap: 9.16%
+Data: 595.0,655.0,9.16
+1457.92 seconds
+Nodes In Queue: 16
+Bounds: [599.0,655.0]
+Optimality Gap: 8.55%
+Data: 599.0,655.0,8.55
+1519.45 seconds
+Nodes In Queue: 17
+Bounds: [600.0,655.0]
+Optimality Gap: 8.4%
+Data: 600.0,655.0,8.4
+1586.43 seconds
+Nodes In Queue: 18
+Bounds: [601.0,655.0]
+Optimality Gap: 8.24%
+Data: 601.0,655.0,8.24
+1704.24 seconds
+Nodes In Queue: 20
+Bounds: [602.0,655.0]
+Optimality Gap: 8.09%
+Data: 602.0,655.0,8.09
+1769.48 seconds
+Nodes In Queue: 21

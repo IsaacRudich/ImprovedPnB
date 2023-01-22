@@ -1,0 +1,54 @@
+File Name: n150w60.004.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+13.15 seconds
+Bounds: [321.0,NA]
+Data: 321.0,9223372036854775807,100.0
+98.66 seconds
+Nodes In Queue: 1
+Bounds: [500.0,NA]
+Data: 500.0,9223372036854775807,100.0
+305.06 seconds
+Nodes In Queue: 2
+Bounds: [568.0,NA]
+Data: 568.0,9223372036854775807,100.0
+518.94 seconds
+Nodes In Queue: 4
+Bounds: [570.0,NA]
+Data: 570.0,9223372036854775807,100.0
+663.69 seconds
+Nodes In Queue: 5
+Bounds: [572.0,NA]
+Data: 572.0,9223372036854775807,100.0
+952.61 seconds
+Nodes In Queue: 8
+Bounds: [573.0,NA]
+Data: 573.0,9223372036854775807,100.0
+1264.09 seconds
+Nodes In Queue: 12
+Bounds: [574.0,NA]
+Data: 574.0,9223372036854775807,100.0
+1702.01 seconds
+Nodes In Queue: 17
+Bounds: [575.0,NA]
+Data: 575.0,9223372036854775807,100.0
+1769.29 seconds
+Nodes In Queue: 17
+Bounds: [576.0,NA]
+Data: 576.0,9223372036854775807,100.0
+1979.88 seconds
+Nodes In Queue: 19
+Bounds: [577.0,NA]
+Data: 577.0,9223372036854775807,100.0
+2645.89 seconds
+Nodes In Queue: 24
+Bounds: [578.0,NA]
+Data: 578.0,9223372036854775807,100.0
+2948.29 seconds
+Nodes In Queue: 27

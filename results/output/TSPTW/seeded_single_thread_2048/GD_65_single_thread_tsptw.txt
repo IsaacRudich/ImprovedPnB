@@ -1,0 +1,114 @@
+File Name: n40w160.005.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [215.0,315.0]
+Optimality Gap: 31.75%
+Data: 215.0,315.0,31.75
+18.23 seconds
+Nodes In Queue: 1
+Bounds: [235.0,315.0]
+Optimality Gap: 25.4%
+Data: 235.0,315.0,25.4
+68.37 seconds
+Nodes In Queue: 2
+Bounds: [251.0,315.0]
+Optimality Gap: 20.32%
+Data: 251.0,315.0,20.32
+100.81 seconds
+Nodes In Queue: 3
+Bounds: [275.0,315.0]
+Optimality Gap: 12.7%
+Data: 275.0,315.0,12.7
+128.95 seconds
+Nodes In Queue: 4
+Bounds: [278.0,315.0]
+Optimality Gap: 11.75%
+Data: 278.0,315.0,11.75
+158.37 seconds
+Nodes In Queue: 5
+Bounds: [280.0,315.0]
+Optimality Gap: 11.110000000000001%
+Data: 280.0,315.0,11.110000000000001
+183.52 seconds
+Nodes In Queue: 6
+Bounds: [283.0,315.0]
+Optimality Gap: 10.16%
+Data: 283.0,315.0,10.16
+228.74 seconds
+Nodes In Queue: 8
+Bounds: [284.0,315.0]
+Optimality Gap: 9.84%
+Data: 284.0,315.0,9.84
+327.88 seconds
+Nodes In Queue: 12
+Bounds: [285.0,315.0]
+Optimality Gap: 9.520000000000001%
+Data: 285.0,315.0,9.520000000000001
+546.66 seconds
+Nodes In Queue: 20
+Bounds: [286.0,315.0]
+Optimality Gap: 9.21%
+Data: 286.0,315.0,9.21
+577.59 seconds
+Nodes In Queue: 20
+Bounds: [287.0,315.0]
+Optimality Gap: 8.89%
+Data: 287.0,315.0,8.89
+589.83 seconds
+Nodes In Queue: 20
+Bounds: [288.0,315.0]
+Optimality Gap: 8.57%
+Data: 288.0,315.0,8.57
+606.87 seconds
+Nodes In Queue: 19
+Bounds: [292.0,315.0]
+Optimality Gap: 7.3%
+Data: 292.0,315.0,7.3
+621.19 seconds
+Nodes In Queue: 20
+Bounds: [301.0,315.0]
+Optimality Gap: 4.44%
+Data: 301.0,315.0,4.44
+626.25 seconds
+Nodes In Queue: 19
+Bounds: [303.0,315.0]
+Optimality Gap: 3.81%
+Data: 303.0,315.0,3.81
+630.58 seconds
+Nodes In Queue: 18
+Bounds: [309.0,315.0]
+Optimality Gap: 1.9%
+Data: 309.0,315.0,1.9
+634.56 seconds
+Nodes In Queue: 17
+Bounds: [310.0,315.0]
+Optimality Gap: 1.59%
+Data: 310.0,315.0,1.59
+638.11 seconds
+Nodes In Queue: 16
+Bounds: [311.0,315.0]
+Optimality Gap: 1.27%
+Data: 311.0,315.0,1.27
+650.59 seconds
+Nodes In Queue: 13
+Bounds: [313.0,315.0]
+Optimality Gap: 0.63%
+Data: 313.0,315.0,0.63
+673.09 seconds
+Nodes In Queue: 8
+Bounds: [314.0,315.0]
+Optimality Gap: 0.32%
+Data: 314.0,315.0,0.32
+688.81 seconds
+Nodes In Queue: 4
+704.93 seconds
+Bounds: [315.0,315.0]
+Optimality Gap: 0.0%
+Data: 315.0,315.0,0.0
+704.93 seconds

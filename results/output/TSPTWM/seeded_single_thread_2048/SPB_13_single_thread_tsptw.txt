@@ -1,0 +1,24 @@
+File Name: rc_204.1.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [867.8924,917.83]
+Optimality Gap: 5.4399999999999995%
+Data: 867.8924,917.83,5.4399999999999995
+62.14 seconds
+Nodes In Queue: 1
+Bounds: [913.0539,917.83]
+Optimality Gap: 0.52%
+Data: 913.0539,917.83,0.52
+184.94 seconds
+Nodes In Queue: 2
+Bounds: [915.2194,917.83]
+Optimality Gap: 0.27999999999999997%
+Data: 915.2194,917.83,0.27999999999999997
+276.69 seconds
+Nodes In Queue: 3

@@ -1,0 +1,21 @@
+File Name: n60w20.001.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 7 13 39 49 16 10 52 18 57 35 20 43 59 33 23 8 60 26 14 5 53 6 51 45 31 19 48 47 32 17 24 22 3 29 42 11 30 12 28 40 44 46 36 27 9 58 4 34 55 2 50 25 21 38 37 56 15 41 61 54 62 
+Cost: 586
+4.21 seconds
+Optimal Solution Found:
+Sequence: 1 7 13 39 49 16 10 52 18 57 35 20 43 59 33 23 8 60 26 14 5 53 6 51 45 31 19 48 47 32 17 24 22 3 29 42 11 30 12 28 40 44 46 36 27 9 58 4 34 55 2 50 25 21 38 37 56 15 41 61 54 62 
+Cost: 586
+6.05 seconds
+Bounds: [586.0,586.0]
+Optimality Gap: 0.0%
+Data: 586.0,586.0,0.0
+6.05 seconds

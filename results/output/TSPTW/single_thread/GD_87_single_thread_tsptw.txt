@@ -1,0 +1,41 @@
+File Name: n60w160.002.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 42 20 57 49 10 14 45 25 56 48 21 2 6 33 60 53 59 41 19 24 37 4 50 15 46 55 52 9 27 35 16 26 43 13 38 17 12 23 3 11 51 8 34 5 31 58 54 32 39 47 61 18 36 22 44 7 40 29 30 28 62 
+Cost: 443
+38.16 seconds
+Bounds: [300.0,443.0]
+Optimality Gap: 32.28%
+Data: 300.0,443.0,32.28
+81.82 seconds
+Nodes In Queue: 1
+Bounds: [323.0,443.0]
+Optimality Gap: 27.089999999999996%
+Data: 323.0,443.0,27.089999999999996
+289.33 seconds
+Nodes In Queue: 2
+Improved Solution:
+Sequence: 1 33 6 60 42 20 57 10 14 45 49 53 2 21 48 56 25 41 59 19 24 37 4 50 15 46 55 52 9 27 35 16 26 43 13 38 17 12 23 3 11 51 8 34 5 31 58 54 32 39 47 61 18 36 22 44 7 40 29 30 28 62 
+Cost: 431
+Bounds: [323.0,431.0]
+Optimality Gap: 25.06%
+Data: 323.0,431.0,25.06
+540.45 seconds
+Nodes In Queue: 4
+Bounds: [324.0,431.0]
+Optimality Gap: 24.83%
+Data: 324.0,431.0,24.83
+1197.75 seconds
+Nodes In Queue: 10
+Bounds: [325.0,431.0]
+Optimality Gap: 24.59%
+Data: 325.0,431.0,24.59
+3201.51 seconds
+Nodes In Queue: 28

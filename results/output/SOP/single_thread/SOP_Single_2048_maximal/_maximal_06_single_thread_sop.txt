@@ -1,0 +1,42 @@
+File Name: ESC63.sop
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 5
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 43 32 7 44 6 45 55 10 34 3 30 38 40 63 36 39 17 51 28 53 8 16 60 21 33 20 15 22 31 4 42 5 25 46 59 61 56 49 2 52 11 27 14 13 37 24 58 9 54 19 23 12 18 35 48 29 57 41 62 64 50 47 26 65 
+Cost: 65
+35.38 seconds
+Bounds: [48,65]
+Optimality Gap: 26.150000000000002%
+Data: 48,65,26.150000000000002
+161.12 seconds
+Improved Solution:
+Sequence: 1 38 40 63 4 24 2 10 20 30 17 61 31 56 25 42 36 49 8 6 33 22 34 5 16 53 51 11 3 7 48 45 9 12 23 21 39 52 19 29 18 55 15 27 32 14 13 26 60 44 59 54 58 35 28 37 50 46 47 43 57 41 62 64 65 
+Cost: 62
+Bounds: [48,62]
+Optimality Gap: 22.58%
+Data: 48,62,22.58
+232.81 seconds
+Nodes In Queue: 1
+Bounds: [60,62]
+Optimality Gap: 3.2300000000000004%
+Data: 60,62,3.2300000000000004
+357.28 seconds
+Nodes In Queue: 2
+Bounds: [61,62]
+Optimality Gap: 1.6099999999999999%
+Data: 61,62,1.6099999999999999
+495.82 seconds
+Nodes In Queue: 4
+Optimal Solution Found:
+Sequence: 1 38 40 63 4 24 2 10 20 30 17 61 31 56 25 42 36 49 8 6 33 22 34 5 16 53 51 11 3 7 48 45 9 12 23 21 39 52 19 29 18 55 15 27 32 14 13 26 60 44 59 54 58 35 28 37 50 46 47 43 57 41 62 64 65 
+Cost: 62
+832.11 seconds
+Bounds: [62,62]
+Optimality Gap: 0.0%
+Data: 62,62,0.0
+832.12 seconds

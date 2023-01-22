@@ -1,0 +1,134 @@
+File Name: rbg021.8.tw
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [3952.0,4481.0]
+Optimality Gap: 11.81%
+Data: 3952.0,4481.0,11.81
+6.86 seconds
+Nodes In Queue: 1
+Bounds: [4403.0,4481.0]
+Optimality Gap: 1.7399999999999998%
+Data: 4403.0,4481.0,1.7399999999999998
+14.3 seconds
+Nodes In Queue: 1
+Bounds: [4408.0,4481.0]
+Optimality Gap: 1.63%
+Data: 4408.0,4481.0,1.63
+38.37 seconds
+Nodes In Queue: 3
+Bounds: [4410.0,4481.0]
+Optimality Gap: 1.58%
+Data: 4410.0,4481.0,1.58
+43.8 seconds
+Nodes In Queue: 3
+Bounds: [4412.0,4481.0]
+Optimality Gap: 1.54%
+Data: 4412.0,4481.0,1.54
+49.48 seconds
+Nodes In Queue: 3
+Bounds: [4413.0,4481.0]
+Optimality Gap: 1.52%
+Data: 4413.0,4481.0,1.52
+56.17 seconds
+Nodes In Queue: 4
+Bounds: [4414.0,4481.0]
+Optimality Gap: 1.5%
+Data: 4414.0,4481.0,1.5
+70.34 seconds
+Nodes In Queue: 6
+Bounds: [4415.0,4481.0]
+Optimality Gap: 1.47%
+Data: 4415.0,4481.0,1.47
+77.65 seconds
+Nodes In Queue: 7
+Bounds: [4418.0,4481.0]
+Optimality Gap: 1.41%
+Data: 4418.0,4481.0,1.41
+91.42 seconds
+Nodes In Queue: 9
+Bounds: [4422.0,4481.0]
+Optimality Gap: 1.32%
+Data: 4422.0,4481.0,1.32
+96.94 seconds
+Nodes In Queue: 10
+Bounds: [4423.0,4481.0]
+Optimality Gap: 1.29%
+Data: 4423.0,4481.0,1.29
+101.0 seconds
+Nodes In Queue: 10
+Bounds: [4425.0,4481.0]
+Optimality Gap: 1.25%
+Data: 4425.0,4481.0,1.25
+104.52 seconds
+Nodes In Queue: 10
+Bounds: [4427.0,4481.0]
+Optimality Gap: 1.21%
+Data: 4427.0,4481.0,1.21
+109.09 seconds
+Nodes In Queue: 11
+Bounds: [4435.0,4481.0]
+Optimality Gap: 1.03%
+Data: 4435.0,4481.0,1.03
+114.55 seconds
+Nodes In Queue: 11
+Bounds: [4440.0,4481.0]
+Optimality Gap: 0.91%
+Data: 4440.0,4481.0,0.91
+119.52 seconds
+Nodes In Queue: 12
+Bounds: [4443.0,4481.0]
+Optimality Gap: 0.8500000000000001%
+Data: 4443.0,4481.0,0.8500000000000001
+121.16 seconds
+Nodes In Queue: 11
+Bounds: [4444.0,4481.0]
+Optimality Gap: 0.83%
+Data: 4444.0,4481.0,0.83
+121.74 seconds
+Nodes In Queue: 11
+Bounds: [4445.0,4481.0]
+Optimality Gap: 0.8%
+Data: 4445.0,4481.0,0.8
+123.95 seconds
+Nodes In Queue: 10
+Bounds: [4450.0,4481.0]
+Optimality Gap: 0.69%
+Data: 4450.0,4481.0,0.69
+130.94 seconds
+Nodes In Queue: 7
+Bounds: [4455.0,4481.0]
+Optimality Gap: 0.58%
+Data: 4455.0,4481.0,0.58
+132.68 seconds
+Nodes In Queue: 5
+Bounds: [4459.0,4481.0]
+Optimality Gap: 0.49%
+Data: 4459.0,4481.0,0.49
+132.78 seconds
+Nodes In Queue: 5
+Bounds: [4461.0,4481.0]
+Optimality Gap: 0.44999999999999996%
+Data: 4461.0,4481.0,0.44999999999999996
+134.11 seconds
+Nodes In Queue: 4
+Bounds: [4462.0,4481.0]
+Optimality Gap: 0.42%
+Data: 4462.0,4481.0,0.42
+134.65 seconds
+Nodes In Queue: 3
+Bounds: [4464.0,4481.0]
+Optimality Gap: 0.38%
+Data: 4464.0,4481.0,0.38
+136.14 seconds
+Nodes In Queue: 1
+136.81 seconds
+Bounds: [4481.0,4481.0]
+Optimality Gap: 0.0%
+Data: 4481.0,4481.0,0.0
+136.81 seconds

@@ -1,0 +1,19 @@
+File Name: rc203.0
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [867.8924,870.52]
+Optimality Gap: 0.3%
+Data: 867.8924,870.52,0.3
+25.98 seconds
+Nodes In Queue: 1
+48.78 seconds
+Bounds: [870.52,870.52]
+Optimality Gap: 0.0%
+Data: 870.52,870.52,0.0
+48.78 seconds

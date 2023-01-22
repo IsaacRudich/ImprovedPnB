@@ -1,0 +1,30 @@
+File Name: prob.100.sop
+Peel Setting: lastexactnode
+Max Width: 2048
+Variety Search Width: 5
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 51 61 3 53 95 2 40 71 81 35 98 88 5 9 76 86 13 69 48 32 30 87 90 11 14 94 41 52 70 57 99 24 20 59 63 79 12 45 65 50 31 77 68 19 73 29 37 25 58 21 33 27 54 64 42 10 85 22 55 4 36 46 78 56 28 44 8 92 80 75 60 91 74 16 89 18 15 97 67 17 47 72 7 96 6 66 84 26 83 34 43 38 93 23 82 49 39 62 100 
+Cost: 1814
+66.69 seconds
+Bounds: [255,1814]
+Optimality Gap: 85.94000000000001%
+Data: 255,1814,85.94000000000001
+529.13 seconds
+Nodes In Queue: 1
+Improved Solution:
+Sequence: 1 79 3 53 95 2 40 71 96 76 86 13 69 48 32 30 87 90 11 14 94 41 52 59 45 65 29 73 19 68 77 91 74 61 51 57 70 15 24 99 21 22 83 26 37 50 31 12 64 35 98 88 5 9 56 28 44 8 92 80 75 60 20 34 78 46 36 4 49 7 58 25 27 54 82 89 16 63 84 66 72 47 17 67 97 18 55 85 10 42 43 6 81 23 39 33 38 93 62 100 
+Cost: 1735
+Bounds: [259,1735]
+Optimality Gap: 85.07000000000001%
+Data: 259,1735,85.07000000000001
+1708.1 seconds
+Nodes In Queue: 2
+Bounds: [266,1735]
+Optimality Gap: 84.67%
+Data: 266,1735,84.67
+3567.68 seconds
+Nodes In Queue: 4

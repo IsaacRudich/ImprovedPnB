@@ -1,0 +1,26 @@
+File Name: n40w140.005.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 25 12 30 22 27 8 5 3 16 34 24 14 37 33 7 38 6 35 17 29 39 9 18 32 40 11 19 36 21 28 26 2 20 4 15 31 23 10 41 13 42 
+Cost: 438
+13.05 seconds
+Bounds: [426.0,438.0]
+Optimality Gap: 2.74%
+Data: 426.0,438.0,2.74
+32.27 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 25 12 30 22 27 8 5 3 16 34 24 14 37 33 7 38 6 35 17 29 39 9 18 32 40 11 19 36 21 28 26 2 20 4 15 31 23 10 41 13 42 
+Cost: 438
+79.34 seconds
+Bounds: [438.0,438.0]
+Optimality Gap: 0.0%
+Data: 438.0,438.0,0.0
+79.34 seconds

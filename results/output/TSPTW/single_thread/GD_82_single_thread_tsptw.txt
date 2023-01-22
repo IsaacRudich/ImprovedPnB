@@ -1,0 +1,86 @@
+File Name: n60w140.002.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+8.68 seconds
+Bounds: [314.0,NA]
+Data: 314.0,9223372036854775807,100.0
+31.32 seconds
+Improved Solution:
+Sequence: 1 11 32 22 31 48 20 16 42 17 56 19 59 43 13 37 4 18 3 45 36 33 7 30 10 40 38 26 35 47 57 21 24 29 52 28 14 9 8 39 5 46 15 44 51 54 60 23 50 25 58 27 41 2 49 34 55 53 6 61 12 62 
+Cost: 469
+Bounds: [314.0,469.0]
+Optimality Gap: 33.050000000000004%
+Data: 314.0,469.0,33.050000000000004
+70.22 seconds
+Nodes In Queue: 1
+Bounds: [331.0,469.0]
+Optimality Gap: 29.42%
+Data: 331.0,469.0,29.42
+74.32 seconds
+Nodes In Queue: 1
+Bounds: [364.0,469.0]
+Optimality Gap: 22.39%
+Data: 364.0,469.0,22.39
+172.28 seconds
+Nodes In Queue: 2
+Bounds: [365.0,469.0]
+Optimality Gap: 22.17%
+Data: 365.0,469.0,22.17
+253.28 seconds
+Nodes In Queue: 3
+Bounds: [375.0,469.0]
+Optimality Gap: 20.04%
+Data: 375.0,469.0,20.04
+338.4 seconds
+Nodes In Queue: 4
+Bounds: [376.0,469.0]
+Optimality Gap: 19.830000000000002%
+Data: 376.0,469.0,19.830000000000002
+417.82 seconds
+Nodes In Queue: 5
+Bounds: [387.0,469.0]
+Optimality Gap: 17.48%
+Data: 387.0,469.0,17.48
+499.96 seconds
+Nodes In Queue: 6
+Bounds: [388.0,469.0]
+Optimality Gap: 17.27%
+Data: 388.0,469.0,17.27
+575.71 seconds
+Nodes In Queue: 7
+Bounds: [389.0,469.0]
+Optimality Gap: 17.06%
+Data: 389.0,469.0,17.06
+699.99 seconds
+Nodes In Queue: 8
+Bounds: [390.0,469.0]
+Optimality Gap: 16.84%
+Data: 390.0,469.0,16.84
+707.47 seconds
+Nodes In Queue: 8
+Bounds: [391.0,469.0]
+Optimality Gap: 16.63%
+Data: 391.0,469.0,16.63
+908.88 seconds
+Nodes In Queue: 10
+Bounds: [392.0,469.0]
+Optimality Gap: 16.42%
+Data: 392.0,469.0,16.42
+1152.72 seconds
+Nodes In Queue: 13
+Bounds: [393.0,469.0]
+Optimality Gap: 16.2%
+Data: 393.0,469.0,16.2
+1775.41 seconds
+Nodes In Queue: 22
+Bounds: [394.0,469.0]
+Optimality Gap: 15.989999999999998%
+Data: 394.0,469.0,15.989999999999998
+2549.19 seconds
+Nodes In Queue: 33

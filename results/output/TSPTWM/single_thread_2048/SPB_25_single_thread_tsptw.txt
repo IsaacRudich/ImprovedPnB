@@ -1,0 +1,39 @@
+File Name: rc_207.2.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+3.97 seconds
+Bounds: [673.0416,NA]
+Data: 673.0416,9223372036854775807,100.0
+14.02 seconds
+Improved Solution:
+Sequence: 1 19 10 14 11 7 15 18 22 8 23 2 4 3 24 20 13 12 9 5 27 21 26 17 31 6 30 16 28 25 29 32 
+Cost: 720.2555
+Bounds: [673.0416,720.2555]
+Optimality Gap: 6.5600000000000005%
+Data: 673.0416,720.2555,6.5600000000000005
+73.74 seconds
+Nodes In Queue: 1
+Bounds: [674.8575999999999,720.2555]
+Optimality Gap: 6.3%
+Data: 674.8575999999999,720.2555,6.3
+99.77 seconds
+Nodes In Queue: 2
+Bounds: [681.1049,720.2555]
+Optimality Gap: 5.4399999999999995%
+Data: 681.1049,720.2555,5.4399999999999995
+105.43 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 19 14 10 11 7 15 18 22 8 23 2 4 3 24 20 13 12 9 27 26 17 31 6 5 30 21 16 28 25 29 32 
+Cost: 713.8951999999999
+110.75 seconds
+Bounds: [713.8951999999999,713.8951999999999]
+Optimality Gap: 0.0%
+Data: 713.8951999999999,713.8951999999999,0.0
+110.75 seconds

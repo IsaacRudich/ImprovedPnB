@@ -1,0 +1,20 @@
+File Name: ESC12.sop
+Peel Setting: frontier
+Max Width: 2048
+Variety Search Width: 5
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 5 9 11 10 8 2 4 6 12 3 7 13 14 
+Cost: 1675
+0.6 seconds
+Optimal Solution Found:
+Sequence: 1 5 9 11 10 8 2 4 6 12 3 7 13 14 
+Cost: 1675
+0.94 seconds
+Bounds: [1675,1675]
+Optimality Gap: 0.0%
+Data: 1675,1675,0.0
+0.94 seconds

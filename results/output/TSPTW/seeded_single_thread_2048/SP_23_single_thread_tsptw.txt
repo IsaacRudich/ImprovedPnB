@@ -1,0 +1,45 @@
+File Name: rc207.1
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [641.7611,726.36]
+Optimality Gap: 11.65%
+Data: 641.7611,726.36,11.65
+20.24 seconds
+Nodes In Queue: 1
+Bounds: [681.5260000000001,726.36]
+Optimality Gap: 6.17%
+Data: 681.5260000000001,726.36,6.17
+47.97 seconds
+Nodes In Queue: 2
+Improved Solution:
+Sequence: 1 28 2 15 3 13 14 12 11 23 22 33 30 19 25 34 32 18 26 27 20 17 10 7 6 8 9 29 16 5 4 21 31 24 35 
+Cost: 726.3588000000001
+Bounds: [686.1972000000001,726.3588000000001]
+Optimality Gap: 5.53%
+Data: 686.1972000000001,726.3588000000001,5.53
+53.25 seconds
+Nodes In Queue: 2
+Bounds: [693.3696000000001,726.3588000000001]
+Optimality Gap: 4.54%
+Data: 693.3696000000001,726.3588000000001,4.54
+53.85 seconds
+Nodes In Queue: 2
+Bounds: [722.4787,726.3588000000001]
+Optimality Gap: 0.53%
+Data: 722.4787,726.3588000000001,0.53
+58.33 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 28 2 15 3 13 14 12 11 23 22 33 30 19 25 34 32 18 26 27 20 17 10 7 6 8 9 29 16 5 4 21 31 24 35 
+Cost: 726.3588000000001
+61.84 seconds
+Bounds: [726.3588000000001,726.3588000000001]
+Optimality Gap: 0.0%
+Data: 726.3588000000001,726.3588000000001,0.0
+61.84 seconds

@@ -1,0 +1,24 @@
+File Name: n100w140.005.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [262.0,509.0]
+Optimality Gap: 48.53%
+Data: 262.0,509.0,48.53
+225.4 seconds
+Nodes In Queue: 1
+Bounds: [345.0,509.0]
+Optimality Gap: 32.22%
+Data: 345.0,509.0,32.22
+678.27 seconds
+Nodes In Queue: 2
+Bounds: [346.0,509.0]
+Optimality Gap: 32.019999999999996%
+Data: 346.0,509.0,32.019999999999996
+2133.75 seconds
+Nodes In Queue: 5

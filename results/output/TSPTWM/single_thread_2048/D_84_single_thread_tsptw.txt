@@ -1,0 +1,21 @@
+File Name: n40w60.004.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 14 20 27 34 4 8 16 29 10 30 32 31 19 38 5 15 39 33 25 37 7 9 12 11 24 35 22 40 6 17 36 21 3 28 2 26 13 23 41 18 42 
+Cost: 475
+8.9 seconds
+Optimal Solution Found:
+Sequence: 1 14 20 27 34 4 8 16 29 10 30 32 31 19 38 5 15 39 33 25 37 7 9 12 11 24 35 22 40 6 17 36 21 3 28 2 26 13 23 41 18 42 
+Cost: 475
+20.68 seconds
+Bounds: [475.0,475.0]
+Optimality Gap: 0.0%
+Data: 475.0,475.0,0.0
+20.68 seconds

@@ -1,0 +1,29 @@
+File Name: rbg172a.tw
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [8035.0,10950.0]
+Optimality Gap: 26.619999999999997%
+Data: 8035.0,10950.0,26.619999999999997
+403.92 seconds
+Nodes In Queue: 1
+Bounds: [9174.0,10950.0]
+Optimality Gap: 16.220000000000002%
+Data: 9174.0,10950.0,16.220000000000002
+966.97 seconds
+Nodes In Queue: 2
+Bounds: [9767.0,10950.0]
+Optimality Gap: 10.8%
+Data: 9767.0,10950.0,10.8
+1735.11 seconds
+Nodes In Queue: 4
+Bounds: [10082.0,10950.0]
+Optimality Gap: 7.93%
+Data: 10082.0,10950.0,7.93
+3068.71 seconds
+Nodes In Queue: 8

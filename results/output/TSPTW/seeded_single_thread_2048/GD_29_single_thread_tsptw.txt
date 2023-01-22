@@ -1,0 +1,19 @@
+File Name: n20w120.004.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [254.0,300.0]
+Optimality Gap: 15.329999999999998%
+Data: 254.0,300.0,15.329999999999998
+4.01 seconds
+Nodes In Queue: 1
+5.67 seconds
+Bounds: [300.0,300.0]
+Optimality Gap: 0.0%
+Data: 300.0,300.0,0.0
+5.67 seconds

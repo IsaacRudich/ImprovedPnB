@@ -1,0 +1,59 @@
+File Name: n100w80.001.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [388.0,670.0]
+Optimality Gap: 42.089999999999996%
+Data: 388.0,670.0,42.089999999999996
+177.65 seconds
+Nodes In Queue: 1
+Bounds: [494.0,670.0]
+Optimality Gap: 26.27%
+Data: 494.0,670.0,26.27
+371.4 seconds
+Nodes In Queue: 2
+Bounds: [499.0,670.0]
+Optimality Gap: 25.52%
+Data: 499.0,670.0,25.52
+500.89 seconds
+Nodes In Queue: 3
+Bounds: [582.0,670.0]
+Optimality Gap: 13.13%
+Data: 582.0,670.0,13.13
+575.67 seconds
+Nodes In Queue: 3
+Bounds: [584.0,670.0]
+Optimality Gap: 12.839999999999998%
+Data: 584.0,670.0,12.839999999999998
+680.2 seconds
+Nodes In Queue: 4
+Bounds: [585.0,670.0]
+Optimality Gap: 12.690000000000001%
+Data: 585.0,670.0,12.690000000000001
+737.4 seconds
+Nodes In Queue: 4
+Bounds: [586.0,670.0]
+Optimality Gap: 12.540000000000001%
+Data: 586.0,670.0,12.540000000000001
+833.44 seconds
+Nodes In Queue: 5
+Bounds: [589.0,670.0]
+Optimality Gap: 12.09%
+Data: 589.0,670.0,12.09
+932.94 seconds
+Nodes In Queue: 6
+Bounds: [590.0,670.0]
+Optimality Gap: 11.940000000000001%
+Data: 590.0,670.0,11.940000000000001
+1024.3 seconds
+Nodes In Queue: 7
+Bounds: [591.0,670.0]
+Optimality Gap: 11.790000000000001%
+Data: 591.0,670.0,11.790000000000001
+2730.73 seconds
+Nodes In Queue: 25

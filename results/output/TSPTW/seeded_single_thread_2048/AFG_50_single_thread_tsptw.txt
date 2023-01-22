@@ -1,0 +1,39 @@
+File Name: rbg233.tw
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [11592.0,14992.0]
+Optimality Gap: 22.68%
+Data: 11592.0,14992.0,22.68
+574.31 seconds
+Nodes In Queue: 1
+Bounds: [12361.0,14992.0]
+Optimality Gap: 17.549999999999997%
+Data: 12361.0,14992.0,17.549999999999997
+1290.5 seconds
+Nodes In Queue: 2
+Bounds: [12425.0,14992.0]
+Optimality Gap: 17.119999999999997%
+Data: 12425.0,14992.0,17.119999999999997
+1824.61 seconds
+Nodes In Queue: 3
+Bounds: [12955.0,14992.0]
+Optimality Gap: 13.59%
+Data: 12955.0,14992.0,13.59
+2343.72 seconds
+Nodes In Queue: 4
+Bounds: [12981.0,14992.0]
+Optimality Gap: 13.41%
+Data: 12981.0,14992.0,13.41
+3157.2 seconds
+Nodes In Queue: 6
+Bounds: [12988.0,14992.0]
+Optimality Gap: 13.370000000000001%
+Data: 12988.0,14992.0,13.370000000000001
+3560.71 seconds
+Nodes In Queue: 7

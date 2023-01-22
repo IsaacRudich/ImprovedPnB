@@ -1,0 +1,116 @@
+File Name: rbg049a.tw
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 3 2 4 5 6 11 13 22 10 14 24 7 12 17 16 15 8 26 9 18 19 32 20 21 33 23 31 25 28 27 29 36 30 34 37 35 44 41 38 43 42 48 46 39 40 49 47 45 50 51 
+Cost: 10082
+14.84 seconds
+Bounds: [9731.0,10082.0]
+Optimality Gap: 3.4799999999999995%
+Data: 9731.0,10082.0,3.4799999999999995
+43.02 seconds
+Improved Solution:
+Sequence: 1 2 3 4 5 6 10 14 24 7 18 12 11 16 22 13 15 8 9 17 19 32 20 33 21 23 31 36 26 25 28 27 30 29 34 37 38 43 35 44 41 42 48 46 39 40 49 47 45 50 51 
+Cost: 10044
+Bounds: [9731.0,10044.0]
+Optimality Gap: 3.1199999999999997%
+Data: 9731.0,10044.0,3.1199999999999997
+102.3 seconds
+Nodes In Queue: 1
+Bounds: [9839.0,10044.0]
+Optimality Gap: 2.04%
+Data: 9839.0,10044.0,2.04
+155.04 seconds
+Nodes In Queue: 2
+Bounds: [9855.0,10044.0]
+Optimality Gap: 1.8800000000000001%
+Data: 9855.0,10044.0,1.8800000000000001
+215.17 seconds
+Nodes In Queue: 2
+Bounds: [9859.0,10044.0]
+Optimality Gap: 1.8399999999999999%
+Data: 9859.0,10044.0,1.8399999999999999
+496.02 seconds
+Nodes In Queue: 4
+Bounds: [9865.0,10044.0]
+Optimality Gap: 1.78%
+Data: 9865.0,10044.0,1.78
+558.54 seconds
+Nodes In Queue: 6
+Bounds: [9866.0,10044.0]
+Optimality Gap: 1.77%
+Data: 9866.0,10044.0,1.77
+1296.47 seconds
+Nodes In Queue: 24
+Improved Solution:
+Sequence: 1 2 3 4 5 6 34 24 8 10 7 18 11 12 13 14 15 9 16 17 22 19 32 20 21 25 23 36 26 30 28 27 29 31 33 38 43 37 35 44 41 42 48 46 39 40 49 47 45 50 51 
+Cost: 10042
+Bounds: [9866.0,10042.0]
+Optimality Gap: 1.7500000000000002%
+Data: 9866.0,10042.0,1.7500000000000002
+1333.85 seconds
+Nodes In Queue: 25
+Bounds: [9868.0,10042.0]
+Optimality Gap: 1.73%
+Data: 9868.0,10042.0,1.73
+1448.3 seconds
+Nodes In Queue: 28
+Bounds: [9869.0,10042.0]
+Optimality Gap: 1.72%
+Data: 9869.0,10042.0,1.72
+1604.86 seconds
+Nodes In Queue: 32
+Bounds: [9870.0,10042.0]
+Optimality Gap: 1.71%
+Data: 9870.0,10042.0,1.71
+1758.33 seconds
+Nodes In Queue: 36
+Bounds: [9871.0,10042.0]
+Optimality Gap: 1.7000000000000002%
+Data: 9871.0,10042.0,1.7000000000000002
+1835.29 seconds
+Nodes In Queue: 38
+Bounds: [9872.0,10042.0]
+Optimality Gap: 1.69%
+Data: 9872.0,10042.0,1.69
+1886.71 seconds
+Nodes In Queue: 38
+Bounds: [9873.0,10042.0]
+Optimality Gap: 1.68%
+Data: 9873.0,10042.0,1.68
+1960.1 seconds
+Nodes In Queue: 40
+Bounds: [9874.0,10042.0]
+Optimality Gap: 1.67%
+Data: 9874.0,10042.0,1.67
+2094.01 seconds
+Nodes In Queue: 42
+Bounds: [9875.0,10042.0]
+Optimality Gap: 1.66%
+Data: 9875.0,10042.0,1.66
+2168.74 seconds
+Nodes In Queue: 44
+Improved Solution:
+Sequence: 1 2 3 4 5 6 12 11 13 26 8 10 14 24 7 18 16 15 9 17 22 19 32 20 33 21 23 31 25 28 27 30 29 34 35 36 37 39 44 41 38 43 42 48 46 40 49 47 45 50 51 
+Cost: 10034
+Bounds: [9875.0,10034.0]
+Optimality Gap: 1.58%
+Data: 9875.0,10034.0,1.58
+2484.18 seconds
+Nodes In Queue: 51
+Bounds: [9876.0,10034.0]
+Optimality Gap: 1.5699999999999998%
+Data: 9876.0,10034.0,1.5699999999999998
+2868.21 seconds
+Nodes In Queue: 60
+Bounds: [9877.0,10034.0]
+Optimality Gap: 1.5599999999999998%
+Data: 9877.0,10034.0,1.5599999999999998
+3206.93 seconds
+Nodes In Queue: 68

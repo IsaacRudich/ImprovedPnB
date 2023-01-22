@@ -1,0 +1,14 @@
+File Name: rc_203.1.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+3.19 seconds
+Bounds: [488.42,488.42]
+Optimality Gap: 0.0%
+Data: 488.42,488.42,0.0
+3.19 seconds

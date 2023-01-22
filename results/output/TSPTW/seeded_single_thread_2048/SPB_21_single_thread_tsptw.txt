@@ -1,0 +1,65 @@
+File Name: rc_206.2.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [641.8123000000002,828.06]
+Optimality Gap: 22.49%
+Data: 641.8123000000002,828.06,22.49
+13.05 seconds
+Nodes In Queue: 1
+Bounds: [734.8091000000001,828.06]
+Optimality Gap: 11.26%
+Data: 734.8091000000001,828.06,11.26
+33.02 seconds
+Nodes In Queue: 2
+Bounds: [742.6852,828.06]
+Optimality Gap: 10.31%
+Data: 742.6852,828.06,10.31
+43.12 seconds
+Nodes In Queue: 3
+Bounds: [765.2656000000001,828.06]
+Optimality Gap: 7.580000000000001%
+Data: 765.2656000000001,828.06,7.580000000000001
+51.49 seconds
+Nodes In Queue: 3
+Improved Solution:
+Sequence: 1 35 36 28 20 21 27 16 19 23 10 8 5 24 30 29 15 6 14 9 17 31 32 2 3 4 37 18 22 7 11 25 12 13 33 34 26 38 
+Cost: 828.0591000000001
+Bounds: [784.8115,828.0591000000001]
+Optimality Gap: 5.220000000000001%
+Data: 784.8115,828.0591000000001,5.220000000000001
+55.52 seconds
+Nodes In Queue: 3
+Bounds: [792.0763,828.0591000000001]
+Optimality Gap: 4.35%
+Data: 792.0763,828.0591000000001,4.35
+58.44 seconds
+Nodes In Queue: 3
+Bounds: [816.4563,828.0591000000001]
+Optimality Gap: 1.4000000000000001%
+Data: 816.4563,828.0591000000001,1.4000000000000001
+61.3 seconds
+Nodes In Queue: 3
+Bounds: [820.1888000000001,828.0591000000001]
+Optimality Gap: 0.95%
+Data: 820.1888000000001,828.0591000000001,0.95
+63.6 seconds
+Nodes In Queue: 2
+Bounds: [820.9005000000002,828.0591000000001]
+Optimality Gap: 0.86%
+Data: 820.9005000000002,828.0591000000001,0.86
+66.57 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 35 36 28 20 21 27 16 19 23 10 8 5 24 30 29 15 6 14 9 17 31 32 2 3 4 37 18 22 7 11 25 12 13 33 34 26 38 
+Cost: 828.0591000000001
+68.91 seconds
+Bounds: [828.0591000000001,828.0591000000001]
+Optimality Gap: 0.0%
+Data: 828.0591000000001,828.0591000000001,0.0
+68.91 seconds

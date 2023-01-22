@@ -1,0 +1,21 @@
+File Name: n60w80.004.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 13 31 43 29 16 48 2 55 21 33 45 18 60 36 51 40 28 7 14 15 57 54 25 38 12 20 42 50 56 59 27 10 37 52 44 46 8 23 39 41 6 35 49 4 17 32 34 53 19 3 5 24 9 22 58 26 47 30 61 11 62 
+Cost: 679
+19.89 seconds
+Optimal Solution Found:
+Sequence: 1 13 31 43 29 16 48 2 55 21 33 45 18 60 36 51 40 28 7 14 15 57 54 25 38 12 20 42 50 56 59 27 10 37 52 44 46 8 23 39 41 6 35 49 4 17 32 34 53 19 3 5 24 9 22 58 26 47 30 61 11 62 
+Cost: 679
+59.47 seconds
+Bounds: [679.0,679.0]
+Optimality Gap: 0.0%
+Data: 679.0,679.0,0.0
+59.47 seconds

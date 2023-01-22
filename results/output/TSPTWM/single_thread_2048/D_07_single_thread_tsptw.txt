@@ -1,0 +1,26 @@
+File Name: n100w40.002.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 39 10 81 82 45 38 97 34 55 21 17 28 78 62 20 29 14 43 35 74 94 59 63 99 65 37 92 13 58 9 8 76 96 33 16 86 95 73 71 26 3 50 84 66 100 51 57 47 93 5 4 91 67 54 19 7 18 72 69 12 89 2 44 36 11 90 31 6 27 61 88 30 77 83 56 48 22 60 24 85 46 80 15 52 41 49 79 32 68 25 40 42 53 98 23 64 101 75 87 70 102 
+Cost: 786
+38.98 seconds
+Bounds: [776.0,786.0]
+Optimality Gap: 1.27%
+Data: 776.0,786.0,1.27
+115.23 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 39 10 81 82 45 38 97 34 55 21 17 28 78 62 20 29 14 43 35 74 94 59 63 99 65 37 92 13 58 9 8 76 96 33 16 86 95 73 71 26 3 50 84 66 100 51 57 47 93 5 4 91 67 54 19 7 18 72 69 12 89 2 44 36 11 90 31 6 27 61 88 30 77 83 56 48 22 60 24 85 46 80 15 52 41 49 79 32 68 25 40 42 53 98 23 64 101 75 87 70 102 
+Cost: 786
+233.56 seconds
+Bounds: [786.0,786.0]
+Optimality Gap: 0.0%
+Data: 786.0,786.0,0.0
+233.56 seconds

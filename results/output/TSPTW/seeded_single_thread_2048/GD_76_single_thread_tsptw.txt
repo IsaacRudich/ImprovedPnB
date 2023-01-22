@@ -1,0 +1,79 @@
+File Name: n60w120.001.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [200.0,384.0]
+Optimality Gap: 47.92%
+Data: 200.0,384.0,47.92
+74.89 seconds
+Nodes In Queue: 1
+Bounds: [204.0,384.0]
+Optimality Gap: 46.88%
+Data: 204.0,384.0,46.88
+78.55 seconds
+Nodes In Queue: 1
+Bounds: [233.0,384.0]
+Optimality Gap: 39.32%
+Data: 233.0,384.0,39.32
+186.0 seconds
+Nodes In Queue: 2
+Bounds: [257.0,384.0]
+Optimality Gap: 33.07%
+Data: 257.0,384.0,33.07
+359.98 seconds
+Nodes In Queue: 4
+Bounds: [258.0,384.0]
+Optimality Gap: 32.81%
+Data: 258.0,384.0,32.81
+439.67 seconds
+Nodes In Queue: 5
+Bounds: [264.0,384.0]
+Optimality Gap: 31.25%
+Data: 264.0,384.0,31.25
+663.23 seconds
+Nodes In Queue: 8
+Bounds: [265.0,384.0]
+Optimality Gap: 30.990000000000002%
+Data: 265.0,384.0,30.990000000000002
+734.96 seconds
+Nodes In Queue: 9
+Bounds: [266.0,384.0]
+Optimality Gap: 30.73%
+Data: 266.0,384.0,30.73
+803.27 seconds
+Nodes In Queue: 10
+Bounds: [269.0,384.0]
+Optimality Gap: 29.95%
+Data: 269.0,384.0,29.95
+877.9 seconds
+Nodes In Queue: 11
+Bounds: [270.0,384.0]
+Optimality Gap: 29.69%
+Data: 270.0,384.0,29.69
+1087.85 seconds
+Nodes In Queue: 14
+Bounds: [271.0,384.0]
+Optimality Gap: 29.43%
+Data: 271.0,384.0,29.43
+1154.6 seconds
+Nodes In Queue: 15
+Bounds: [272.0,384.0]
+Optimality Gap: 29.17%
+Data: 272.0,384.0,29.17
+1290.91 seconds
+Nodes In Queue: 17
+Bounds: [273.0,384.0]
+Optimality Gap: 28.910000000000004%
+Data: 273.0,384.0,28.910000000000004
+1708.36 seconds
+Nodes In Queue: 23
+Bounds: [274.0,384.0]
+Optimality Gap: 28.65%
+Data: 274.0,384.0,28.65
+2208.46 seconds
+Nodes In Queue: 30

@@ -1,0 +1,83 @@
+File Name: n60w100.003.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 10 56 4 2 25 33 7 41 31 45 55 22 37 9 23 17 51 15 36 60 18 12 6 30 27 29 20 42 44 52 53 34 59 58 46 16 43 57 39 40 8 47 49 14 48 13 21 3 19 32 5 24 54 50 28 11 26 35 38 61 62 
+Cost: 579
+20.02 seconds
+Bounds: [388.0,579.0]
+Optimality Gap: 32.99%
+Data: 388.0,579.0,32.99
+48.54 seconds
+Improved Solution:
+Sequence: 1 10 56 4 2 25 33 7 41 31 45 55 36 15 51 23 17 9 37 22 30 60 18 12 6 27 20 29 42 52 53 34 59 40 39 57 43 16 8 46 58 44 47 49 48 14 13 21 32 5 19 3 24 50 28 11 26 54 35 38 61 62 
+Cost: 560
+Bounds: [388.0,560.0]
+Optimality Gap: 30.709999999999997%
+Data: 388.0,560.0,30.709999999999997
+72.83 seconds
+Nodes In Queue: 1
+Bounds: [476.0,560.0]
+Optimality Gap: 15.0%
+Data: 476.0,560.0,15.0
+147.61 seconds
+Nodes In Queue: 2
+Bounds: [477.0,560.0]
+Optimality Gap: 14.82%
+Data: 477.0,560.0,14.82
+195.9 seconds
+Nodes In Queue: 3
+Bounds: [503.0,560.0]
+Optimality Gap: 10.18%
+Data: 503.0,560.0,10.18
+238.47 seconds
+Nodes In Queue: 4
+Bounds: [519.0,560.0]
+Optimality Gap: 7.32%
+Data: 519.0,560.0,7.32
+275.67 seconds
+Nodes In Queue: 5
+Bounds: [523.0,560.0]
+Optimality Gap: 6.61%
+Data: 523.0,560.0,6.61
+300.98 seconds
+Nodes In Queue: 5
+Bounds: [524.0,560.0]
+Optimality Gap: 6.43%
+Data: 524.0,560.0,6.43
+318.46 seconds
+Nodes In Queue: 5
+Bounds: [525.0,560.0]
+Optimality Gap: 6.25%
+Data: 525.0,560.0,6.25
+328.15 seconds
+Nodes In Queue: 4
+Bounds: [532.0,560.0]
+Optimality Gap: 5.0%
+Data: 532.0,560.0,5.0
+336.43 seconds
+Nodes In Queue: 3
+Bounds: [538.0,560.0]
+Optimality Gap: 3.93%
+Data: 538.0,560.0,3.93
+346.98 seconds
+Nodes In Queue: 2
+Bounds: [544.0,560.0]
+Optimality Gap: 2.86%
+Data: 544.0,560.0,2.86
+356.0 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 10 56 4 2 25 33 7 41 31 45 55 36 15 51 23 17 9 37 22 30 60 18 12 6 27 20 29 42 52 53 34 59 40 39 57 43 16 8 46 58 44 47 49 48 14 13 21 32 5 19 3 24 50 28 11 26 54 35 38 61 62 
+Cost: 560
+361.9 seconds
+Bounds: [560.0,560.0]
+Optimality Gap: 0.0%
+Data: 560.0,560.0,0.0
+361.9 seconds

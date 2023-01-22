@@ -1,0 +1,22 @@
+File Name: rc_201.3.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [789.8311,790.61]
+Optimality Gap: 0.1%
+Data: 789.8311,790.61,0.1
+1.32 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 13 15 16 6 18 3 31 23 28 10 11 25 8 29 20 26 27 7 9 19 4 30 21 14 12 17 2 5 22 32 24 33 
+Cost: 790.6069
+3.12 seconds
+Bounds: [790.6069,790.6069]
+Optimality Gap: 0.0%
+Data: 790.6069,790.6069,0.0
+3.12 seconds

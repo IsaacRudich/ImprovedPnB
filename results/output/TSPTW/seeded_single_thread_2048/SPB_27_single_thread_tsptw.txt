@@ -1,0 +1,17 @@
+File Name: rc_207.4.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Optimal Solution Found:
+Sequence: 1 6 4 3 5 2 7 
+Cost: 119.6388
+0.2 seconds
+Bounds: [119.6388,119.6388]
+Optimality Gap: 0.0%
+Data: 119.6388,119.6388,0.0
+0.2 seconds

@@ -1,0 +1,90 @@
+File Name: rbg050b.tw
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 3 2 4 5 12 6 19 10 13 16 9 11 14 30 15 7 32 8 18 17 21 27 20 26 22 24 23 37 25 31 29 36 28 33 34 38 35 40 46 45 48 47 39 43 42 41 44 51 49 50 52 
+Cost: 9898
+15.05 seconds
+Bounds: [9508.0,9898.0]
+Optimality Gap: 3.94%
+Data: 9508.0,9898.0,3.94
+47.53 seconds
+Improved Solution:
+Sequence: 1 3 2 4 5 12 6 19 10 9 14 30 11 13 16 15 7 32 8 18 17 21 22 20 23 37 25 31 24 27 26 29 36 28 34 33 35 40 43 42 41 38 46 45 50 39 44 51 49 48 47 52 
+Cost: 9876
+Bounds: [9508.0,9876.0]
+Optimality Gap: 3.73%
+Data: 9508.0,9876.0,3.73
+102.48 seconds
+Nodes In Queue: 1
+Bounds: [9686.0,9876.0]
+Optimality Gap: 1.92%
+Data: 9686.0,9876.0,1.92
+162.49 seconds
+Nodes In Queue: 2
+Bounds: [9687.0,9876.0]
+Optimality Gap: 1.91%
+Data: 9687.0,9876.0,1.91
+196.74 seconds
+Nodes In Queue: 2
+Bounds: [9701.0,9876.0]
+Optimality Gap: 1.77%
+Data: 9701.0,9876.0,1.77
+230.99 seconds
+Nodes In Queue: 2
+Bounds: [9702.0,9876.0]
+Optimality Gap: 1.76%
+Data: 9702.0,9876.0,1.76
+403.28 seconds
+Nodes In Queue: 4
+Bounds: [9703.0,9876.0]
+Optimality Gap: 1.7500000000000002%
+Data: 9703.0,9876.0,1.7500000000000002
+698.45 seconds
+Nodes In Queue: 8
+Bounds: [9704.0,9876.0]
+Optimality Gap: 1.7399999999999998%
+Data: 9704.0,9876.0,1.7399999999999998
+967.68 seconds
+Nodes In Queue: 13
+Bounds: [9705.0,9876.0]
+Optimality Gap: 1.73%
+Data: 9705.0,9876.0,1.73
+1219.89 seconds
+Nodes In Queue: 17
+Bounds: [9706.0,9876.0]
+Optimality Gap: 1.72%
+Data: 9706.0,9876.0,1.72
+1515.74 seconds
+Nodes In Queue: 23
+Bounds: [9707.0,9876.0]
+Optimality Gap: 1.71%
+Data: 9707.0,9876.0,1.71
+1811.53 seconds
+Nodes In Queue: 29
+Bounds: [9708.0,9876.0]
+Optimality Gap: 1.7000000000000002%
+Data: 9708.0,9876.0,1.7000000000000002
+2199.59 seconds
+Nodes In Queue: 38
+Bounds: [9709.0,9876.0]
+Optimality Gap: 1.69%
+Data: 9709.0,9876.0,1.69
+2460.06 seconds
+Nodes In Queue: 44
+Bounds: [9710.0,9876.0]
+Optimality Gap: 1.68%
+Data: 9710.0,9876.0,1.68
+2606.23 seconds
+Nodes In Queue: 47
+Bounds: [9711.0,9876.0]
+Optimality Gap: 1.67%
+Data: 9711.0,9876.0,1.67
+3033.37 seconds
+Nodes In Queue: 56

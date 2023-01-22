@@ -1,0 +1,14 @@
+File Name: rbg193.tw
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+397.71 seconds
+Bounds: [21401.0,21401.0]
+Optimality Gap: 0.0%
+Data: 21401.0,21401.0,0.0
+397.71 seconds

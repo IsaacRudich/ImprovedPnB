@@ -1,0 +1,109 @@
+File Name: rc_208.2.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 20 25 19 21 22 13 15 10 9 7 11 12 17 24 28 18 5 2 3 4 27 29 16 8 6 14 23 26 30 
+Cost: 631.2047
+11.47 seconds
+Bounds: [487.85540000000003,631.2047]
+Optimality Gap: 22.71%
+Data: 487.85540000000003,631.2047,22.71
+28.37 seconds
+Improved Solution:
+Sequence: 1 20 25 19 18 5 2 3 4 21 22 9 10 15 13 17 24 12 11 7 6 8 14 27 28 29 16 23 26 30 
+Cost: 595.2752
+Bounds: [487.85540000000003,595.2752]
+Optimality Gap: 18.05%
+Data: 487.85540000000003,595.2752,18.05
+356.86 seconds
+Nodes In Queue: 1
+Bounds: [506.78309999999993,595.2752]
+Optimality Gap: 14.87%
+Data: 506.78309999999993,595.2752,14.87
+379.78 seconds
+Nodes In Queue: 2
+Bounds: [510.7188,595.2752]
+Optimality Gap: 14.2%
+Data: 510.7188,595.2752,14.2
+395.6 seconds
+Nodes In Queue: 3
+Bounds: [519.6434999999999,595.2752]
+Optimality Gap: 12.709999999999999%
+Data: 519.6434999999999,595.2752,12.709999999999999
+410.44 seconds
+Nodes In Queue: 4
+Bounds: [524.1285,595.2752]
+Optimality Gap: 11.95%
+Data: 524.1285,595.2752,11.95
+422.37 seconds
+Nodes In Queue: 5
+Bounds: [528.4672,595.2752]
+Optimality Gap: 11.219999999999999%
+Data: 528.4672,595.2752,11.219999999999999
+434.32 seconds
+Nodes In Queue: 6
+Bounds: [528.6634,595.2752]
+Optimality Gap: 11.19%
+Data: 528.6634,595.2752,11.19
+448.81 seconds
+Nodes In Queue: 7
+Bounds: [555.4756,595.2752]
+Optimality Gap: 6.69%
+Data: 555.4756,595.2752,6.69
+459.03 seconds
+Nodes In Queue: 8
+Improved Solution:
+Sequence: 1 20 25 19 18 5 2 3 4 21 22 12 10 9 11 15 13 17 24 28 27 8 6 7 14 16 29 23 26 30 
+Cost: 591.3366
+Bounds: [560.656,591.3366]
+Optimality Gap: 5.19%
+Data: 560.656,591.3366,5.19
+468.71 seconds
+Nodes In Queue: 9
+Improved Solution:
+Sequence: 1 20 25 19 18 5 2 3 4 21 22 24 26 17 12 13 15 10 9 7 6 8 11 14 16 29 27 28 23 30 
+Cost: 579.5087
+Bounds: [563.371,579.5087]
+Optimality Gap: 2.78%
+Data: 563.371,579.5087,2.78
+473.19 seconds
+Nodes In Queue: 6
+Bounds: [566.389,579.5087]
+Optimality Gap: 2.26%
+Data: 566.389,579.5087,2.26
+476.89 seconds
+Nodes In Queue: 5
+Bounds: [568.0612,579.5087]
+Optimality Gap: 1.9800000000000002%
+Data: 568.0612,579.5087,1.9800000000000002
+481.02 seconds
+Nodes In Queue: 4
+Bounds: [568.3358,579.5087]
+Optimality Gap: 1.9300000000000002%
+Data: 568.3358,579.5087,1.9300000000000002
+485.58 seconds
+Nodes In Queue: 3
+Bounds: [569.2814999999999,579.5087]
+Optimality Gap: 1.76%
+Data: 569.2814999999999,579.5087,1.76
+488.93 seconds
+Nodes In Queue: 2
+Bounds: [570.8314999999999,579.5087]
+Optimality Gap: 1.5%
+Data: 570.8314999999999,579.5087,1.5
+492.58 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 20 25 19 18 5 2 3 4 21 22 24 26 17 12 13 15 10 9 7 6 8 11 14 16 29 27 28 23 30 
+Cost: 579.5087
+496.91 seconds
+Bounds: [579.5087,579.5087]
+Optimality Gap: 0.0%
+Data: 579.5087,579.5087,0.0
+496.96 seconds

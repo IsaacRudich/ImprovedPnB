@@ -1,0 +1,19 @@
+File Name: n40w140.001.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [386.0,460.0]
+Optimality Gap: 16.09%
+Data: 386.0,460.0,16.09
+17.11 seconds
+Nodes In Queue: 1
+53.39 seconds
+Bounds: [460.0,460.0]
+Optimality Gap: 0.0%
+Data: 460.0,460.0,0.0
+53.39 seconds

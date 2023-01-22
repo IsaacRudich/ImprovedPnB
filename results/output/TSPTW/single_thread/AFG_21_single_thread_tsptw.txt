@@ -1,0 +1,26 @@
+File Name: rbg027a.tw
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 24 23 25 26 27 28 29 
+Cost: 5091
+1.2 seconds
+Bounds: [4901.0,5091.0]
+Optimality Gap: 3.73%
+Data: 4901.0,5091.0,3.73
+7.86 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 24 23 25 26 27 28 29 
+Cost: 5091
+10.69 seconds
+Bounds: [5091.0,5091.0]
+Optimality Gap: 0.0%
+Data: 5091.0,5091.0,0.0
+10.69 seconds

@@ -1,0 +1,80 @@
+File Name: rc_202.4.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [631.6312999999998,793.03]
+Optimality Gap: 20.349999999999998%
+Data: 631.6312999999998,793.03,20.349999999999998
+10.66 seconds
+Nodes In Queue: 1
+Improved Solution:
+Sequence: 1 25 22 9 6 5 27 15 8 14 23 20 17 19 10 24 21 3 12 18 26 4 11 7 2 13 28 16 29 
+Cost: 793.0296
+Bounds: [685.0256999999999,793.0296]
+Optimality Gap: 13.62%
+Data: 685.0256999999999,793.0296,13.62
+28.65 seconds
+Nodes In Queue: 2
+Bounds: [701.0269,793.0296]
+Optimality Gap: 11.600000000000001%
+Data: 701.0269,793.0296,11.600000000000001
+40.9 seconds
+Nodes In Queue: 3
+Bounds: [703.3621999999999,793.0296]
+Optimality Gap: 11.31%
+Data: 703.3621999999999,793.0296,11.31
+50.41 seconds
+Nodes In Queue: 4
+Bounds: [717.5295,793.0296]
+Optimality Gap: 9.520000000000001%
+Data: 717.5295,793.0296,9.520000000000001
+56.84 seconds
+Nodes In Queue: 5
+Bounds: [718.8208,793.0296]
+Optimality Gap: 9.36%
+Data: 718.8208,793.0296,9.36
+59.7 seconds
+Nodes In Queue: 5
+Bounds: [756.7817999999999,793.0296]
+Optimality Gap: 4.569999999999999%
+Data: 756.7817999999999,793.0296,4.569999999999999
+64.4 seconds
+Nodes In Queue: 6
+Bounds: [767.5066,793.0296]
+Optimality Gap: 3.2199999999999998%
+Data: 767.5066,793.0296,3.2199999999999998
+66.2 seconds
+Nodes In Queue: 5
+Bounds: [768.3437,793.0296]
+Optimality Gap: 3.11%
+Data: 768.3437,793.0296,3.11
+67.73 seconds
+Nodes In Queue: 4
+Bounds: [776.7112000000001,793.0296]
+Optimality Gap: 2.06%
+Data: 776.7112000000001,793.0296,2.06
+69.45 seconds
+Nodes In Queue: 3
+Bounds: [776.8555000000001,793.0296]
+Optimality Gap: 2.04%
+Data: 776.8555000000001,793.0296,2.04
+70.81 seconds
+Nodes In Queue: 2
+Bounds: [786.3598000000001,793.0296]
+Optimality Gap: 0.84%
+Data: 786.3598000000001,793.0296,0.84
+72.7 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 25 22 9 6 5 27 15 8 14 23 20 17 19 10 24 21 3 12 18 26 4 11 7 2 13 28 16 29 
+Cost: 793.0296
+73.79 seconds
+Bounds: [793.0296,793.0296]
+Optimality Gap: 0.0%
+Data: 793.0296,793.0296,0.0
+73.79 seconds

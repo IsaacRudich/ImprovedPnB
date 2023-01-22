@@ -1,0 +1,44 @@
+File Name: ESC78.sop
+Peel Setting: lastexactnode
+Max Width: 2048
+Variety Search Width: 5
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 2 4 3 11 8 17 22 30 21 35 57 36 12 58 10 52 23 38 24 39 6 15 9 60 14 31 61 5 40 19 26 7 27 62 13 43 66 45 46 74 25 47 78 53 37 75 33 55 65 72 59 49 79 16 28 67 29 76 71 44 70 69 68 18 32 77 51 42 54 41 50 20 63 34 56 64 73 48 80 
+Cost: 21045
+23.06 seconds
+Bounds: [4150,21045]
+Optimality Gap: 80.28%
+Data: 4150,21045,80.28
+234.39 seconds
+Improved Solution:
+Sequence: 1 2 4 3 11 8 6 14 27 15 17 49 30 21 35 57 7 12 25 24 23 38 22 39 36 16 60 29 37 58 59 52 61 5 26 40 28 31 62 13 51 46 74 45 43 66 9 19 33 47 78 44 53 69 75 68 18 32 76 70 72 50 67 54 42 79 73 71 55 10 41 63 20 65 34 56 48 77 64 80 
+Cost: 19635
+Bounds: [4150,19635]
+Optimality Gap: 78.86%
+Data: 4150,19635,78.86
+304.22 seconds
+Nodes In Queue: 1
+Bounds: [4250,19635]
+Optimality Gap: 78.35%
+Data: 4250,19635,78.35
+637.32 seconds
+Nodes In Queue: 2
+Bounds: [4300,19635]
+Optimality Gap: 78.10000000000001%
+Data: 4300,19635,78.10000000000001
+961.47 seconds
+Nodes In Queue: 3
+Bounds: [4425,19635]
+Optimality Gap: 77.46%
+Data: 4425,19635,77.46
+2302.98 seconds
+Nodes In Queue: 7
+Bounds: [4450,19635]
+Optimality Gap: 77.34%
+Data: 4450,19635,77.34
+3366.32 seconds
+Nodes In Queue: 10

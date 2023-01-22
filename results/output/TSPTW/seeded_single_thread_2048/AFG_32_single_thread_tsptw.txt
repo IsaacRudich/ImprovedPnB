@@ -1,0 +1,84 @@
+File Name: rbg049a.tw
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [9731.0,10018.0]
+Optimality Gap: 2.86%
+Data: 9731.0,10018.0,2.86
+25.71 seconds
+Nodes In Queue: 1
+Bounds: [9839.0,10018.0]
+Optimality Gap: 1.79%
+Data: 9839.0,10018.0,1.79
+70.9 seconds
+Nodes In Queue: 2
+Bounds: [9855.0,10018.0]
+Optimality Gap: 1.63%
+Data: 9855.0,10018.0,1.63
+121.7 seconds
+Nodes In Queue: 2
+Bounds: [9859.0,10018.0]
+Optimality Gap: 1.59%
+Data: 9859.0,10018.0,1.59
+360.22 seconds
+Nodes In Queue: 4
+Bounds: [9865.0,10018.0]
+Optimality Gap: 1.53%
+Data: 9865.0,10018.0,1.53
+402.01 seconds
+Nodes In Queue: 4
+Bounds: [9866.0,10018.0]
+Optimality Gap: 1.52%
+Data: 9866.0,10018.0,1.52
+734.46 seconds
+Nodes In Queue: 14
+Bounds: [9868.0,10018.0]
+Optimality Gap: 1.5%
+Data: 9868.0,10018.0,1.5
+868.84 seconds
+Nodes In Queue: 18
+Bounds: [9869.0,10018.0]
+Optimality Gap: 1.49%
+Data: 9869.0,10018.0,1.49
+1143.8 seconds
+Nodes In Queue: 26
+Bounds: [9871.0,10018.0]
+Optimality Gap: 1.47%
+Data: 9871.0,10018.0,1.47
+1185.71 seconds
+Nodes In Queue: 26
+Bounds: [9872.0,10018.0]
+Optimality Gap: 1.46%
+Data: 9872.0,10018.0,1.46
+1350.9 seconds
+Nodes In Queue: 30
+Bounds: [9873.0,10018.0]
+Optimality Gap: 1.4500000000000002%
+Data: 9873.0,10018.0,1.4500000000000002
+1491.37 seconds
+Nodes In Queue: 34
+Bounds: [9874.0,10018.0]
+Optimality Gap: 1.44%
+Data: 9874.0,10018.0,1.44
+1658.91 seconds
+Nodes In Queue: 38
+Bounds: [9875.0,10018.0]
+Optimality Gap: 1.43%
+Data: 9875.0,10018.0,1.43
+1718.95 seconds
+Nodes In Queue: 40
+Bounds: [9876.0,10018.0]
+Optimality Gap: 1.4200000000000002%
+Data: 9876.0,10018.0,1.4200000000000002
+2300.95 seconds
+Nodes In Queue: 54
+Bounds: [9877.0,10018.0]
+Optimality Gap: 1.41%
+Data: 9877.0,10018.0,1.41
+2500.59 seconds
+Nodes In Queue: 60

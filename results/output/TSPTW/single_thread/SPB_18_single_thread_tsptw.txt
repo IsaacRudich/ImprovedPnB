@@ -1,0 +1,36 @@
+File Name: rc_205.3.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 24 20 30 23 29 34 31 9 10 17 25 27 28 7 6 3 8 16 5 4 2 21 33 19 15 14 13 32 18 11 26 12 22 35 36 
+Cost: 825.0584999999999
+8.45 seconds
+Bounds: [696.9812,825.0584999999999]
+Optimality Gap: 15.52%
+Data: 696.9812,825.0584999999999,15.52
+21.62 seconds
+Nodes In Queue: 1
+Bounds: [790.0616999999999,825.0584999999999]
+Optimality Gap: 4.24%
+Data: 790.0616999999999,825.0584999999999,4.24
+51.27 seconds
+Nodes In Queue: 1
+Bounds: [819.0436,825.0584999999999]
+Optimality Gap: 0.73%
+Data: 819.0436,825.0584999999999,0.73
+55.66 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 24 20 30 23 29 34 31 9 10 17 25 27 28 7 6 3 8 16 5 4 2 21 33 19 15 14 13 32 18 11 26 12 22 35 36 
+Cost: 825.0584999999999
+59.0 seconds
+Bounds: [825.0584999999999,825.0584999999999]
+Optimality Gap: 0.0%
+Data: 825.0584999999999,825.0584999999999,0.0
+59.0 seconds

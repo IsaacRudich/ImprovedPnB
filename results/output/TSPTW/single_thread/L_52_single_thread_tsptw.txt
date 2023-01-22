@@ -1,0 +1,26 @@
+File Name: N60ft302.dat
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 8 2 35 25 16 24 60 27 5 13 49 19 56 17 31 45 59 21 23 6 26 20 32 54 15 3 53 11 52 44 36 43 9 39 4 46 29 30 42 10 14 58 7 22 57 33 28 40 48 38 41 37 51 12 18 47 50 55 34 61 
+Cost: 1089.5
+1.8 seconds
+Bounds: [1086.8999999999999,1089.5]
+Optimality Gap: 0.24%
+Data: 1086.8999999999999,1089.5,0.24
+2.34 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 8 2 35 25 16 24 60 27 5 13 49 19 56 17 31 45 59 21 23 6 26 20 32 54 15 3 53 11 52 44 36 43 9 39 4 46 29 30 42 10 14 58 7 22 57 33 28 40 48 38 41 37 51 12 18 47 50 55 34 61 
+Cost: 1089.5
+4.4 seconds
+Bounds: [1089.5,1089.5]
+Optimality Gap: 0.0%
+Data: 1089.5,1089.5,0.0
+4.4 seconds

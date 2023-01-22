@@ -1,0 +1,34 @@
+File Name: n200w20.005.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [598.0,1020.0]
+Optimality Gap: 41.370000000000005%
+Data: 598.0,1020.0,41.370000000000005
+479.24 seconds
+Nodes In Queue: 1
+Bounds: [868.0,1020.0]
+Optimality Gap: 14.899999999999999%
+Data: 868.0,1020.0,14.899999999999999
+751.21 seconds
+Nodes In Queue: 1
+Bounds: [936.0,1020.0]
+Optimality Gap: 8.24%
+Data: 936.0,1020.0,8.24
+923.97 seconds
+Nodes In Queue: 1
+Bounds: [1015.0,1020.0]
+Optimality Gap: 0.49%
+Data: 1015.0,1020.0,0.49
+1014.77 seconds
+Nodes In Queue: 1
+1059.73 seconds
+Bounds: [1020.0,1020.0]
+Optimality Gap: 0.0%
+Data: 1020.0,1020.0,0.0
+1059.73 seconds

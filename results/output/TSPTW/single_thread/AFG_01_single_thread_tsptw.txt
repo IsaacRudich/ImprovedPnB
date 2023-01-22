@@ -1,0 +1,17 @@
+File Name: rbg010a.tw
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Optimal Solution Found:
+Sequence: 1 5 2 3 6 4 7 9 8 10 11 12 
+Cost: 671
+0.08 seconds
+Bounds: [671.0,671.0]
+Optimality Gap: 0.0%
+Data: 671.0,671.0,0.0
+0.08 seconds

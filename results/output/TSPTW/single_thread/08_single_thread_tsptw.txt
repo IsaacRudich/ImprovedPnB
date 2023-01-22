@@ -1,0 +1,53 @@
+File Name: n100w40.003.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 42 46 41 4 49 96 71 85 7 45 21 35 22 44 30 15 23 60 67 63 20 76 59 65 11 36 70 62 86 97 48 25 77 74 32 28 92 50 13 56 94 12 95 66 69 91 39 47 3 99 33 87 19 98 90 8 80 53 93 37 78 18 84 24 55 38 72 27 68 52 54 29 31 83 89 17 79 58 9 75 5 16 88 100 61 64 10 51 2 82 43 14 73 57 26 34 40 101 81 6 102 
+Cost: 742
+36.7 seconds
+Bounds: [400.0,742.0]
+Optimality Gap: 46.089999999999996%
+Data: 400.0,742.0,46.089999999999996
+103.54 seconds
+Improved Solution:
+Sequence: 1 42 46 41 4 49 96 71 85 7 45 21 35 22 44 30 15 23 60 67 63 76 20 65 11 59 36 70 62 86 97 48 77 25 74 32 28 50 92 56 13 94 12 95 66 69 91 39 47 3 99 33 87 19 98 90 8 37 93 53 80 78 18 84 24 55 38 72 27 68 52 54 29 31 83 89 17 79 58 5 75 9 10 64 61 100 88 16 51 2 82 43 14 73 57 26 34 40 101 81 6 102 
+Cost: 736
+Bounds: [400.0,736.0]
+Optimality Gap: 45.65%
+Data: 400.0,736.0,45.65
+128.04 seconds
+Nodes In Queue: 1
+Bounds: [628.0,736.0]
+Optimality Gap: 14.67%
+Data: 628.0,736.0,14.67
+266.75 seconds
+Nodes In Queue: 2
+Bounds: [637.0,736.0]
+Optimality Gap: 13.450000000000001%
+Data: 637.0,736.0,13.450000000000001
+311.28 seconds
+Nodes In Queue: 2
+Bounds: [716.0,736.0]
+Optimality Gap: 2.7199999999999998%
+Data: 716.0,736.0,2.7199999999999998
+357.86 seconds
+Nodes In Queue: 2
+Bounds: [725.0,736.0]
+Optimality Gap: 1.49%
+Data: 725.0,736.0,1.49
+374.76 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 42 46 41 4 49 96 71 85 7 45 21 35 22 44 30 15 23 60 67 63 76 20 65 11 59 36 70 62 86 97 48 77 25 74 32 28 50 92 56 13 94 12 95 66 69 91 39 47 3 99 33 87 19 98 90 8 37 93 53 80 78 18 84 24 55 38 72 27 68 52 54 29 31 83 89 17 79 58 5 75 9 10 64 61 100 88 16 51 2 82 43 14 73 57 26 34 40 101 81 6 102 
+Cost: 736
+390.53 seconds
+Bounds: [736.0,736.0]
+Optimality Gap: 0.0%
+Data: 736.0,736.0,0.0
+390.53 seconds

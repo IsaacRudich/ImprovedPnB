@@ -1,0 +1,34 @@
+File Name: n40w100.002.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [231.0,358.0]
+Optimality Gap: 35.47%
+Data: 231.0,358.0,35.47
+14.94 seconds
+Nodes In Queue: 1
+Bounds: [291.0,358.0]
+Optimality Gap: 18.72%
+Data: 291.0,358.0,18.72
+46.99 seconds
+Nodes In Queue: 2
+Bounds: [303.0,358.0]
+Optimality Gap: 15.36%
+Data: 303.0,358.0,15.36
+60.9 seconds
+Nodes In Queue: 3
+Bounds: [346.0,358.0]
+Optimality Gap: 3.35%
+Data: 346.0,358.0,3.35
+67.18 seconds
+Nodes In Queue: 2
+73.49 seconds
+Bounds: [358.0,358.0]
+Optimality Gap: 0.0%
+Data: 358.0,358.0,0.0
+73.49 seconds

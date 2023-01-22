@@ -1,0 +1,74 @@
+File Name: rbg152.tw
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [7995.0,10032.0]
+Optimality Gap: 20.31%
+Data: 7995.0,10032.0,20.31
+194.88 seconds
+Nodes In Queue: 1
+Bounds: [8642.0,10032.0]
+Optimality Gap: 13.86%
+Data: 8642.0,10032.0,13.86
+409.13 seconds
+Nodes In Queue: 2
+Bounds: [8674.0,10032.0]
+Optimality Gap: 13.54%
+Data: 8674.0,10032.0,13.54
+560.89 seconds
+Nodes In Queue: 3
+Bounds: [9355.0,10032.0]
+Optimality Gap: 6.75%
+Data: 9355.0,10032.0,6.75
+690.66 seconds
+Nodes In Queue: 4
+Bounds: [9359.0,10032.0]
+Optimality Gap: 6.710000000000001%
+Data: 9359.0,10032.0,6.710000000000001
+735.91 seconds
+Nodes In Queue: 4
+Bounds: [9382.0,10032.0]
+Optimality Gap: 6.4799999999999995%
+Data: 9382.0,10032.0,6.4799999999999995
+815.63 seconds
+Nodes In Queue: 4
+Bounds: [9384.0,10032.0]
+Optimality Gap: 6.460000000000001%
+Data: 9384.0,10032.0,6.460000000000001
+877.95 seconds
+Nodes In Queue: 5
+Bounds: [10024.0,10032.0]
+Optimality Gap: 0.08%
+Data: 10024.0,10032.0,0.08
+941.66 seconds
+Nodes In Queue: 5
+Bounds: [10025.0,10032.0]
+Optimality Gap: 0.06999999999999999%
+Data: 10025.0,10032.0,0.06999999999999999
+957.46 seconds
+Nodes In Queue: 4
+Bounds: [10028.0,10032.0]
+Optimality Gap: 0.04%
+Data: 10028.0,10032.0,0.04
+970.92 seconds
+Nodes In Queue: 3
+Bounds: [10030.0,10032.0]
+Optimality Gap: 0.02%
+Data: 10030.0,10032.0,0.02
+984.61 seconds
+Nodes In Queue: 2
+Bounds: [10031.0,10032.0]
+Optimality Gap: 0.01%
+Data: 10031.0,10032.0,0.01
+997.57 seconds
+Nodes In Queue: 1
+1011.24 seconds
+Bounds: [10032.0,10032.0]
+Optimality Gap: 0.0%
+Data: 10032.0,10032.0,0.0
+1011.24 seconds

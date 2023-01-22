@@ -1,0 +1,74 @@
+File Name: n200w20.003.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [745.0,1050.0]
+Optimality Gap: 29.049999999999997%
+Data: 745.0,1050.0,29.049999999999997
+288.51 seconds
+Nodes In Queue: 1
+Bounds: [857.0,1050.0]
+Optimality Gap: 18.38%
+Data: 857.0,1050.0,18.38
+582.31 seconds
+Nodes In Queue: 2
+Bounds: [919.0,1050.0]
+Optimality Gap: 12.479999999999999%
+Data: 919.0,1050.0,12.479999999999999
+894.82 seconds
+Nodes In Queue: 4
+Bounds: [920.0,1050.0]
+Optimality Gap: 12.379999999999999%
+Data: 920.0,1050.0,12.379999999999999
+1004.73 seconds
+Nodes In Queue: 5
+Bounds: [921.0,1050.0]
+Optimality Gap: 12.29%
+Data: 921.0,1050.0,12.29
+1117.07 seconds
+Nodes In Queue: 6
+Bounds: [922.0,1050.0]
+Optimality Gap: 12.19%
+Data: 922.0,1050.0,12.19
+1206.57 seconds
+Nodes In Queue: 7
+Bounds: [1009.0,1050.0]
+Optimality Gap: 3.9%
+Data: 1009.0,1050.0,3.9
+1295.01 seconds
+Nodes In Queue: 8
+Bounds: [1010.0,1050.0]
+Optimality Gap: 3.81%
+Data: 1010.0,1050.0,3.81
+1331.43 seconds
+Nodes In Queue: 7
+Bounds: [1011.0,1050.0]
+Optimality Gap: 3.71%
+Data: 1011.0,1050.0,3.71
+1359.85 seconds
+Nodes In Queue: 6
+Bounds: [1039.0,1050.0]
+Optimality Gap: 1.05%
+Data: 1039.0,1050.0,1.05
+1417.09 seconds
+Nodes In Queue: 4
+Bounds: [1040.0,1050.0]
+Optimality Gap: 0.95%
+Data: 1040.0,1050.0,0.95
+1471.75 seconds
+Nodes In Queue: 2
+Bounds: [1042.0,1050.0]
+Optimality Gap: 0.76%
+Data: 1042.0,1050.0,0.76
+1498.54 seconds
+Nodes In Queue: 1
+1523.48 seconds
+Bounds: [1050.0,1050.0]
+Optimality Gap: 0.0%
+Data: 1050.0,1050.0,0.0
+1523.48 seconds

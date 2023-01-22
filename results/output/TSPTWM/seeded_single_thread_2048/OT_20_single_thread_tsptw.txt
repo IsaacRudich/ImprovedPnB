@@ -1,0 +1,14 @@
+File Name: n200w120.005.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+599.2 seconds
+Bounds: [1073.0,1073.0]
+Optimality Gap: 0.0%
+Data: 1073.0,1073.0,0.0
+599.2 seconds

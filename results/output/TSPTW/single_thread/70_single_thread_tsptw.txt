@@ -1,0 +1,48 @@
+File Name: n40w100.005.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 2 30 13 21 7 25 5 38 26 27 29 15 35 16 22 14 34 28 17 3 40 8 33 24 31 4 19 6 11 37 32 20 9 36 12 23 18 10 41 39 42 
+Cost: 397
+11.14 seconds
+Bounds: [273.0,397.0]
+Optimality Gap: 31.230000000000004%
+Data: 273.0,397.0,31.230000000000004
+27.97 seconds
+Improved Solution:
+Sequence: 1 2 30 13 21 7 25 5 38 26 27 29 15 35 16 22 14 34 28 3 17 32 40 8 37 9 36 11 19 6 24 31 4 33 12 23 20 18 10 41 39 42 
+Cost: 384
+Bounds: [273.0,384.0]
+Optimality Gap: 28.910000000000004%
+Data: 273.0,384.0,28.910000000000004
+39.16 seconds
+Nodes In Queue: 1
+Bounds: [324.0,384.0]
+Optimality Gap: 15.620000000000001%
+Data: 324.0,384.0,15.620000000000001
+71.59 seconds
+Nodes In Queue: 2
+Bounds: [336.0,384.0]
+Optimality Gap: 12.5%
+Data: 336.0,384.0,12.5
+72.08 seconds
+Nodes In Queue: 2
+Bounds: [358.0,384.0]
+Optimality Gap: 6.77%
+Data: 358.0,384.0,6.77
+77.58 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 2 30 13 21 7 25 5 38 26 27 29 15 35 16 22 14 34 28 3 17 32 8 40 33 24 31 4 11 19 6 36 9 37 12 23 20 18 10 41 39 42 
+Cost: 377
+82.67 seconds
+Bounds: [377.0,377.0]
+Optimality Gap: 0.0%
+Data: 377.0,377.0,0.0
+82.67 seconds

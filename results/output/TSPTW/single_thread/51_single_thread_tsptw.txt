@@ -1,0 +1,17 @@
+File Name: n20w40.001.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Optimal Solution Found:
+Sequence: 1 6 14 18 7 12 20 9 5 8 2 13 3 10 16 19 17 4 15 11 21 22 
+Cost: 254
+0.12 seconds
+Bounds: [254.0,254.0]
+Optimality Gap: 0.0%
+Data: 254.0,254.0,0.0
+0.12 seconds

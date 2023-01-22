@@ -1,0 +1,19 @@
+File Name: n60w200.005.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [608.0,618.0]
+Optimality Gap: 1.6199999999999999%
+Data: 608.0,618.0,1.6199999999999999
+73.16 seconds
+Nodes In Queue: 1
+159.49 seconds
+Bounds: [618.0,618.0]
+Optimality Gap: 0.0%
+Data: 618.0,618.0,0.0
+159.49 seconds

@@ -1,0 +1,43 @@
+File Name: rc208.2
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 22 30 3 19 5 18 16 13 12 10 14 15 27 20 25 24 26 7 6 8 4 2 17 9 11 23 21 28 29 31 
+Cost: 615.3720999999999
+13.34 seconds
+Bounds: [533.8371999999999,615.3720999999999]
+Optimality Gap: 13.25%
+Data: 533.8371999999999,615.3720999999999,13.25
+29.9 seconds
+Improved Solution:
+Sequence: 1 23 10 13 16 18 19 3 27 22 30 20 25 24 26 7 6 8 5 4 2 17 14 9 11 12 15 21 28 29 31 
+Cost: 596.2072999999999
+Bounds: [533.8371999999999,596.2072999999999]
+Optimality Gap: 10.459999999999999%
+Data: 533.8371999999999,596.2072999999999,10.459999999999999
+247.47 seconds
+Nodes In Queue: 1
+Bounds: [587.6368,596.2072999999999]
+Optimality Gap: 1.44%
+Data: 587.6368,596.2072999999999,1.44
+265.18 seconds
+Nodes In Queue: 2
+Bounds: [595.7623,596.2072999999999]
+Optimality Gap: 0.06999999999999999%
+Data: 595.7623,596.2072999999999,0.06999999999999999
+271.72 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 23 10 13 16 18 19 3 27 22 30 20 25 24 26 7 6 8 5 4 2 17 14 9 11 12 15 21 28 29 31 
+Cost: 596.2072999999999
+276.6 seconds
+Bounds: [596.2072999999999,596.2072999999999]
+Optimality Gap: 0.0%
+Data: 596.2072999999999,596.2072999999999,0.0
+276.6 seconds

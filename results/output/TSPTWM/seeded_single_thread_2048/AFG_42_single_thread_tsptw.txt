@@ -1,0 +1,14 @@
+File Name: rbg132.tw
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+109.79 seconds
+Bounds: [18524.0,18524.0]
+Optimality Gap: 0.0%
+Data: 18524.0,18524.0,0.0
+109.79 seconds

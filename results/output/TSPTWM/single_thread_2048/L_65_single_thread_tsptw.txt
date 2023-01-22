@@ -1,0 +1,21 @@
+File Name: N60ft405.dat
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 4 55 59 47 36 60 10 13 30 35 28 2 40 33 18 26 25 12 14 56 38 45 23 17 22 46 43 29 48 3 19 41 7 54 42 15 51 5 44 34 58 57 37 31 27 32 8 20 39 24 9 53 49 11 16 50 6 52 21 61 
+Cost: 1212.5
+3.29 seconds
+Optimal Solution Found:
+Sequence: 1 4 55 59 47 36 60 10 13 30 35 28 2 40 33 18 26 25 12 14 56 38 45 23 17 22 46 43 29 48 3 19 41 7 54 42 15 51 5 44 34 58 57 37 31 27 32 8 20 39 24 9 53 49 11 16 50 6 52 21 61 
+Cost: 1212.5
+4.1 seconds
+Bounds: [1212.5,1212.5]
+Optimality Gap: 0.0%
+Data: 1212.5,1212.5,0.0
+4.1 seconds

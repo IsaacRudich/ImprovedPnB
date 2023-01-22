@@ -1,0 +1,14 @@
+File Name: rc_202.2.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+0.61 seconds
+Bounds: [304.14,304.14]
+Optimality Gap: 0.0%
+Data: 304.14,304.14,0.0
+0.61 seconds

@@ -1,0 +1,26 @@
+File Name: rc205.1
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 15 18 14 7 9 8 6 11 19 10 22 2 20 12 17 21 3 4 5 13 23 16 24 
+Cost: 491.221
+2.16 seconds
+Bounds: [475.6716,491.221]
+Optimality Gap: 3.17%
+Data: 475.6716,491.221,3.17
+7.74 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 15 18 14 7 9 8 6 11 19 10 22 2 20 12 17 21 3 4 5 13 23 16 24 
+Cost: 491.221
+13.17 seconds
+Bounds: [491.221,491.221]
+Optimality Gap: 0.0%
+Data: 491.221,491.221,0.0
+13.18 seconds

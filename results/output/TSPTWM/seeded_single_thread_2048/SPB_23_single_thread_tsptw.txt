@@ -1,0 +1,44 @@
+File Name: rc_206.4.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [809.7116,911.98]
+Optimality Gap: 11.21%
+Data: 809.7116,911.98,11.21
+15.84 seconds
+Nodes In Queue: 1
+Bounds: [854.3177,911.98]
+Optimality Gap: 6.32%
+Data: 854.3177,911.98,6.32
+49.51 seconds
+Nodes In Queue: 2
+Bounds: [869.0483000000002,911.98]
+Optimality Gap: 4.71%
+Data: 869.0483000000002,911.98,4.71
+75.17 seconds
+Nodes In Queue: 3
+Bounds: [876.0476,911.98]
+Optimality Gap: 3.94%
+Data: 876.0476,911.98,3.94
+89.83 seconds
+Nodes In Queue: 3
+Bounds: [897.3194,911.98]
+Optimality Gap: 1.6099999999999999%
+Data: 897.3194,911.98,1.6099999999999999
+97.65 seconds
+Nodes In Queue: 2
+Bounds: [901.7212999999999,911.98]
+Optimality Gap: 1.1199999999999999%
+Data: 901.7212999999999,911.98,1.1199999999999999
+103.13 seconds
+Nodes In Queue: 1
+107.78 seconds
+Bounds: [911.98,911.98]
+Optimality Gap: 0.0%
+Data: 911.98,911.98,0.0
+107.78 seconds

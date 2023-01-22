@@ -1,0 +1,58 @@
+File Name: n100w40.005.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 4 59 43 92 38 8 63 78 22 81 18 90 32 71 75 89 52 45 85 10 12 6 2 20 76 80 40 5 31 83 66 54 23 99 62 49 44 35 39 11 58 95 53 36 19 34 51 16 3 26 97 88 84 100 46 29 41 13 25 87 60 47 86 72 37 14 9 55 7 57 30 70 91 61 56 96 50 94 28 48 24 21 77 74 79 93 15 73 69 17 82 67 27 68 33 98 42 65 101 64 102 
+Cost: 714
+35.33 seconds
+Bounds: [448.0,714.0]
+Optimality Gap: 37.25%
+Data: 448.0,714.0,37.25
+170.11 seconds
+Improved Solution:
+Sequence: 1 4 59 22 8 38 92 43 78 63 81 18 90 32 71 75 89 52 45 85 10 12 6 2 20 76 80 40 5 31 83 66 54 23 99 62 49 44 35 39 11 58 95 53 36 19 34 51 16 3 26 97 88 84 100 46 29 41 25 13 87 60 47 86 72 37 14 9 55 7 57 30 70 91 61 56 96 50 93 79 74 94 28 48 77 21 15 24 73 69 17 82 67 27 68 33 98 42 65 101 64 102 
+Cost: 699
+Bounds: [448.0,699.0]
+Optimality Gap: 35.91%
+Data: 448.0,699.0,35.91
+199.06 seconds
+Nodes In Queue: 1
+Bounds: [564.0,699.0]
+Optimality Gap: 19.31%
+Data: 564.0,699.0,19.31
+371.74 seconds
+Nodes In Queue: 2
+Bounds: [567.0,699.0]
+Optimality Gap: 18.88%
+Data: 567.0,699.0,18.88
+425.6 seconds
+Nodes In Queue: 2
+Bounds: [592.0,699.0]
+Optimality Gap: 15.310000000000002%
+Data: 592.0,699.0,15.310000000000002
+427.46 seconds
+Nodes In Queue: 2
+Bounds: [644.0,699.0]
+Optimality Gap: 7.870000000000001%
+Data: 644.0,699.0,7.870000000000001
+477.31 seconds
+Nodes In Queue: 2
+Bounds: [649.0,699.0]
+Optimality Gap: 7.1499999999999995%
+Data: 649.0,699.0,7.1499999999999995
+499.15 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 4 59 22 8 38 92 43 78 63 81 18 90 32 71 75 89 52 45 85 10 12 6 2 20 76 80 40 5 31 83 66 54 23 99 62 49 44 35 39 11 58 95 53 36 19 34 51 16 3 26 97 88 84 100 46 29 41 25 13 87 60 47 86 72 37 14 9 55 7 57 30 70 91 61 56 96 50 93 79 74 94 28 48 77 21 15 24 73 69 17 82 67 27 68 33 98 42 65 101 64 102 
+Cost: 699
+518.71 seconds
+Bounds: [699.0,699.0]
+Optimality Gap: 0.0%
+Data: 699.0,699.0,0.0
+518.71 seconds

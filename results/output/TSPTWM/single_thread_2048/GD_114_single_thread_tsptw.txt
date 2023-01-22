@@ -1,0 +1,33 @@
+File Name: n80w140.004.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 79 9 6 21 25 55 41 62 49 73 30 22 75 42 77 65 11 46 72 33 61 26 52 23 60 78 27 7 45 44 17 37 10 57 63 35 34 80 47 40 3 19 32 51 38 64 59 71 31 56 16 48 29 15 2 14 43 68 66 50 28 4 53 24 70 20 74 18 76 13 5 67 12 36 39 8 54 58 81 69 82 
+Cost: 624
+53.89 seconds
+Bounds: [515.0,624.0]
+Optimality Gap: 17.47%
+Data: 515.0,624.0,17.47
+180.65 seconds
+Improved Solution:
+Sequence: 1 79 9 6 21 25 55 41 62 49 73 30 22 65 77 42 75 7 27 78 60 23 52 34 26 61 33 72 44 46 11 45 17 10 37 63 57 40 80 47 3 19 35 32 51 38 64 59 71 31 56 16 48 29 15 2 14 43 68 66 50 28 4 53 24 70 20 18 74 76 13 67 5 36 12 8 39 54 58 81 69 82 
+Cost: 612
+Bounds: [515.0,612.0]
+Optimality Gap: 15.85%
+Data: 515.0,612.0,15.85
+287.89 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 79 9 6 21 25 55 41 62 49 73 30 22 65 77 42 75 7 27 78 60 23 52 34 26 61 33 72 44 46 11 45 17 10 37 63 57 40 80 47 3 19 35 32 51 38 64 59 71 31 56 16 48 29 15 2 14 43 68 66 50 28 4 53 24 70 20 18 74 76 13 67 5 36 12 8 39 54 58 81 69 82 
+Cost: 612
+326.5 seconds
+Bounds: [612.0,612.0]
+Optimality Gap: 0.0%
+Data: 612.0,612.0,0.0
+326.5 seconds

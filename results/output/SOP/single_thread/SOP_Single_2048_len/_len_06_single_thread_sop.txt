@@ -1,0 +1,42 @@
+File Name: ESC63.sop
+Peel Setting: lastexactnode
+Max Width: 2048
+Variety Search Width: 5
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 43 32 7 44 6 45 55 10 34 3 30 38 40 63 36 39 17 51 28 53 8 16 60 21 33 20 15 22 31 4 42 5 25 46 59 61 56 49 2 52 11 27 14 13 37 24 58 9 54 19 23 12 18 35 48 29 57 41 62 64 50 47 26 65 
+Cost: 65
+37.3 seconds
+Bounds: [48,65]
+Optimality Gap: 26.150000000000002%
+Data: 48,65,26.150000000000002
+176.61 seconds
+Improved Solution:
+Sequence: 1 24 13 40 63 15 33 61 31 7 17 11 30 60 21 5 58 9 20 44 6 10 34 8 4 48 3 45 2 23 49 37 36 39 52 28 59 22 19 27 14 42 16 56 12 18 35 38 53 25 55 54 32 46 26 29 57 41 62 64 50 47 43 51 65 
+Cost: 62
+Bounds: [48,62]
+Optimality Gap: 22.58%
+Data: 48,62,22.58
+257.96 seconds
+Nodes In Queue: 1
+Bounds: [60,62]
+Optimality Gap: 3.2300000000000004%
+Data: 60,62,3.2300000000000004
+395.15 seconds
+Nodes In Queue: 2
+Bounds: [61,62]
+Optimality Gap: 1.6099999999999999%
+Data: 61,62,1.6099999999999999
+545.38 seconds
+Nodes In Queue: 4
+Optimal Solution Found:
+Sequence: 1 24 13 40 63 15 33 61 31 7 17 11 30 60 21 5 58 9 20 44 6 10 34 8 4 48 3 45 2 23 49 37 36 39 52 28 59 22 19 27 14 42 16 56 12 18 35 38 53 25 55 54 32 46 26 29 57 41 62 64 50 47 43 51 65 
+Cost: 62
+887.44 seconds
+Bounds: [62,62]
+Optimality Gap: 0.0%
+Data: 62,62,0.0
+887.45 seconds

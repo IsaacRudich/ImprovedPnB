@@ -1,0 +1,49 @@
+File Name: rbg132.tw
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [7210.0,8468.0]
+Optimality Gap: 14.860000000000001%
+Data: 7210.0,8468.0,14.860000000000001
+99.7 seconds
+Nodes In Queue: 1
+Bounds: [7708.0,8468.0]
+Optimality Gap: 8.97%
+Data: 7708.0,8468.0,8.97
+262.46 seconds
+Nodes In Queue: 2
+Bounds: [7729.0,8468.0]
+Optimality Gap: 8.73%
+Data: 7729.0,8468.0,8.73
+327.49 seconds
+Nodes In Queue: 2
+Bounds: [7995.0,8468.0]
+Optimality Gap: 5.59%
+Data: 7995.0,8468.0,5.59
+392.83 seconds
+Nodes In Queue: 2
+Bounds: [8016.0,8468.0]
+Optimality Gap: 5.34%
+Data: 8016.0,8468.0,5.34
+477.22 seconds
+Nodes In Queue: 3
+Bounds: [8447.0,8468.0]
+Optimality Gap: 0.25%
+Data: 8447.0,8468.0,0.25
+505.11 seconds
+Nodes In Queue: 2
+Bounds: [8457.0,8468.0]
+Optimality Gap: 0.13%
+Data: 8457.0,8468.0,0.13
+527.0 seconds
+Nodes In Queue: 1
+549.16 seconds
+Bounds: [8468.0,8468.0]
+Optimality Gap: 0.0%
+Data: 8468.0,8468.0,0.0
+549.16 seconds

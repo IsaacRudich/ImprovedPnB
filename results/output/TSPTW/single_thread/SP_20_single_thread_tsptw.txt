@@ -1,0 +1,36 @@
+File Name: rc206.1
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 31 32 22 15 13 11 12 14 16 27 23 28 18 24 9 10 8 6 7 17 20 29 30 33 2 4 3 5 21 19 34 26 25 35 
+Cost: 664.7312000000001
+8.06 seconds
+Bounds: [606.0726999999999,664.7312000000001]
+Optimality Gap: 8.82%
+Data: 606.0726999999999,664.7312000000001,8.82
+19.49 seconds
+Nodes In Queue: 1
+Bounds: [656.6086,664.7312000000001]
+Optimality Gap: 1.22%
+Data: 656.6086,664.7312000000001,1.22
+48.09 seconds
+Nodes In Queue: 2
+Bounds: [660.0265,664.7312000000001]
+Optimality Gap: 0.7100000000000001%
+Data: 660.0265,664.7312000000001,0.7100000000000001
+51.05 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 31 32 22 15 13 11 12 14 16 27 23 28 18 24 9 10 8 6 7 17 20 29 30 33 2 4 3 5 21 19 34 26 25 35 
+Cost: 664.7312000000001
+54.26 seconds
+Bounds: [664.7312000000001,664.7312000000001]
+Optimality Gap: 0.0%
+Data: 664.7312000000001,664.7312000000001,0.0
+54.26 seconds

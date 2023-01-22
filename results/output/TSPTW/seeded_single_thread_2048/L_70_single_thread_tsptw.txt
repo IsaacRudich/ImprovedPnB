@@ -1,0 +1,19 @@
+File Name: N60ft410.dat
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [1174.9000000000003,1189.6]
+Optimality Gap: 1.24%
+Data: 1174.9000000000003,1189.6,1.24
+3.98 seconds
+Nodes In Queue: 1
+7.72 seconds
+Bounds: [1189.6,1189.6]
+Optimality Gap: 0.0%
+Data: 1189.6,1189.6,0.0
+7.72 seconds

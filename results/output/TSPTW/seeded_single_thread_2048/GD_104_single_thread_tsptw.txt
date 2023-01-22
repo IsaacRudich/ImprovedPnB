@@ -1,0 +1,94 @@
+File Name: n80w100.004.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [260.0,649.0]
+Optimality Gap: 59.940000000000005%
+Data: 260.0,649.0,59.940000000000005
+77.39 seconds
+Nodes In Queue: 1
+Bounds: [375.0,649.0]
+Optimality Gap: 42.22%
+Data: 375.0,649.0,42.22
+80.52 seconds
+Nodes In Queue: 1
+Bounds: [451.0,649.0]
+Optimality Gap: 30.509999999999998%
+Data: 451.0,649.0,30.509999999999998
+195.4 seconds
+Nodes In Queue: 2
+Bounds: [452.0,649.0]
+Optimality Gap: 30.349999999999998%
+Data: 452.0,649.0,30.349999999999998
+284.96 seconds
+Nodes In Queue: 3
+Bounds: [580.0,649.0]
+Optimality Gap: 10.63%
+Data: 580.0,649.0,10.63
+371.88 seconds
+Nodes In Queue: 4
+Bounds: [586.0,649.0]
+Optimality Gap: 9.71%
+Data: 586.0,649.0,9.71
+437.75 seconds
+Nodes In Queue: 5
+Bounds: [587.0,649.0]
+Optimality Gap: 9.55%
+Data: 587.0,649.0,9.55
+512.63 seconds
+Nodes In Queue: 6
+Bounds: [591.0,649.0]
+Optimality Gap: 8.94%
+Data: 591.0,649.0,8.94
+577.56 seconds
+Nodes In Queue: 7
+Bounds: [617.0,649.0]
+Optimality Gap: 4.93%
+Data: 617.0,649.0,4.93
+614.6 seconds
+Nodes In Queue: 7
+Bounds: [619.0,649.0]
+Optimality Gap: 4.62%
+Data: 619.0,649.0,4.62
+759.79 seconds
+Nodes In Queue: 8
+Bounds: [621.0,649.0]
+Optimality Gap: 4.31%
+Data: 621.0,649.0,4.31
+793.63 seconds
+Nodes In Queue: 9
+Bounds: [622.0,649.0]
+Optimality Gap: 4.16%
+Data: 622.0,649.0,4.16
+807.91 seconds
+Nodes In Queue: 8
+Bounds: [627.0,649.0]
+Optimality Gap: 3.39%
+Data: 627.0,649.0,3.39
+820.51 seconds
+Nodes In Queue: 7
+Bounds: [628.0,649.0]
+Optimality Gap: 3.2399999999999998%
+Data: 628.0,649.0,3.2399999999999998
+844.3 seconds
+Nodes In Queue: 5
+Bounds: [629.0,649.0]
+Optimality Gap: 3.08%
+Data: 629.0,649.0,3.08
+867.79 seconds
+Nodes In Queue: 3
+Bounds: [646.0,649.0]
+Optimality Gap: 0.45999999999999996%
+Data: 646.0,649.0,0.45999999999999996
+879.4 seconds
+Nodes In Queue: 2
+904.33 seconds
+Bounds: [649.0,649.0]
+Optimality Gap: 0.0%
+Data: 649.0,649.0,0.0
+904.33 seconds

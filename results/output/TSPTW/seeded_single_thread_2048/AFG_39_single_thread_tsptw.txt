@@ -1,0 +1,44 @@
+File Name: rbg092a.tw
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [6218.0,7158.0]
+Optimality Gap: 13.13%
+Data: 6218.0,7158.0,13.13
+60.04 seconds
+Nodes In Queue: 1
+Bounds: [6789.0,7158.0]
+Optimality Gap: 5.16%
+Data: 6789.0,7158.0,5.16
+150.21 seconds
+Nodes In Queue: 2
+Bounds: [6818.0,7158.0]
+Optimality Gap: 4.75%
+Data: 6818.0,7158.0,4.75
+189.95 seconds
+Nodes In Queue: 2
+Bounds: [7046.0,7158.0]
+Optimality Gap: 1.5599999999999998%
+Data: 7046.0,7158.0,1.5599999999999998
+228.76 seconds
+Nodes In Queue: 2
+Bounds: [7075.0,7158.0]
+Optimality Gap: 1.16%
+Data: 7075.0,7158.0,1.16
+258.97 seconds
+Nodes In Queue: 2
+Bounds: [7155.0,7158.0]
+Optimality Gap: 0.04%
+Data: 7155.0,7158.0,0.04
+275.72 seconds
+Nodes In Queue: 1
+288.02 seconds
+Bounds: [7158.0,7158.0]
+Optimality Gap: 0.0%
+Data: 7158.0,7158.0,0.0
+288.02 seconds

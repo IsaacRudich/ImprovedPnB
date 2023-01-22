@@ -1,0 +1,26 @@
+File Name: n80w20.001.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 18 38 40 30 59 32 35 54 65 78 20 80 51 10 39 3 34 2 7 49 9 4 75 67 55 50 15 16 6 8 74 56 45 57 77 23 31 72 25 36 26 61 63 48 21 33 22 62 14 19 5 66 53 42 47 17 29 68 69 60 41 24 44 58 73 79 37 13 46 52 28 71 27 43 12 11 70 76 81 64 82 
+Cost: 616
+14.75 seconds
+Bounds: [507.0,616.0]
+Optimality Gap: 17.69%
+Data: 507.0,616.0,17.69
+41.46 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 18 38 40 30 59 32 35 54 65 78 20 80 51 10 39 3 34 2 7 49 9 4 75 67 55 50 15 16 6 8 74 56 45 57 77 23 31 72 25 36 26 61 63 48 21 33 22 62 14 19 5 66 53 42 47 17 29 68 69 60 41 24 44 58 73 79 37 13 46 52 28 71 27 43 12 11 70 76 81 64 82 
+Cost: 616
+58.66 seconds
+Bounds: [616.0,616.0]
+Optimality Gap: 0.0%
+Data: 616.0,616.0,0.0
+58.66 seconds

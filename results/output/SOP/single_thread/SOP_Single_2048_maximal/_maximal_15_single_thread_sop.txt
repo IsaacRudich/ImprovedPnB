@@ -1,0 +1,58 @@
+File Name: ft70.2.sop
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 5
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 22 25 57 34 32 31 16 12 9 8 4 7 5 24 56 52 51 54 39 40 43 70 66 69 68 64 67 65 49 44 35 30 28 23 26 14 15 11 10 6 21 19 18 17 20 42 37 38 61 60 58 29 27 55 53 47 46 63 62 59 45 50 48 36 41 33 13 3 2 71 
+Cost: 42135
+34.55 seconds
+Bounds: [32019,42135]
+Optimality Gap: 24.01%
+Data: 32019,42135,24.01
+221.49 seconds
+Nodes In Queue: 1
+Bounds: [32166,42135]
+Optimality Gap: 23.66%
+Data: 32166,42135,23.66
+646.94 seconds
+Nodes In Queue: 2
+Improved Solution:
+Sequence: 1 57 56 52 51 34 32 31 30 22 25 7 5 24 16 12 9 8 4 39 40 43 70 66 69 68 64 67 65 49 44 35 33 28 23 26 14 15 11 10 6 54 21 18 17 55 53 19 20 42 41 37 38 61 60 58 29 27 47 46 63 62 59 45 48 50 36 13 3 2 71 
+Cost: 41833
+Bounds: [32166,41833]
+Optimality Gap: 23.11%
+Data: 32166,41833,23.11
+981.88 seconds
+Nodes In Queue: 3
+Improved Solution:
+Sequence: 1 57 34 35 32 31 16 5 24 56 52 51 21 18 25 7 12 9 8 4 39 40 42 37 43 70 66 69 68 64 67 65 49 44 30 28 23 26 14 15 11 10 6 54 3 29 55 53 19 20 22 27 61 60 59 58 45 47 46 63 62 17 48 50 36 38 41 33 13 2 71 
+Cost: 41768
+Bounds: [32181,41768]
+Optimality Gap: 22.95%
+Data: 32181,41768,22.95
+1310.32 seconds
+Nodes In Queue: 4
+Bounds: [32235,41768]
+Optimality Gap: 22.82%
+Data: 32235,41768,22.82
+1644.94 seconds
+Nodes In Queue: 5
+Bounds: [32238,41768]
+Optimality Gap: 22.82%
+Data: 32238,41768,22.82
+1988.45 seconds
+Nodes In Queue: 6
+Bounds: [32256,41768]
+Optimality Gap: 22.770000000000003%
+Data: 32256,41768,22.770000000000003
+2296.55 seconds
+Nodes In Queue: 7
+Bounds: [32257,41768]
+Optimality Gap: 22.770000000000003%
+Data: 32257,41768,22.770000000000003
+2994.77 seconds
+Nodes In Queue: 9

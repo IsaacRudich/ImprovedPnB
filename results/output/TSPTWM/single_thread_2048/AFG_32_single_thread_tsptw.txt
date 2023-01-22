@@ -1,0 +1,21 @@
+File Name: rbg049a.tw
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 2 3 4 5 6 11 13 22 10 14 24 7 12 17 16 15 8 26 9 18 19 32 20 21 33 23 31 25 28 27 29 36 30 34 35 43 37 38 39 44 41 42 40 45 48 46 49 47 50 51 
+Cost: 13257
+15.39 seconds
+Optimal Solution Found:
+Sequence: 1 2 3 4 5 6 11 13 22 10 14 24 7 12 17 16 15 8 26 9 18 19 32 20 21 33 23 31 25 28 27 29 36 30 34 35 43 37 38 39 44 41 42 40 45 48 46 49 47 50 51 
+Cost: 13257
+43.08 seconds
+Bounds: [13257.0,13257.0]
+Optimality Gap: 0.0%
+Data: 13257.0,13257.0,0.0
+43.08 seconds

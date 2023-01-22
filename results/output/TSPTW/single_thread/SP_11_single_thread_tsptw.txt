@@ -1,0 +1,31 @@
+File Name: rc203.2
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 14 4 3 2 12 11 10 13 19 20 27 26 24 23 17 28 16 25 5 6 7 8 9 15 22 18 29 21 30 
+Cost: 617.4649999999998
+4.98 seconds
+Bounds: [517.2412,617.4649999999998]
+Optimality Gap: 16.23%
+Data: 517.2412,617.4649999999998,16.23
+16.15 seconds
+Nodes In Queue: 1
+Bounds: [588.4395999999997,617.4649999999998]
+Optimality Gap: 4.7%
+Data: 588.4395999999997,617.4649999999998,4.7
+40.24 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 14 4 3 2 12 11 10 13 19 20 27 26 24 23 17 28 16 25 5 6 7 8 9 15 22 18 29 21 30 
+Cost: 617.4649999999998
+42.21 seconds
+Bounds: [617.4649999999998,617.4649999999998]
+Optimality Gap: 0.0%
+Data: 617.4649999999998,617.4649999999998,0.0
+42.21 seconds

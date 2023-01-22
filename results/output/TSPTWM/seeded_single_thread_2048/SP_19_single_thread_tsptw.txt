@@ -1,0 +1,19 @@
+File Name: rc206.0
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [802.8513,893.21]
+Optimality Gap: 10.12%
+Data: 802.8513,893.21,10.12
+13.37 seconds
+Nodes In Queue: 1
+22.23 seconds
+Bounds: [893.21,893.21]
+Optimality Gap: 0.0%
+Data: 893.21,893.21,0.0
+22.23 seconds

@@ -1,0 +1,77 @@
+File Name: p43.3.sop
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 5
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 5 38 15 13 10 32 33 31 28 2 4 36 24 25 27 35 14 12 6 17 20 16 43 41 42 39 40 37 3 8 29 23 22 30 7 9 11 19 21 18 26 34 44 
+Cost: 29530
+7.29 seconds
+Bounds: [27555,29530]
+Optimality Gap: 6.69%
+Data: 27555,29530,6.69
+45.57 seconds
+Nodes In Queue: 1
+Bounds: [27980,29530]
+Optimality Gap: 5.25%
+Data: 27980,29530,5.25
+107.42 seconds
+Nodes In Queue: 2
+Bounds: [28000,29530]
+Optimality Gap: 5.18%
+Data: 28000,29530,5.18
+148.68 seconds
+Nodes In Queue: 3
+Bounds: [28010,29530]
+Optimality Gap: 5.1499999999999995%
+Data: 28010,29530,5.1499999999999995
+185.82 seconds
+Nodes In Queue: 4
+Bounds: [28020,29530]
+Optimality Gap: 5.11%
+Data: 28020,29530,5.11
+225.47 seconds
+Nodes In Queue: 5
+Bounds: [28030,29530]
+Optimality Gap: 5.08%
+Data: 28030,29530,5.08
+296.18 seconds
+Nodes In Queue: 7
+Bounds: [28040,29530]
+Optimality Gap: 5.050000000000001%
+Data: 28040,29530,5.050000000000001
+433.65 seconds
+Nodes In Queue: 11
+Bounds: [28045,29530]
+Optimality Gap: 5.029999999999999%
+Data: 28045,29530,5.029999999999999
+754.07 seconds
+Nodes In Queue: 20
+Bounds: [28050,29530]
+Optimality Gap: 5.01%
+Data: 28050,29530,5.01
+862.55 seconds
+Nodes In Queue: 23
+Bounds: [28055,29530]
+Optimality Gap: 4.99%
+Data: 28055,29530,4.99
+1639.39 seconds
+Nodes In Queue: 44
+Bounds: [28060,29530]
+Optimality Gap: 4.9799999999999995%
+Data: 28060,29530,4.9799999999999995
+1738.51 seconds
+Nodes In Queue: 47
+Bounds: [28065,29530]
+Optimality Gap: 4.96%
+Data: 28065,29530,4.96
+3126.06 seconds
+Nodes In Queue: 85
+Bounds: [28070,29530]
+Optimality Gap: 4.9399999999999995%
+Data: 28070,29530,4.9399999999999995
+3163.93 seconds
+Nodes In Queue: 86

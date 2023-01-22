@@ -1,0 +1,21 @@
+File Name: N60ft210.dat
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 21 2 23 38 5 28 35 17 3 54 37 22 47 58 24 59 9 19 6 32 15 33 56 27 14 8 53 26 55 16 30 34 44 36 13 4 51 41 18 48 52 25 29 31 45 46 20 40 39 7 60 49 12 42 43 57 50 10 11 61 
+Cost: 1273.2
+1.72 seconds
+Optimal Solution Found:
+Sequence: 1 21 2 23 38 5 28 35 17 3 54 37 22 47 58 24 59 9 19 6 32 15 33 56 27 14 8 53 26 55 16 30 34 44 36 13 4 51 41 18 48 52 25 29 31 45 46 20 40 39 7 60 49 12 42 43 57 50 10 11 61 
+Cost: 1273.2
+2.22 seconds
+Bounds: [1273.2,1273.2]
+Optimality Gap: 0.0%
+Data: 1273.2,1273.2,0.0
+2.22 seconds

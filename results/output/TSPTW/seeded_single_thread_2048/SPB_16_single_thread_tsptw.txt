@@ -1,0 +1,17 @@
+File Name: rc_205.1.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Optimal Solution Found:
+Sequence: 1 13 12 2 4 7 9 10 8 5 3 6 11 14 15 
+Cost: 343.20949999999993
+0.32 seconds
+Bounds: [343.20949999999993,343.20949999999993]
+Optimality Gap: 0.0%
+Data: 343.20949999999993,343.20949999999993,0.0
+0.32 seconds

@@ -1,0 +1,35 @@
+File Name: rc_204.1.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 41 43 44 45 42 29 22 20 18 16 17 21 24 25 23 34 33 35 32 19 3 6 40 8 5 4 2 26 27 7 36 39 10 28 12 11 9 37 14 13 15 38 30 31 46 47 
+Cost: 952.4863999999999
+28.14 seconds
+Bounds: [867.8924,952.4863999999999]
+Optimality Gap: 8.88%
+Data: 867.8924,952.4863999999999,8.88
+83.55 seconds
+Improved Solution:
+Sequence: 1 41 43 44 45 29 42 32 35 34 33 22 20 21 17 16 18 19 23 25 24 2 4 5 26 27 8 40 7 6 3 31 39 36 10 28 12 11 9 37 14 13 38 15 30 46 47 
+Cost: 918.0137
+Bounds: [867.8924,918.0137]
+Optimality Gap: 5.46%
+Data: 867.8924,918.0137,5.46
+1151.08 seconds
+Nodes In Queue: 1
+Bounds: [913.0539,918.0137]
+Optimality Gap: 0.54%
+Data: 913.0539,918.0137,0.54
+1261.36 seconds
+Nodes In Queue: 2
+Bounds: [915.2194,918.0137]
+Optimality Gap: 0.3%
+Data: 915.2194,918.0137,0.3
+1342.36 seconds
+Nodes In Queue: 3

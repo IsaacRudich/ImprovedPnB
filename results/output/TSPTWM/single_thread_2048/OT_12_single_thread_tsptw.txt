@@ -1,0 +1,26 @@
+File Name: n150w160.002.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+64.98 seconds
+Bounds: [604.0,NA]
+Data: 604.0,9223372036854775807,100.0
+233.01 seconds
+Improved Solution:
+Sequence: 1 93 90 64 74 149 57 43 110 39 82 22 12 49 134 45 36 52 139 17 78 71 51 67 35 141 137 115 89 140 13 62 143 98 5 20 100 87 42 116 94 60 68 70 3 88 146 105 97 123 148 27 4 117 86 25 103 96 72 23 122 28 108 31 32 40 113 18 75 69 101 53 59 129 63 99 11 73 81 119 145 26 38 133 106 54 84 107 77 135 58 33 55 128 76 8 114 85 7 95 104 9 61 150 2 121 30 19 120 132 83 79 130 144 34 102 6 138 126 14 91 127 10 50 112 125 111 136 142 44 15 37 65 41 48 56 66 109 47 92 46 16 147 21 80 29 124 24 151 131 118 152 
+Cost: 912
+Bounds: [604.0,912.0]
+Optimality Gap: 33.77%
+Data: 604.0,912.0,33.77
+865.15 seconds
+Nodes In Queue: 1
+Bounds: [861.0,912.0]
+Optimality Gap: 5.59%
+Data: 861.0,912.0,5.59
+2633.77 seconds
+Nodes In Queue: 2

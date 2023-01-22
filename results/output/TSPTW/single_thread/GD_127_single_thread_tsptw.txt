@@ -1,0 +1,58 @@
+File Name: n80w200.002.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 57 48 41 51 26 39 52 68 78 71 43 59 61 77 49 70 8 40 36 33 47 45 4 42 38 35 14 67 60 54 31 3 12 80 46 9 29 27 79 15 53 7 58 75 19 72 5 50 66 32 28 16 55 44 73 76 34 6 10 23 63 11 65 25 2 22 62 81 64 20 17 13 21 24 56 74 30 69 37 18 82 
+Cost: 639
+64.25 seconds
+Bounds: [174.0,639.0]
+Optimality Gap: 72.77%
+Data: 174.0,639.0,72.77
+162.37 seconds
+Improved Solution:
+Sequence: 1 57 48 49 51 59 26 39 52 61 77 70 8 40 36 33 47 45 41 78 38 14 35 42 4 43 71 32 68 67 60 3 12 31 54 66 50 80 46 9 29 27 79 15 53 11 7 58 19 72 5 75 63 23 10 44 55 73 76 34 6 16 28 25 2 22 62 81 21 64 20 17 13 65 56 74 30 69 37 24 18 82 
+Cost: 574
+Bounds: [174.0,574.0]
+Optimality Gap: 69.69%
+Data: 174.0,574.0,69.69
+312.81 seconds
+Nodes In Queue: 1
+Bounds: [234.0,574.0]
+Optimality Gap: 59.230000000000004%
+Data: 234.0,574.0,59.230000000000004
+689.43 seconds
+Nodes In Queue: 2
+Bounds: [240.0,574.0]
+Optimality Gap: 58.19%
+Data: 240.0,574.0,58.19
+987.91 seconds
+Nodes In Queue: 3
+Bounds: [262.0,574.0]
+Optimality Gap: 54.36%
+Data: 262.0,574.0,54.36
+1287.19 seconds
+Nodes In Queue: 4
+Improved Solution:
+Sequence: 1 40 8 70 77 61 39 52 26 59 71 78 38 14 35 42 4 43 51 49 48 57 36 33 47 45 41 32 68 67 60 54 31 3 12 5 80 46 9 29 27 79 15 53 7 58 75 19 72 50 66 16 44 55 73 76 34 6 10 23 63 11 65 28 25 2 22 62 81 21 64 20 17 13 37 69 74 30 56 18 24 82 
+Cost: 572
+Bounds: [268.0,572.0]
+Optimality Gap: 53.15%
+Data: 268.0,572.0,53.15
+1587.06 seconds
+Nodes In Queue: 5
+Bounds: [269.0,572.0]
+Optimality Gap: 52.96999999999999%
+Data: 269.0,572.0,52.96999999999999
+1867.4 seconds
+Nodes In Queue: 6
+Bounds: [270.0,572.0]
+Optimality Gap: 52.800000000000004%
+Data: 270.0,572.0,52.800000000000004
+2462.36 seconds
+Nodes In Queue: 8

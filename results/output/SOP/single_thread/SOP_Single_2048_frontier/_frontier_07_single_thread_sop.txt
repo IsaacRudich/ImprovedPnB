@@ -1,0 +1,39 @@
+File Name: ESC78.sop
+Peel Setting: frontier
+Max Width: 2048
+Variety Search Width: 5
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 2 4 3 11 8 17 22 30 21 35 57 36 12 58 10 52 23 38 24 39 6 15 9 60 14 31 61 5 40 19 26 7 27 62 13 43 66 45 46 74 25 47 78 53 37 75 33 55 65 72 59 49 79 16 28 67 29 76 71 44 70 69 68 18 32 77 51 42 54 41 50 20 63 34 56 64 73 48 80 
+Cost: 21045
+35.34 seconds
+Bounds: [4150,21045]
+Optimality Gap: 80.28%
+Data: 4150,21045,80.28
+340.06 seconds
+Improved Solution:
+Sequence: 1 2 4 3 11 8 17 22 30 36 52 58 10 12 25 24 23 21 35 57 38 37 39 6 14 27 15 7 49 60 28 16 61 5 26 40 48 29 31 62 13 51 43 66 53 46 74 50 47 75 44 70 69 78 41 45 72 79 67 68 9 65 76 19 73 59 20 33 18 32 55 54 42 63 34 56 77 71 64 80 
+Cost: 18950
+Bounds: [4150,18950]
+Optimality Gap: 78.10000000000001%
+Data: 4150,18950,78.10000000000001
+446.57 seconds
+Nodes In Queue: 1
+Bounds: [4250,18950]
+Optimality Gap: 77.57%
+Data: 4250,18950,77.57
+937.76 seconds
+Nodes In Queue: 2
+Bounds: [4300,18950]
+Optimality Gap: 77.31%
+Data: 4300,18950,77.31
+1413.79 seconds
+Nodes In Queue: 3
+Bounds: [4425,18950]
+Optimality Gap: 76.64999999999999%
+Data: 4425,18950,76.64999999999999
+3389.6 seconds
+Nodes In Queue: 7

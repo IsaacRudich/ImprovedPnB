@@ -1,0 +1,24 @@
+File Name: rbg193.2.tw
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [9527.0,12142.0]
+Optimality Gap: 21.54%
+Data: 9527.0,12142.0,21.54
+831.65 seconds
+Nodes In Queue: 1
+Bounds: [9741.0,12142.0]
+Optimality Gap: 19.77%
+Data: 9741.0,12142.0,19.77
+2077.94 seconds
+Nodes In Queue: 2
+Bounds: [9755.0,12142.0]
+Optimality Gap: 19.66%
+Data: 9755.0,12142.0,19.66
+3176.31 seconds
+Nodes In Queue: 3

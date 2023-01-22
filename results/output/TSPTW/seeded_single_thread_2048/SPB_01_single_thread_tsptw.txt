@@ -1,0 +1,19 @@
+File Name: rc_201.1.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [444.481,444.54]
+Optimality Gap: 0.01%
+Data: 444.481,444.54,0.01
+0.55 seconds
+Nodes In Queue: 1
+1.31 seconds
+Bounds: [444.54,444.54]
+Optimality Gap: 0.0%
+Data: 444.54,444.54,0.0
+1.31 seconds

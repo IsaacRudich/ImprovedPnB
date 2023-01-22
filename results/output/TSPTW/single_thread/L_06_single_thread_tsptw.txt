@@ -1,0 +1,17 @@
+File Name: N20ft306.dat
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Optimal Solution Found:
+Sequence: 1 12 11 20 14 6 16 13 17 3 18 5 19 9 4 10 7 8 15 2 21 
+Cost: 727.8000000000001
+0.06 seconds
+Bounds: [727.8000000000001,727.8000000000001]
+Optimality Gap: 0.0%
+Data: 727.8000000000001,727.8000000000001,0.0
+0.06 seconds

@@ -1,0 +1,1700 @@
+File Name: ESC25.sop
+Peel Setting: lastexactnode
+Max Width: 2048
+Variety Search Width: 5
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 4 10 2 14 21 9 5 12 8 15 7 17 3 11 20 6 13 16 22 18 25 26 19 23 24 27 
+Cost: 1681
+5.38 seconds
+Bounds: [838,1681]
+Optimality Gap: 50.14999999999999%
+Data: 838,1681,50.14999999999999
+19.73 seconds
+Nodes In Queue: 1
+Bounds: [946,1681]
+Optimality Gap: 43.72%
+Data: 946,1681,43.72
+25.11 seconds
+Nodes In Queue: 1
+Bounds: [949,1681]
+Optimality Gap: 43.55%
+Data: 949,1681,43.55
+26.5 seconds
+Nodes In Queue: 1
+Bounds: [950,1681]
+Optimality Gap: 43.49%
+Data: 950,1681,43.49
+27.37 seconds
+Nodes In Queue: 1
+Bounds: [957,1681]
+Optimality Gap: 43.07%
+Data: 957,1681,43.07
+28.11 seconds
+Nodes In Queue: 1
+Bounds: [966,1681]
+Optimality Gap: 42.53%
+Data: 966,1681,42.53
+29.03 seconds
+Nodes In Queue: 1
+Bounds: [971,1681]
+Optimality Gap: 42.24%
+Data: 971,1681,42.24
+38.96 seconds
+Nodes In Queue: 1
+Bounds: [973,1681]
+Optimality Gap: 42.120000000000005%
+Data: 973,1681,42.120000000000005
+40.18 seconds
+Nodes In Queue: 1
+Bounds: [977,1681]
+Optimality Gap: 41.88%
+Data: 977,1681,41.88
+41.24 seconds
+Nodes In Queue: 1
+Bounds: [979,1681]
+Optimality Gap: 41.760000000000005%
+Data: 979,1681,41.760000000000005
+42.8 seconds
+Nodes In Queue: 1
+Bounds: [982,1681]
+Optimality Gap: 41.58%
+Data: 982,1681,41.58
+43.94 seconds
+Nodes In Queue: 1
+Bounds: [988,1681]
+Optimality Gap: 41.23%
+Data: 988,1681,41.23
+45.14 seconds
+Nodes In Queue: 1
+Bounds: [992,1681]
+Optimality Gap: 40.99%
+Data: 992,1681,40.99
+46.17 seconds
+Nodes In Queue: 1
+Bounds: [993,1681]
+Optimality Gap: 40.93%
+Data: 993,1681,40.93
+48.47 seconds
+Nodes In Queue: 1
+Bounds: [1006,1681]
+Optimality Gap: 40.150000000000006%
+Data: 1006,1681,40.150000000000006
+49.53 seconds
+Nodes In Queue: 1
+Bounds: [1010,1681]
+Optimality Gap: 39.92%
+Data: 1010,1681,39.92
+50.67 seconds
+Nodes In Queue: 1
+Bounds: [1011,1681]
+Optimality Gap: 39.86%
+Data: 1011,1681,39.86
+51.76 seconds
+Nodes In Queue: 1
+Bounds: [1022,1681]
+Optimality Gap: 39.2%
+Data: 1022,1681,39.2
+52.88 seconds
+Nodes In Queue: 1
+Bounds: [1023,1681]
+Optimality Gap: 39.14%
+Data: 1023,1681,39.14
+53.58 seconds
+Nodes In Queue: 1
+Bounds: [1024,1681]
+Optimality Gap: 39.08%
+Data: 1024,1681,39.08
+54.48 seconds
+Nodes In Queue: 1
+Bounds: [1025,1681]
+Optimality Gap: 39.019999999999996%
+Data: 1025,1681,39.019999999999996
+55.42 seconds
+Nodes In Queue: 1
+Bounds: [1026,1681]
+Optimality Gap: 38.96%
+Data: 1026,1681,38.96
+56.06 seconds
+Nodes In Queue: 1
+Bounds: [1030,1681]
+Optimality Gap: 38.73%
+Data: 1030,1681,38.73
+57.97 seconds
+Nodes In Queue: 1
+Bounds: [1040,1681]
+Optimality Gap: 38.129999999999995%
+Data: 1040,1681,38.129999999999995
+58.85 seconds
+Nodes In Queue: 1
+Bounds: [1053,1681]
+Optimality Gap: 37.36%
+Data: 1053,1681,37.36
+59.55 seconds
+Nodes In Queue: 1
+Bounds: [1056,1681]
+Optimality Gap: 37.18%
+Data: 1056,1681,37.18
+60.69 seconds
+Nodes In Queue: 1
+Bounds: [1066,1681]
+Optimality Gap: 36.59%
+Data: 1066,1681,36.59
+61.49 seconds
+Nodes In Queue: 1
+Bounds: [1076,1681]
+Optimality Gap: 35.99%
+Data: 1076,1681,35.99
+62.4 seconds
+Nodes In Queue: 1
+Bounds: [1077,1681]
+Optimality Gap: 35.93%
+Data: 1077,1681,35.93
+63.26 seconds
+Nodes In Queue: 1
+Bounds: [1080,1681]
+Optimality Gap: 35.75%
+Data: 1080,1681,35.75
+64.03 seconds
+Nodes In Queue: 1
+Bounds: [1083,1681]
+Optimality Gap: 35.57%
+Data: 1083,1681,35.57
+65.65 seconds
+Nodes In Queue: 1
+Bounds: [1092,1681]
+Optimality Gap: 35.04%
+Data: 1092,1681,35.04
+66.43 seconds
+Nodes In Queue: 1
+Bounds: [1095,1681]
+Optimality Gap: 34.86%
+Data: 1095,1681,34.86
+67.99 seconds
+Nodes In Queue: 1
+Bounds: [1096,1681]
+Optimality Gap: 34.8%
+Data: 1096,1681,34.8
+69.79 seconds
+Nodes In Queue: 1
+Bounds: [1098,1681]
+Optimality Gap: 34.68%
+Data: 1098,1681,34.68
+70.85 seconds
+Nodes In Queue: 1
+Bounds: [1103,1681]
+Optimality Gap: 34.38%
+Data: 1103,1681,34.38
+72.31 seconds
+Nodes In Queue: 1
+Bounds: [1105,1681]
+Optimality Gap: 34.27%
+Data: 1105,1681,34.27
+73.72 seconds
+Nodes In Queue: 1
+Bounds: [1106,1681]
+Optimality Gap: 34.21%
+Data: 1106,1681,34.21
+74.62 seconds
+Nodes In Queue: 1
+Bounds: [1107,1681]
+Optimality Gap: 34.150000000000006%
+Data: 1107,1681,34.150000000000006
+75.26 seconds
+Nodes In Queue: 1
+Bounds: [1110,1681]
+Optimality Gap: 33.97%
+Data: 1110,1681,33.97
+75.99 seconds
+Nodes In Queue: 1
+Bounds: [1111,1681]
+Optimality Gap: 33.910000000000004%
+Data: 1111,1681,33.910000000000004
+76.6 seconds
+Nodes In Queue: 1
+Bounds: [1127,1681]
+Optimality Gap: 32.96%
+Data: 1127,1681,32.96
+77.63 seconds
+Nodes In Queue: 1
+Bounds: [1128,1681]
+Optimality Gap: 32.9%
+Data: 1128,1681,32.9
+78.24 seconds
+Nodes In Queue: 1
+Bounds: [1129,1681]
+Optimality Gap: 32.84%
+Data: 1129,1681,32.84
+79.0 seconds
+Nodes In Queue: 1
+Bounds: [1130,1681]
+Optimality Gap: 32.78%
+Data: 1130,1681,32.78
+81.88 seconds
+Nodes In Queue: 1
+Bounds: [1134,1681]
+Optimality Gap: 32.54%
+Data: 1134,1681,32.54
+82.75 seconds
+Nodes In Queue: 1
+Bounds: [1138,1681]
+Optimality Gap: 32.300000000000004%
+Data: 1138,1681,32.300000000000004
+83.63 seconds
+Nodes In Queue: 1
+Bounds: [1139,1681]
+Optimality Gap: 32.24%
+Data: 1139,1681,32.24
+84.15 seconds
+Nodes In Queue: 1
+Bounds: [1140,1681]
+Optimality Gap: 32.18%
+Data: 1140,1681,32.18
+84.9 seconds
+Nodes In Queue: 1
+Bounds: [1141,1681]
+Optimality Gap: 32.12%
+Data: 1141,1681,32.12
+85.71 seconds
+Nodes In Queue: 1
+Bounds: [1142,1681]
+Optimality Gap: 32.06%
+Data: 1142,1681,32.06
+86.93 seconds
+Nodes In Queue: 1
+Bounds: [1144,1681]
+Optimality Gap: 31.95%
+Data: 1144,1681,31.95
+87.61 seconds
+Nodes In Queue: 1
+Bounds: [1147,1681]
+Optimality Gap: 31.77%
+Data: 1147,1681,31.77
+90.35 seconds
+Nodes In Queue: 1
+Bounds: [1149,1681]
+Optimality Gap: 31.65%
+Data: 1149,1681,31.65
+90.81 seconds
+Nodes In Queue: 1
+Bounds: [1150,1681]
+Optimality Gap: 31.59%
+Data: 1150,1681,31.59
+92.29 seconds
+Nodes In Queue: 1
+Bounds: [1155,1681]
+Optimality Gap: 31.290000000000003%
+Data: 1155,1681,31.290000000000003
+92.8 seconds
+Nodes In Queue: 1
+Bounds: [1156,1681]
+Optimality Gap: 31.230000000000004%
+Data: 1156,1681,31.230000000000004
+93.64 seconds
+Nodes In Queue: 1
+Bounds: [1160,1681]
+Optimality Gap: 30.990000000000002%
+Data: 1160,1681,30.990000000000002
+94.4 seconds
+Nodes In Queue: 1
+Bounds: [1161,1681]
+Optimality Gap: 30.930000000000003%
+Data: 1161,1681,30.930000000000003
+95.69 seconds
+Nodes In Queue: 1
+Bounds: [1162,1681]
+Optimality Gap: 30.869999999999997%
+Data: 1162,1681,30.869999999999997
+97.33 seconds
+Nodes In Queue: 1
+Bounds: [1163,1681]
+Optimality Gap: 30.81%
+Data: 1163,1681,30.81
+97.95 seconds
+Nodes In Queue: 1
+Bounds: [1164,1681]
+Optimality Gap: 30.759999999999998%
+Data: 1164,1681,30.759999999999998
+98.43 seconds
+Nodes In Queue: 1
+Bounds: [1166,1681]
+Optimality Gap: 30.64%
+Data: 1166,1681,30.64
+98.94 seconds
+Nodes In Queue: 1
+Bounds: [1167,1681]
+Optimality Gap: 30.580000000000002%
+Data: 1167,1681,30.580000000000002
+99.8 seconds
+Nodes In Queue: 1
+Bounds: [1169,1681]
+Optimality Gap: 30.459999999999997%
+Data: 1169,1681,30.459999999999997
+100.3 seconds
+Nodes In Queue: 1
+Bounds: [1171,1681]
+Optimality Gap: 30.34%
+Data: 1171,1681,30.34
+100.73 seconds
+Nodes In Queue: 1
+Bounds: [1172,1681]
+Optimality Gap: 30.28%
+Data: 1172,1681,30.28
+102.34 seconds
+Nodes In Queue: 1
+Bounds: [1174,1681]
+Optimality Gap: 30.159999999999997%
+Data: 1174,1681,30.159999999999997
+103.1 seconds
+Nodes In Queue: 1
+Bounds: [1175,1681]
+Optimality Gap: 30.099999999999998%
+Data: 1175,1681,30.099999999999998
+103.63 seconds
+Nodes In Queue: 1
+Bounds: [1178,1681]
+Optimality Gap: 29.92%
+Data: 1178,1681,29.92
+104.19 seconds
+Nodes In Queue: 1
+Bounds: [1183,1681]
+Optimality Gap: 29.630000000000003%
+Data: 1183,1681,29.630000000000003
+105.47 seconds
+Nodes In Queue: 1
+Bounds: [1184,1681]
+Optimality Gap: 29.57%
+Data: 1184,1681,29.57
+106.79 seconds
+Nodes In Queue: 1
+Bounds: [1186,1681]
+Optimality Gap: 29.45%
+Data: 1186,1681,29.45
+107.22 seconds
+Nodes In Queue: 1
+Bounds: [1187,1681]
+Optimality Gap: 29.39%
+Data: 1187,1681,29.39
+107.74 seconds
+Nodes In Queue: 1
+Bounds: [1188,1681]
+Optimality Gap: 29.330000000000002%
+Data: 1188,1681,29.330000000000002
+108.34 seconds
+Nodes In Queue: 1
+Bounds: [1190,1681]
+Optimality Gap: 29.21%
+Data: 1190,1681,29.21
+109.01 seconds
+Nodes In Queue: 1
+Bounds: [1193,1681]
+Optimality Gap: 29.03%
+Data: 1193,1681,29.03
+109.46 seconds
+Nodes In Queue: 1
+Bounds: [1194,1681]
+Optimality Gap: 28.970000000000002%
+Data: 1194,1681,28.970000000000002
+109.94 seconds
+Nodes In Queue: 1
+Bounds: [1195,1681]
+Optimality Gap: 28.910000000000004%
+Data: 1195,1681,28.910000000000004
+110.63 seconds
+Nodes In Queue: 1
+Bounds: [1196,1681]
+Optimality Gap: 28.849999999999998%
+Data: 1196,1681,28.849999999999998
+111.37 seconds
+Nodes In Queue: 1
+Bounds: [1198,1681]
+Optimality Gap: 28.73%
+Data: 1198,1681,28.73
+111.91 seconds
+Nodes In Queue: 1
+Bounds: [1200,1681]
+Optimality Gap: 28.610000000000003%
+Data: 1200,1681,28.610000000000003
+112.61 seconds
+Nodes In Queue: 1
+Bounds: [1201,1681]
+Optimality Gap: 28.549999999999997%
+Data: 1201,1681,28.549999999999997
+113.87 seconds
+Nodes In Queue: 1
+Bounds: [1203,1681]
+Optimality Gap: 28.439999999999998%
+Data: 1203,1681,28.439999999999998
+114.5 seconds
+Nodes In Queue: 1
+Bounds: [1204,1681]
+Optimality Gap: 28.38%
+Data: 1204,1681,28.38
+115.86 seconds
+Nodes In Queue: 1
+Bounds: [1208,1681]
+Optimality Gap: 28.139999999999997%
+Data: 1208,1681,28.139999999999997
+116.25 seconds
+Nodes In Queue: 1
+Bounds: [1209,1681]
+Optimality Gap: 28.08%
+Data: 1209,1681,28.08
+116.9 seconds
+Nodes In Queue: 1
+Bounds: [1210,1681]
+Optimality Gap: 28.02%
+Data: 1210,1681,28.02
+117.4 seconds
+Nodes In Queue: 1
+Bounds: [1211,1681]
+Optimality Gap: 27.96%
+Data: 1211,1681,27.96
+117.94 seconds
+Nodes In Queue: 1
+Bounds: [1212,1681]
+Optimality Gap: 27.900000000000002%
+Data: 1212,1681,27.900000000000002
+118.39 seconds
+Nodes In Queue: 1
+Bounds: [1213,1681]
+Optimality Gap: 27.839999999999996%
+Data: 1213,1681,27.839999999999996
+119.57 seconds
+Nodes In Queue: 1
+Bounds: [1214,1681]
+Optimality Gap: 27.779999999999998%
+Data: 1214,1681,27.779999999999998
+120.03 seconds
+Nodes In Queue: 1
+Bounds: [1216,1681]
+Optimality Gap: 27.66%
+Data: 1216,1681,27.66
+120.77 seconds
+Nodes In Queue: 1
+Bounds: [1217,1681]
+Optimality Gap: 27.6%
+Data: 1217,1681,27.6
+121.91 seconds
+Nodes In Queue: 1
+Bounds: [1222,1681]
+Optimality Gap: 27.310000000000002%
+Data: 1222,1681,27.310000000000002
+123.59 seconds
+Nodes In Queue: 1
+Bounds: [1223,1681]
+Optimality Gap: 27.250000000000004%
+Data: 1223,1681,27.250000000000004
+124.34 seconds
+Nodes In Queue: 1
+Bounds: [1225,1681]
+Optimality Gap: 27.13%
+Data: 1225,1681,27.13
+124.84 seconds
+Nodes In Queue: 1
+Bounds: [1226,1681]
+Optimality Gap: 27.07%
+Data: 1226,1681,27.07
+125.34 seconds
+Nodes In Queue: 1
+Bounds: [1227,1681]
+Optimality Gap: 27.01%
+Data: 1227,1681,27.01
+126.88 seconds
+Nodes In Queue: 1
+Bounds: [1228,1681]
+Optimality Gap: 26.950000000000003%
+Data: 1228,1681,26.950000000000003
+127.67 seconds
+Nodes In Queue: 1
+Bounds: [1229,1681]
+Optimality Gap: 26.889999999999997%
+Data: 1229,1681,26.889999999999997
+128.1 seconds
+Nodes In Queue: 1
+Bounds: [1231,1681]
+Optimality Gap: 26.77%
+Data: 1231,1681,26.77
+128.81 seconds
+Nodes In Queue: 1
+Bounds: [1232,1681]
+Optimality Gap: 26.71%
+Data: 1232,1681,26.71
+129.7 seconds
+Nodes In Queue: 1
+Bounds: [1233,1681]
+Optimality Gap: 26.650000000000002%
+Data: 1233,1681,26.650000000000002
+130.13 seconds
+Nodes In Queue: 1
+Bounds: [1234,1681]
+Optimality Gap: 26.590000000000003%
+Data: 1234,1681,26.590000000000003
+130.78 seconds
+Nodes In Queue: 1
+Bounds: [1235,1681]
+Optimality Gap: 26.529999999999998%
+Data: 1235,1681,26.529999999999998
+131.25 seconds
+Nodes In Queue: 1
+Bounds: [1236,1681]
+Optimality Gap: 26.47%
+Data: 1236,1681,26.47
+131.81 seconds
+Nodes In Queue: 1
+Bounds: [1237,1681]
+Optimality Gap: 26.41%
+Data: 1237,1681,26.41
+133.11 seconds
+Nodes In Queue: 1
+Bounds: [1238,1681]
+Optimality Gap: 26.35%
+Data: 1238,1681,26.35
+133.46 seconds
+Nodes In Queue: 1
+Bounds: [1240,1681]
+Optimality Gap: 26.229999999999997%
+Data: 1240,1681,26.229999999999997
+134.65 seconds
+Nodes In Queue: 1
+Bounds: [1243,1681]
+Optimality Gap: 26.06%
+Data: 1243,1681,26.06
+135.01 seconds
+Nodes In Queue: 1
+Bounds: [1244,1681]
+Optimality Gap: 26.0%
+Data: 1244,1681,26.0
+135.66 seconds
+Nodes In Queue: 1
+Bounds: [1245,1681]
+Optimality Gap: 25.94%
+Data: 1245,1681,25.94
+136.19 seconds
+Nodes In Queue: 1
+Bounds: [1248,1681]
+Optimality Gap: 25.759999999999998%
+Data: 1248,1681,25.759999999999998
+136.95 seconds
+Nodes In Queue: 1
+Bounds: [1250,1681]
+Optimality Gap: 25.64%
+Data: 1250,1681,25.64
+138.14 seconds
+Nodes In Queue: 1
+Bounds: [1251,1681]
+Optimality Gap: 25.580000000000002%
+Data: 1251,1681,25.580000000000002
+139.34 seconds
+Nodes In Queue: 1
+Bounds: [1252,1681]
+Optimality Gap: 25.52%
+Data: 1252,1681,25.52
+140.48 seconds
+Nodes In Queue: 1
+Bounds: [1254,1681]
+Optimality Gap: 25.4%
+Data: 1254,1681,25.4
+140.91 seconds
+Nodes In Queue: 1
+Bounds: [1256,1681]
+Optimality Gap: 25.28%
+Data: 1256,1681,25.28
+141.7 seconds
+Nodes In Queue: 1
+Bounds: [1257,1681]
+Optimality Gap: 25.22%
+Data: 1257,1681,25.22
+142.02 seconds
+Nodes In Queue: 1
+Bounds: [1261,1681]
+Optimality Gap: 24.990000000000002%
+Data: 1261,1681,24.990000000000002
+142.43 seconds
+Nodes In Queue: 1
+Bounds: [1262,1681]
+Optimality Gap: 24.93%
+Data: 1262,1681,24.93
+142.9 seconds
+Nodes In Queue: 1
+Bounds: [1263,1681]
+Optimality Gap: 24.87%
+Data: 1263,1681,24.87
+143.74 seconds
+Nodes In Queue: 1
+Bounds: [1264,1681]
+Optimality Gap: 24.81%
+Data: 1264,1681,24.81
+144.05 seconds
+Nodes In Queue: 1
+Bounds: [1265,1681]
+Optimality Gap: 24.75%
+Data: 1265,1681,24.75
+145.05 seconds
+Nodes In Queue: 1
+Bounds: [1267,1681]
+Optimality Gap: 24.63%
+Data: 1267,1681,24.63
+145.62 seconds
+Nodes In Queue: 1
+Bounds: [1268,1681]
+Optimality Gap: 24.57%
+Data: 1268,1681,24.57
+146.39 seconds
+Nodes In Queue: 1
+Bounds: [1269,1681]
+Optimality Gap: 24.51%
+Data: 1269,1681,24.51
+146.73 seconds
+Nodes In Queue: 1
+Bounds: [1270,1681]
+Optimality Gap: 24.45%
+Data: 1270,1681,24.45
+148.11 seconds
+Nodes In Queue: 1
+Bounds: [1271,1681]
+Optimality Gap: 24.39%
+Data: 1271,1681,24.39
+148.56 seconds
+Nodes In Queue: 1
+Bounds: [1272,1681]
+Optimality Gap: 24.33%
+Data: 1272,1681,24.33
+148.95 seconds
+Nodes In Queue: 1
+Bounds: [1274,1681]
+Optimality Gap: 24.21%
+Data: 1274,1681,24.21
+150.02 seconds
+Nodes In Queue: 1
+Bounds: [1276,1681]
+Optimality Gap: 24.09%
+Data: 1276,1681,24.09
+150.95 seconds
+Nodes In Queue: 1
+Bounds: [1278,1681]
+Optimality Gap: 23.97%
+Data: 1278,1681,23.97
+151.85 seconds
+Nodes In Queue: 1
+Bounds: [1283,1681]
+Optimality Gap: 23.68%
+Data: 1283,1681,23.68
+152.49 seconds
+Nodes In Queue: 1
+Bounds: [1285,1681]
+Optimality Gap: 23.56%
+Data: 1285,1681,23.56
+153.29 seconds
+Nodes In Queue: 1
+Bounds: [1286,1681]
+Optimality Gap: 23.5%
+Data: 1286,1681,23.5
+153.6 seconds
+Nodes In Queue: 1
+Bounds: [1288,1681]
+Optimality Gap: 23.380000000000003%
+Data: 1288,1681,23.380000000000003
+155.21 seconds
+Nodes In Queue: 1
+Bounds: [1289,1681]
+Optimality Gap: 23.32%
+Data: 1289,1681,23.32
+155.53 seconds
+Nodes In Queue: 1
+Bounds: [1290,1681]
+Optimality Gap: 23.26%
+Data: 1290,1681,23.26
+155.96 seconds
+Nodes In Queue: 1
+Bounds: [1291,1681]
+Optimality Gap: 23.200000000000003%
+Data: 1291,1681,23.200000000000003
+156.84 seconds
+Nodes In Queue: 1
+Bounds: [1293,1681]
+Optimality Gap: 23.080000000000002%
+Data: 1293,1681,23.080000000000002
+157.37 seconds
+Nodes In Queue: 1
+Bounds: [1294,1681]
+Optimality Gap: 23.02%
+Data: 1294,1681,23.02
+157.95 seconds
+Nodes In Queue: 1
+Bounds: [1295,1681]
+Optimality Gap: 22.96%
+Data: 1295,1681,22.96
+158.24 seconds
+Nodes In Queue: 1
+Bounds: [1296,1681]
+Optimality Gap: 22.900000000000002%
+Data: 1296,1681,22.900000000000002
+158.98 seconds
+Nodes In Queue: 1
+Bounds: [1297,1681]
+Optimality Gap: 22.84%
+Data: 1297,1681,22.84
+159.37 seconds
+Nodes In Queue: 1
+Bounds: [1298,1681]
+Optimality Gap: 22.78%
+Data: 1298,1681,22.78
+160.41 seconds
+Nodes In Queue: 1
+Bounds: [1300,1681]
+Optimality Gap: 22.67%
+Data: 1300,1681,22.67
+160.95 seconds
+Nodes In Queue: 1
+Bounds: [1301,1681]
+Optimality Gap: 22.61%
+Data: 1301,1681,22.61
+161.47 seconds
+Nodes In Queue: 1
+Bounds: [1302,1681]
+Optimality Gap: 22.55%
+Data: 1302,1681,22.55
+161.76 seconds
+Nodes In Queue: 1
+Bounds: [1303,1681]
+Optimality Gap: 22.49%
+Data: 1303,1681,22.49
+162.53 seconds
+Nodes In Queue: 1
+Bounds: [1304,1681]
+Optimality Gap: 22.43%
+Data: 1304,1681,22.43
+163.33 seconds
+Nodes In Queue: 1
+Bounds: [1305,1681]
+Optimality Gap: 22.37%
+Data: 1305,1681,22.37
+163.92 seconds
+Nodes In Queue: 1
+Bounds: [1306,1681]
+Optimality Gap: 22.31%
+Data: 1306,1681,22.31
+164.68 seconds
+Nodes In Queue: 1
+Bounds: [1308,1681]
+Optimality Gap: 22.189999999999998%
+Data: 1308,1681,22.189999999999998
+165.31 seconds
+Nodes In Queue: 1
+Bounds: [1309,1681]
+Optimality Gap: 22.13%
+Data: 1309,1681,22.13
+165.96 seconds
+Nodes In Queue: 1
+Bounds: [1310,1681]
+Optimality Gap: 22.07%
+Data: 1310,1681,22.07
+166.51 seconds
+Nodes In Queue: 1
+Bounds: [1311,1681]
+Optimality Gap: 22.009999999999998%
+Data: 1311,1681,22.009999999999998
+167.6 seconds
+Nodes In Queue: 1
+Bounds: [1312,1681]
+Optimality Gap: 21.95%
+Data: 1312,1681,21.95
+167.9 seconds
+Nodes In Queue: 1
+Bounds: [1315,1681]
+Optimality Gap: 21.77%
+Data: 1315,1681,21.77
+168.84 seconds
+Nodes In Queue: 1
+Bounds: [1316,1681]
+Optimality Gap: 21.709999999999997%
+Data: 1316,1681,21.709999999999997
+169.68 seconds
+Nodes In Queue: 1
+Bounds: [1317,1681]
+Optimality Gap: 21.65%
+Data: 1317,1681,21.65
+170.3 seconds
+Nodes In Queue: 1
+Bounds: [1318,1681]
+Optimality Gap: 21.59%
+Data: 1318,1681,21.59
+170.56 seconds
+Nodes In Queue: 1
+Bounds: [1319,1681]
+Optimality Gap: 21.529999999999998%
+Data: 1319,1681,21.529999999999998
+171.24 seconds
+Nodes In Queue: 1
+Bounds: [1320,1681]
+Optimality Gap: 21.48%
+Data: 1320,1681,21.48
+171.7 seconds
+Nodes In Queue: 1
+Bounds: [1321,1681]
+Optimality Gap: 21.42%
+Data: 1321,1681,21.42
+171.98 seconds
+Nodes In Queue: 1
+Bounds: [1322,1681]
+Optimality Gap: 21.36%
+Data: 1322,1681,21.36
+172.71 seconds
+Nodes In Queue: 1
+Bounds: [1323,1681]
+Optimality Gap: 21.3%
+Data: 1323,1681,21.3
+174.1 seconds
+Nodes In Queue: 1
+Bounds: [1324,1681]
+Optimality Gap: 21.240000000000002%
+Data: 1324,1681,21.240000000000002
+174.85 seconds
+Nodes In Queue: 1
+Bounds: [1326,1681]
+Optimality Gap: 21.12%
+Data: 1326,1681,21.12
+175.1 seconds
+Nodes In Queue: 1
+Bounds: [1327,1681]
+Optimality Gap: 21.060000000000002%
+Data: 1327,1681,21.060000000000002
+175.33 seconds
+Nodes In Queue: 1
+Bounds: [1329,1681]
+Optimality Gap: 20.94%
+Data: 1329,1681,20.94
+175.59 seconds
+Nodes In Queue: 1
+Bounds: [1330,1681]
+Optimality Gap: 20.880000000000003%
+Data: 1330,1681,20.880000000000003
+175.79 seconds
+Nodes In Queue: 1
+Bounds: [1331,1681]
+Optimality Gap: 20.82%
+Data: 1331,1681,20.82
+176.08 seconds
+Nodes In Queue: 1
+Bounds: [1332,1681]
+Optimality Gap: 20.76%
+Data: 1332,1681,20.76
+177.21 seconds
+Nodes In Queue: 1
+Bounds: [1334,1681]
+Optimality Gap: 20.64%
+Data: 1334,1681,20.64
+178.27 seconds
+Nodes In Queue: 1
+Bounds: [1335,1681]
+Optimality Gap: 20.580000000000002%
+Data: 1335,1681,20.580000000000002
+178.72 seconds
+Nodes In Queue: 1
+Bounds: [1337,1681]
+Optimality Gap: 20.46%
+Data: 1337,1681,20.46
+179.23 seconds
+Nodes In Queue: 1
+Bounds: [1338,1681]
+Optimality Gap: 20.4%
+Data: 1338,1681,20.4
+179.48 seconds
+Nodes In Queue: 1
+Bounds: [1339,1681]
+Optimality Gap: 20.349999999999998%
+Data: 1339,1681,20.349999999999998
+180.45 seconds
+Nodes In Queue: 1
+Bounds: [1340,1681]
+Optimality Gap: 20.29%
+Data: 1340,1681,20.29
+180.97 seconds
+Nodes In Queue: 1
+Bounds: [1341,1681]
+Optimality Gap: 20.23%
+Data: 1341,1681,20.23
+181.46 seconds
+Nodes In Queue: 1
+Bounds: [1343,1681]
+Optimality Gap: 20.11%
+Data: 1343,1681,20.11
+182.16 seconds
+Nodes In Queue: 1
+Bounds: [1344,1681]
+Optimality Gap: 20.05%
+Data: 1344,1681,20.05
+182.52 seconds
+Nodes In Queue: 1
+Bounds: [1346,1681]
+Optimality Gap: 19.93%
+Data: 1346,1681,19.93
+183.16 seconds
+Nodes In Queue: 1
+Bounds: [1347,1681]
+Optimality Gap: 19.869999999999997%
+Data: 1347,1681,19.869999999999997
+183.65 seconds
+Nodes In Queue: 1
+Bounds: [1348,1681]
+Optimality Gap: 19.81%
+Data: 1348,1681,19.81
+184.23 seconds
+Nodes In Queue: 1
+Bounds: [1349,1681]
+Optimality Gap: 19.75%
+Data: 1349,1681,19.75
+184.88 seconds
+Nodes In Queue: 1
+Bounds: [1353,1681]
+Optimality Gap: 19.509999999999998%
+Data: 1353,1681,19.509999999999998
+185.44 seconds
+Nodes In Queue: 1
+Bounds: [1354,1681]
+Optimality Gap: 19.45%
+Data: 1354,1681,19.45
+186.23 seconds
+Nodes In Queue: 1
+Bounds: [1355,1681]
+Optimality Gap: 19.39%
+Data: 1355,1681,19.39
+186.86 seconds
+Nodes In Queue: 1
+Bounds: [1356,1681]
+Optimality Gap: 19.33%
+Data: 1356,1681,19.33
+187.07 seconds
+Nodes In Queue: 1
+Bounds: [1357,1681]
+Optimality Gap: 19.27%
+Data: 1357,1681,19.27
+187.29 seconds
+Nodes In Queue: 1
+Bounds: [1358,1681]
+Optimality Gap: 19.21%
+Data: 1358,1681,19.21
+187.49 seconds
+Nodes In Queue: 1
+Bounds: [1359,1681]
+Optimality Gap: 19.16%
+Data: 1359,1681,19.16
+188.18 seconds
+Nodes In Queue: 1
+Bounds: [1360,1681]
+Optimality Gap: 19.1%
+Data: 1360,1681,19.1
+188.97 seconds
+Nodes In Queue: 1
+Bounds: [1363,1681]
+Optimality Gap: 18.92%
+Data: 1363,1681,18.92
+189.66 seconds
+Nodes In Queue: 1
+Bounds: [1364,1681]
+Optimality Gap: 18.86%
+Data: 1364,1681,18.86
+190.72 seconds
+Nodes In Queue: 1
+Bounds: [1365,1681]
+Optimality Gap: 18.8%
+Data: 1365,1681,18.8
+191.12 seconds
+Nodes In Queue: 1
+Bounds: [1366,1681]
+Optimality Gap: 18.740000000000002%
+Data: 1366,1681,18.740000000000002
+192.17 seconds
+Nodes In Queue: 1
+Bounds: [1367,1681]
+Optimality Gap: 18.68%
+Data: 1367,1681,18.68
+193.0 seconds
+Nodes In Queue: 1
+Bounds: [1368,1681]
+Optimality Gap: 18.62%
+Data: 1368,1681,18.62
+193.22 seconds
+Nodes In Queue: 1
+Bounds: [1369,1681]
+Optimality Gap: 18.56%
+Data: 1369,1681,18.56
+193.46 seconds
+Nodes In Queue: 1
+Bounds: [1370,1681]
+Optimality Gap: 18.5%
+Data: 1370,1681,18.5
+194.42 seconds
+Nodes In Queue: 1
+Bounds: [1371,1681]
+Optimality Gap: 18.44%
+Data: 1371,1681,18.44
+195.15 seconds
+Nodes In Queue: 1
+Bounds: [1372,1681]
+Optimality Gap: 18.38%
+Data: 1372,1681,18.38
+195.3 seconds
+Nodes In Queue: 1
+Bounds: [1374,1681]
+Optimality Gap: 18.26%
+Data: 1374,1681,18.26
+195.46 seconds
+Nodes In Queue: 1
+Bounds: [1375,1681]
+Optimality Gap: 18.2%
+Data: 1375,1681,18.2
+196.34 seconds
+Nodes In Queue: 1
+Bounds: [1376,1681]
+Optimality Gap: 18.14%
+Data: 1376,1681,18.14
+196.85 seconds
+Nodes In Queue: 1
+Bounds: [1377,1681]
+Optimality Gap: 18.08%
+Data: 1377,1681,18.08
+197.43 seconds
+Nodes In Queue: 1
+Bounds: [1378,1681]
+Optimality Gap: 18.02%
+Data: 1378,1681,18.02
+197.95 seconds
+Nodes In Queue: 1
+Bounds: [1379,1681]
+Optimality Gap: 17.97%
+Data: 1379,1681,17.97
+198.29 seconds
+Nodes In Queue: 1
+Bounds: [1380,1681]
+Optimality Gap: 17.91%
+Data: 1380,1681,17.91
+199.04 seconds
+Nodes In Queue: 1
+Bounds: [1381,1681]
+Optimality Gap: 17.849999999999998%
+Data: 1381,1681,17.849999999999998
+200.25 seconds
+Nodes In Queue: 1
+Bounds: [1382,1681]
+Optimality Gap: 17.79%
+Data: 1382,1681,17.79
+200.59 seconds
+Nodes In Queue: 1
+Bounds: [1383,1681]
+Optimality Gap: 17.73%
+Data: 1383,1681,17.73
+201.01 seconds
+Nodes In Queue: 1
+Bounds: [1384,1681]
+Optimality Gap: 17.669999999999998%
+Data: 1384,1681,17.669999999999998
+201.53 seconds
+Nodes In Queue: 1
+Bounds: [1385,1681]
+Optimality Gap: 17.61%
+Data: 1385,1681,17.61
+202.25 seconds
+Nodes In Queue: 1
+Bounds: [1386,1681]
+Optimality Gap: 17.549999999999997%
+Data: 1386,1681,17.549999999999997
+203.13 seconds
+Nodes In Queue: 1
+Bounds: [1387,1681]
+Optimality Gap: 17.49%
+Data: 1387,1681,17.49
+203.68 seconds
+Nodes In Queue: 1
+Bounds: [1388,1681]
+Optimality Gap: 17.43%
+Data: 1388,1681,17.43
+204.15 seconds
+Nodes In Queue: 1
+Bounds: [1389,1681]
+Optimality Gap: 17.37%
+Data: 1389,1681,17.37
+204.93 seconds
+Nodes In Queue: 1
+Bounds: [1390,1681]
+Optimality Gap: 17.31%
+Data: 1390,1681,17.31
+205.17 seconds
+Nodes In Queue: 1
+Bounds: [1392,1681]
+Optimality Gap: 17.19%
+Data: 1392,1681,17.19
+206.02 seconds
+Nodes In Queue: 1
+Bounds: [1393,1681]
+Optimality Gap: 17.130000000000003%
+Data: 1393,1681,17.130000000000003
+206.63 seconds
+Nodes In Queue: 1
+Bounds: [1394,1681]
+Optimality Gap: 17.07%
+Data: 1394,1681,17.07
+207.44 seconds
+Nodes In Queue: 1
+Bounds: [1395,1681]
+Optimality Gap: 17.01%
+Data: 1395,1681,17.01
+208.31 seconds
+Nodes In Queue: 1
+Bounds: [1396,1681]
+Optimality Gap: 16.950000000000003%
+Data: 1396,1681,16.950000000000003
+209.46 seconds
+Nodes In Queue: 1
+Bounds: [1397,1681]
+Optimality Gap: 16.89%
+Data: 1397,1681,16.89
+210.17 seconds
+Nodes In Queue: 1
+Bounds: [1398,1681]
+Optimality Gap: 16.84%
+Data: 1398,1681,16.84
+210.89 seconds
+Nodes In Queue: 1
+Bounds: [1399,1681]
+Optimality Gap: 16.78%
+Data: 1399,1681,16.78
+211.11 seconds
+Nodes In Queue: 1
+Bounds: [1400,1681]
+Optimality Gap: 16.72%
+Data: 1400,1681,16.72
+212.14 seconds
+Nodes In Queue: 1
+Bounds: [1401,1681]
+Optimality Gap: 16.66%
+Data: 1401,1681,16.66
+212.62 seconds
+Nodes In Queue: 1
+Bounds: [1402,1681]
+Optimality Gap: 16.6%
+Data: 1402,1681,16.6
+213.93 seconds
+Nodes In Queue: 1
+Bounds: [1403,1681]
+Optimality Gap: 16.54%
+Data: 1403,1681,16.54
+214.34 seconds
+Nodes In Queue: 1
+Bounds: [1404,1681]
+Optimality Gap: 16.48%
+Data: 1404,1681,16.48
+214.9 seconds
+Nodes In Queue: 1
+Bounds: [1406,1681]
+Optimality Gap: 16.36%
+Data: 1406,1681,16.36
+215.61 seconds
+Nodes In Queue: 1
+Bounds: [1407,1681]
+Optimality Gap: 16.3%
+Data: 1407,1681,16.3
+216.2 seconds
+Nodes In Queue: 1
+Bounds: [1408,1681]
+Optimality Gap: 16.24%
+Data: 1408,1681,16.24
+216.63 seconds
+Nodes In Queue: 1
+Bounds: [1409,1681]
+Optimality Gap: 16.18%
+Data: 1409,1681,16.18
+217.27 seconds
+Nodes In Queue: 1
+Bounds: [1411,1681]
+Optimality Gap: 16.06%
+Data: 1411,1681,16.06
+217.5 seconds
+Nodes In Queue: 1
+Bounds: [1412,1681]
+Optimality Gap: 16.0%
+Data: 1412,1681,16.0
+217.63 seconds
+Nodes In Queue: 1
+Bounds: [1413,1681]
+Optimality Gap: 15.939999999999998%
+Data: 1413,1681,15.939999999999998
+218.18 seconds
+Nodes In Queue: 1
+Bounds: [1414,1681]
+Optimality Gap: 15.879999999999999%
+Data: 1414,1681,15.879999999999999
+218.33 seconds
+Nodes In Queue: 1
+Bounds: [1415,1681]
+Optimality Gap: 15.82%
+Data: 1415,1681,15.82
+218.79 seconds
+Nodes In Queue: 1
+Bounds: [1416,1681]
+Optimality Gap: 15.76%
+Data: 1416,1681,15.76
+218.92 seconds
+Nodes In Queue: 1
+Bounds: [1417,1681]
+Optimality Gap: 15.7%
+Data: 1417,1681,15.7
+219.05 seconds
+Nodes In Queue: 1
+Bounds: [1418,1681]
+Optimality Gap: 15.65%
+Data: 1418,1681,15.65
+219.19 seconds
+Nodes In Queue: 1
+Bounds: [1419,1681]
+Optimality Gap: 15.590000000000002%
+Data: 1419,1681,15.590000000000002
+219.63 seconds
+Nodes In Queue: 1
+Bounds: [1420,1681]
+Optimality Gap: 15.53%
+Data: 1420,1681,15.53
+220.18 seconds
+Nodes In Queue: 1
+Bounds: [1421,1681]
+Optimality Gap: 15.47%
+Data: 1421,1681,15.47
+220.53 seconds
+Nodes In Queue: 1
+Bounds: [1422,1681]
+Optimality Gap: 15.409999999999998%
+Data: 1422,1681,15.409999999999998
+220.8 seconds
+Nodes In Queue: 1
+Bounds: [1424,1681]
+Optimality Gap: 15.290000000000001%
+Data: 1424,1681,15.290000000000001
+221.1 seconds
+Nodes In Queue: 1
+Bounds: [1427,1681]
+Optimality Gap: 15.110000000000001%
+Data: 1427,1681,15.110000000000001
+221.33 seconds
+Nodes In Queue: 1
+Bounds: [1429,1681]
+Optimality Gap: 14.99%
+Data: 1429,1681,14.99
+222.03 seconds
+Nodes In Queue: 1
+Bounds: [1430,1681]
+Optimality Gap: 14.93%
+Data: 1430,1681,14.93
+222.15 seconds
+Nodes In Queue: 1
+Bounds: [1431,1681]
+Optimality Gap: 14.87%
+Data: 1431,1681,14.87
+222.38 seconds
+Nodes In Queue: 1
+Bounds: [1433,1681]
+Optimality Gap: 14.75%
+Data: 1433,1681,14.75
+222.6 seconds
+Nodes In Queue: 1
+Bounds: [1434,1681]
+Optimality Gap: 14.69%
+Data: 1434,1681,14.69
+222.72 seconds
+Nodes In Queue: 1
+Bounds: [1435,1681]
+Optimality Gap: 14.63%
+Data: 1435,1681,14.63
+223.57 seconds
+Nodes In Queue: 1
+Bounds: [1436,1681]
+Optimality Gap: 14.57%
+Data: 1436,1681,14.57
+223.93 seconds
+Nodes In Queue: 1
+Bounds: [1437,1681]
+Optimality Gap: 14.52%
+Data: 1437,1681,14.52
+224.49 seconds
+Nodes In Queue: 1
+Bounds: [1438,1681]
+Optimality Gap: 14.46%
+Data: 1438,1681,14.46
+224.75 seconds
+Nodes In Queue: 1
+Bounds: [1440,1681]
+Optimality Gap: 14.34%
+Data: 1440,1681,14.34
+225.17 seconds
+Nodes In Queue: 1
+Bounds: [1441,1681]
+Optimality Gap: 14.280000000000001%
+Data: 1441,1681,14.280000000000001
+225.25 seconds
+Nodes In Queue: 1
+Bounds: [1442,1681]
+Optimality Gap: 14.219999999999999%
+Data: 1442,1681,14.219999999999999
+225.78 seconds
+Nodes In Queue: 1
+Bounds: [1444,1681]
+Optimality Gap: 14.099999999999998%
+Data: 1444,1681,14.099999999999998
+225.92 seconds
+Nodes In Queue: 1
+Bounds: [1445,1681]
+Optimality Gap: 14.04%
+Data: 1445,1681,14.04
+226.05 seconds
+Nodes In Queue: 1
+Bounds: [1446,1681]
+Optimality Gap: 13.98%
+Data: 1446,1681,13.98
+226.12 seconds
+Nodes In Queue: 1
+Bounds: [1447,1681]
+Optimality Gap: 13.919999999999998%
+Data: 1447,1681,13.919999999999998
+226.2 seconds
+Nodes In Queue: 1
+Bounds: [1448,1681]
+Optimality Gap: 13.86%
+Data: 1448,1681,13.86
+226.46 seconds
+Nodes In Queue: 1
+Bounds: [1449,1681]
+Optimality Gap: 13.8%
+Data: 1449,1681,13.8
+226.75 seconds
+Nodes In Queue: 1
+Bounds: [1450,1681]
+Optimality Gap: 13.74%
+Data: 1450,1681,13.74
+227.09 seconds
+Nodes In Queue: 1
+Bounds: [1451,1681]
+Optimality Gap: 13.68%
+Data: 1451,1681,13.68
+227.43 seconds
+Nodes In Queue: 1
+Bounds: [1452,1681]
+Optimality Gap: 13.62%
+Data: 1452,1681,13.62
+227.63 seconds
+Nodes In Queue: 1
+Bounds: [1454,1681]
+Optimality Gap: 13.5%
+Data: 1454,1681,13.5
+227.72 seconds
+Nodes In Queue: 1
+Bounds: [1455,1681]
+Optimality Gap: 13.44%
+Data: 1455,1681,13.44
+228.12 seconds
+Nodes In Queue: 1
+Bounds: [1456,1681]
+Optimality Gap: 13.38%
+Data: 1456,1681,13.38
+228.34 seconds
+Nodes In Queue: 1
+Bounds: [1457,1681]
+Optimality Gap: 13.33%
+Data: 1457,1681,13.33
+228.55 seconds
+Nodes In Queue: 1
+Bounds: [1458,1681]
+Optimality Gap: 13.270000000000001%
+Data: 1458,1681,13.270000000000001
+229.25 seconds
+Nodes In Queue: 1
+Bounds: [1459,1681]
+Optimality Gap: 13.209999999999999%
+Data: 1459,1681,13.209999999999999
+229.68 seconds
+Nodes In Queue: 1
+Bounds: [1460,1681]
+Optimality Gap: 13.15%
+Data: 1460,1681,13.15
+230.18 seconds
+Nodes In Queue: 1
+Bounds: [1461,1681]
+Optimality Gap: 13.089999999999998%
+Data: 1461,1681,13.089999999999998
+230.37 seconds
+Nodes In Queue: 1
+Bounds: [1462,1681]
+Optimality Gap: 13.03%
+Data: 1462,1681,13.03
+230.65 seconds
+Nodes In Queue: 1
+Bounds: [1463,1681]
+Optimality Gap: 12.97%
+Data: 1463,1681,12.97
+230.89 seconds
+Nodes In Queue: 1
+Bounds: [1464,1681]
+Optimality Gap: 12.91%
+Data: 1464,1681,12.91
+230.99 seconds
+Nodes In Queue: 1
+Bounds: [1465,1681]
+Optimality Gap: 12.85%
+Data: 1465,1681,12.85
+231.23 seconds
+Nodes In Queue: 1
+Bounds: [1466,1681]
+Optimality Gap: 12.790000000000001%
+Data: 1466,1681,12.790000000000001
+231.66 seconds
+Nodes In Queue: 1
+Bounds: [1467,1681]
+Optimality Gap: 12.73%
+Data: 1467,1681,12.73
+231.82 seconds
+Nodes In Queue: 1
+Bounds: [1468,1681]
+Optimality Gap: 12.67%
+Data: 1468,1681,12.67
+232.14 seconds
+Nodes In Queue: 1
+Bounds: [1470,1681]
+Optimality Gap: 12.55%
+Data: 1470,1681,12.55
+232.37 seconds
+Nodes In Queue: 1
+Bounds: [1471,1681]
+Optimality Gap: 12.49%
+Data: 1471,1681,12.49
+232.56 seconds
+Nodes In Queue: 1
+Bounds: [1472,1681]
+Optimality Gap: 12.43%
+Data: 1472,1681,12.43
+233.02 seconds
+Nodes In Queue: 1
+Bounds: [1473,1681]
+Optimality Gap: 12.370000000000001%
+Data: 1473,1681,12.370000000000001
+233.18 seconds
+Nodes In Queue: 1
+Bounds: [1474,1681]
+Optimality Gap: 12.31%
+Data: 1474,1681,12.31
+233.61 seconds
+Nodes In Queue: 1
+Bounds: [1475,1681]
+Optimality Gap: 12.25%
+Data: 1475,1681,12.25
+233.68 seconds
+Nodes In Queue: 1
+Bounds: [1476,1681]
+Optimality Gap: 12.2%
+Data: 1476,1681,12.2
+234.08 seconds
+Nodes In Queue: 1
+Bounds: [1477,1681]
+Optimality Gap: 12.139999999999999%
+Data: 1477,1681,12.139999999999999
+234.18 seconds
+Nodes In Queue: 1
+Bounds: [1478,1681]
+Optimality Gap: 12.08%
+Data: 1478,1681,12.08
+234.37 seconds
+Nodes In Queue: 1
+Bounds: [1479,1681]
+Optimality Gap: 12.02%
+Data: 1479,1681,12.02
+235.03 seconds
+Nodes In Queue: 1
+Bounds: [1480,1681]
+Optimality Gap: 11.959999999999999%
+Data: 1480,1681,11.959999999999999
+235.36 seconds
+Nodes In Queue: 1
+Bounds: [1481,1681]
+Optimality Gap: 11.899999999999999%
+Data: 1481,1681,11.899999999999999
+235.61 seconds
+Nodes In Queue: 1
+Bounds: [1483,1681]
+Optimality Gap: 11.78%
+Data: 1483,1681,11.78
+235.99 seconds
+Nodes In Queue: 1
+Bounds: [1484,1681]
+Optimality Gap: 11.72%
+Data: 1484,1681,11.72
+236.07 seconds
+Nodes In Queue: 1
+Bounds: [1485,1681]
+Optimality Gap: 11.66%
+Data: 1485,1681,11.66
+236.17 seconds
+Nodes In Queue: 1
+Bounds: [1486,1681]
+Optimality Gap: 11.600000000000001%
+Data: 1486,1681,11.600000000000001
+236.29 seconds
+Nodes In Queue: 1
+Bounds: [1487,1681]
+Optimality Gap: 11.540000000000001%
+Data: 1487,1681,11.540000000000001
+236.47 seconds
+Nodes In Queue: 1
+Bounds: [1488,1681]
+Optimality Gap: 11.48%
+Data: 1488,1681,11.48
+236.57 seconds
+Nodes In Queue: 1
+Bounds: [1489,1681]
+Optimality Gap: 11.42%
+Data: 1489,1681,11.42
+236.67 seconds
+Nodes In Queue: 1
+Bounds: [1490,1681]
+Optimality Gap: 11.360000000000001%
+Data: 1490,1681,11.360000000000001
+236.89 seconds
+Nodes In Queue: 1
+Bounds: [1491,1681]
+Optimality Gap: 11.3%
+Data: 1491,1681,11.3
+236.94 seconds
+Nodes In Queue: 1
+Bounds: [1492,1681]
+Optimality Gap: 11.24%
+Data: 1492,1681,11.24
+236.99 seconds
+Nodes In Queue: 1
+Bounds: [1493,1681]
+Optimality Gap: 11.18%
+Data: 1493,1681,11.18
+237.05 seconds
+Nodes In Queue: 1
+Bounds: [1496,1681]
+Optimality Gap: 11.01%
+Data: 1496,1681,11.01
+237.19 seconds
+Nodes In Queue: 1
+Bounds: [1497,1681]
+Optimality Gap: 10.95%
+Data: 1497,1681,10.95
+237.29 seconds
+Nodes In Queue: 1
+Bounds: [1498,1681]
+Optimality Gap: 10.89%
+Data: 1498,1681,10.89
+237.38 seconds
+Nodes In Queue: 1
+Bounds: [1499,1681]
+Optimality Gap: 10.83%
+Data: 1499,1681,10.83
+237.63 seconds
+Nodes In Queue: 1
+Bounds: [1500,1681]
+Optimality Gap: 10.77%
+Data: 1500,1681,10.77
+237.77 seconds
+Nodes In Queue: 1
+Bounds: [1501,1681]
+Optimality Gap: 10.71%
+Data: 1501,1681,10.71
+237.84 seconds
+Nodes In Queue: 1
+Bounds: [1502,1681]
+Optimality Gap: 10.65%
+Data: 1502,1681,10.65
+238.02 seconds
+Nodes In Queue: 1
+Bounds: [1503,1681]
+Optimality Gap: 10.59%
+Data: 1503,1681,10.59
+238.08 seconds
+Nodes In Queue: 1
+Bounds: [1505,1681]
+Optimality Gap: 10.47%
+Data: 1505,1681,10.47
+238.13 seconds
+Nodes In Queue: 1
+Bounds: [1506,1681]
+Optimality Gap: 10.41%
+Data: 1506,1681,10.41
+238.21 seconds
+Nodes In Queue: 1
+Bounds: [1508,1681]
+Optimality Gap: 10.290000000000001%
+Data: 1508,1681,10.290000000000001
+238.31 seconds
+Nodes In Queue: 1
+Bounds: [1509,1681]
+Optimality Gap: 10.23%
+Data: 1509,1681,10.23
+238.49 seconds
+Nodes In Queue: 1
+Bounds: [1511,1681]
+Optimality Gap: 10.11%
+Data: 1511,1681,10.11
+238.6 seconds
+Nodes In Queue: 1
+Bounds: [1512,1681]
+Optimality Gap: 10.05%
+Data: 1512,1681,10.05
+238.64 seconds
+Nodes In Queue: 1
+Bounds: [1513,1681]
+Optimality Gap: 9.99%
+Data: 1513,1681,9.99
+238.73 seconds
+Nodes In Queue: 1
+Bounds: [1514,1681]
+Optimality Gap: 9.93%
+Data: 1514,1681,9.93
+238.75 seconds
+Nodes In Queue: 1
+Bounds: [1515,1681]
+Optimality Gap: 9.879999999999999%
+Data: 1515,1681,9.879999999999999
+238.77 seconds
+Nodes In Queue: 1
+Bounds: [1516,1681]
+Optimality Gap: 9.82%
+Data: 1516,1681,9.82
+238.8 seconds
+Nodes In Queue: 1
+Bounds: [1517,1681]
+Optimality Gap: 9.76%
+Data: 1517,1681,9.76
+238.86 seconds
+Nodes In Queue: 1
+Bounds: [1518,1681]
+Optimality Gap: 9.700000000000001%
+Data: 1518,1681,9.700000000000001
+238.88 seconds
+Nodes In Queue: 1
+Bounds: [1519,1681]
+Optimality Gap: 9.64%
+Data: 1519,1681,9.64
+238.9 seconds
+Nodes In Queue: 1
+Bounds: [1522,1681]
+Optimality Gap: 9.46%
+Data: 1522,1681,9.46
+238.92 seconds
+Nodes In Queue: 1
+Bounds: [1568,1681]
+Optimality Gap: 6.72%
+Data: 1568,1681,6.72
+238.96 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 4 10 2 14 21 9 5 12 8 15 7 17 3 11 20 6 13 16 22 18 25 26 19 23 24 27 
+Cost: 1681
+238.97 seconds
+Bounds: [1681,1681]
+Optimality Gap: 0.0%
+Data: 1681,1681,0.0
+238.98 seconds

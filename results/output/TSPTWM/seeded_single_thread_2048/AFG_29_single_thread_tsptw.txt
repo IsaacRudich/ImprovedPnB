@@ -1,0 +1,14 @@
+File Name: rbg041a.tw
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+11.82 seconds
+Bounds: [3793.0,3793.0]
+Optimality Gap: 0.0%
+Data: 3793.0,3793.0,0.0
+11.82 seconds

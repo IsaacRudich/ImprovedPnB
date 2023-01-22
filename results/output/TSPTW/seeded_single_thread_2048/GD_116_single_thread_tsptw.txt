@@ -1,0 +1,24 @@
+File Name: n80w160.001.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [302.0,506.0]
+Optimality Gap: 40.32%
+Data: 302.0,506.0,40.32
+52.14 seconds
+Nodes In Queue: 1
+Bounds: [339.0,506.0]
+Optimality Gap: 33.0%
+Data: 339.0,506.0,33.0
+255.68 seconds
+Nodes In Queue: 2
+Bounds: [340.0,506.0]
+Optimality Gap: 32.81%
+Data: 340.0,506.0,32.81
+462.04 seconds
+Nodes In Queue: 3

@@ -1,0 +1,14 @@
+File Name: n200w40.002.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+27.65 seconds
+Bounds: [1137.0,NA]
+Data: 1137.0,9223372036854775807,100.0
+308.48 seconds
+Nodes In Queue: 1

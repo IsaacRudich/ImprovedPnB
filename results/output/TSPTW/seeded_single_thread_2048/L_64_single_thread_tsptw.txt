@@ -1,0 +1,14 @@
+File Name: N60ft404.dat
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+0.8 seconds
+Bounds: [1184.7,1184.7]
+Optimality Gap: 0.0%
+Data: 1184.7,1184.7,0.0
+0.8 seconds

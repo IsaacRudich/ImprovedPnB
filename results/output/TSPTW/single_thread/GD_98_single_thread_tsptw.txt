@@ -1,0 +1,75 @@
+File Name: n60w200.003.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 10 56 7 4 2 25 33 41 31 45 55 22 37 9 51 17 23 18 12 60 30 6 53 52 44 47 42 29 27 15 36 20 8 58 46 16 43 57 39 40 59 34 49 48 14 13 21 26 32 5 19 3 24 54 35 50 28 11 61 38 62 
+Cost: 514
+47.87 seconds
+Bounds: [162.0,514.0]
+Optimality Gap: 68.47999999999999%
+Data: 162.0,514.0,68.47999999999999
+142.35 seconds
+Improved Solution:
+Sequence: 1 10 56 7 4 2 25 33 41 31 45 55 22 37 9 23 51 15 36 17 18 60 12 6 30 27 29 20 42 47 44 52 53 34 59 58 46 16 57 40 39 43 8 49 48 14 13 21 26 3 19 32 5 24 54 35 50 28 11 61 38 62 
+Cost: 471
+Bounds: [162.0,471.0]
+Optimality Gap: 65.61%
+Data: 162.0,471.0,65.61
+275.66 seconds
+Nodes In Queue: 1
+Bounds: [294.0,471.0]
+Optimality Gap: 37.580000000000005%
+Data: 294.0,471.0,37.580000000000005
+445.82 seconds
+Nodes In Queue: 2
+Bounds: [301.0,471.0]
+Optimality Gap: 36.09%
+Data: 301.0,471.0,36.09
+623.65 seconds
+Nodes In Queue: 3
+Bounds: [305.0,471.0]
+Optimality Gap: 35.24%
+Data: 305.0,471.0,35.24
+783.7 seconds
+Nodes In Queue: 4
+Bounds: [312.0,471.0]
+Optimality Gap: 33.76%
+Data: 312.0,471.0,33.76
+945.94 seconds
+Nodes In Queue: 5
+Bounds: [313.0,471.0]
+Optimality Gap: 33.550000000000004%
+Data: 313.0,471.0,33.550000000000004
+1112.55 seconds
+Nodes In Queue: 6
+Bounds: [315.0,471.0]
+Optimality Gap: 33.12%
+Data: 315.0,471.0,33.12
+1290.94 seconds
+Nodes In Queue: 7
+Bounds: [316.0,471.0]
+Optimality Gap: 32.910000000000004%
+Data: 316.0,471.0,32.910000000000004
+1629.5 seconds
+Nodes In Queue: 9
+Bounds: [317.0,471.0]
+Optimality Gap: 32.7%
+Data: 317.0,471.0,32.7
+1786.37 seconds
+Nodes In Queue: 10
+Bounds: [318.0,471.0]
+Optimality Gap: 32.48%
+Data: 318.0,471.0,32.48
+3085.71 seconds
+Nodes In Queue: 19
+Bounds: [319.0,471.0]
+Optimality Gap: 32.269999999999996%
+Data: 319.0,471.0,32.269999999999996
+3399.09 seconds
+Nodes In Queue: 21

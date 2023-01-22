@@ -1,0 +1,38 @@
+File Name: n80w80.005.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+9.62 seconds
+Bounds: [667.0,NA]
+Data: 667.0,9223372036854775807,100.0
+46.89 seconds
+Nodes In Queue: 1
+Improved Solution:
+Sequence: 1 73 46 6 80 34 74 17 78 5 45 72 10 49 32 56 64 51 62 22 58 25 27 63 54 48 66 33 53 69 55 61 14 4 77 11 28 57 41 47 44 75 9 29 59 70 8 15 16 65 50 35 38 23 76 31 36 2 68 30 19 79 40 20 21 7 67 3 71 26 42 12 13 37 18 39 60 43 24 81 52 82 
+Cost: 690
+Bounds: [682.0,690.0]
+Optimality Gap: 1.16%
+Data: 682.0,690.0,1.16
+127.04 seconds
+Nodes In Queue: 2
+Improved Solution:
+Sequence: 1 73 5 46 6 80 34 74 17 78 45 72 10 56 32 49 51 64 62 22 58 27 25 48 54 63 66 69 53 33 55 14 61 4 77 11 28 57 41 47 44 75 9 29 59 70 8 15 16 65 50 35 38 23 76 31 36 2 68 30 19 79 40 20 21 7 67 3 71 26 42 12 13 37 18 39 60 24 81 43 52 82 
+Cost: 682
+Bounds: [682.0,682.0]
+Optimality Gap: 0.0%
+Data: 682.0,682.0,0.0
+166.66 seconds
+Nodes In Queue: 2
+Optimal Solution Found:
+Sequence: 1 73 5 46 6 80 34 74 17 78 45 72 10 56 32 49 51 64 62 22 58 27 25 48 54 63 66 69 53 33 55 14 61 4 77 11 28 57 41 47 44 75 9 29 59 70 8 15 16 65 50 35 38 23 76 31 36 2 68 30 19 79 40 20 21 7 67 3 71 26 42 12 13 37 18 39 60 24 81 43 52 82 
+Cost: 682
+194.55 seconds
+Bounds: [682.0,682.0]
+Optimality Gap: 0.0%
+Data: 682.0,682.0,0.0
+194.55 seconds

@@ -1,0 +1,45 @@
+File Name: n60w160.004.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 50 35 46 42 24 28 3 32 13 7 37 55 6 38 12 15 51 27 14 34 54 5 57 2 20 19 25 33 59 53 9 4 41 23 45 48 18 30 16 47 43 44 49 26 56 52 22 21 8 11 36 58 10 40 61 39 31 17 29 60 62 
+Cost: 637
+29.58 seconds
+Bounds: [550.0,637.0]
+Optimality Gap: 13.66%
+Data: 550.0,637.0,13.66
+78.3 seconds
+Improved Solution:
+Sequence: 1 50 35 46 42 24 28 3 32 13 7 37 55 6 38 12 15 51 27 14 34 54 5 57 2 20 19 25 33 59 53 9 4 41 23 45 48 18 30 16 47 43 44 49 26 56 52 22 21 8 11 36 58 10 40 61 17 39 31 60 29 62 
+Cost: 623
+Bounds: [550.0,623.0]
+Optimality Gap: 11.72%
+Data: 550.0,623.0,11.72
+96.0 seconds
+Improved Solution:
+Sequence: 1 50 35 46 42 24 28 3 32 13 7 37 38 55 6 12 20 2 15 51 54 34 14 27 5 57 19 25 33 43 59 53 9 4 44 41 47 23 16 45 48 18 22 30 52 49 26 11 8 21 56 58 10 40 36 31 39 17 61 60 29 62 
+Cost: 573
+Bounds: [550.0,573.0]
+Optimality Gap: 4.01%
+Data: 550.0,573.0,4.01
+152.01 seconds
+Nodes In Queue: 1
+Bounds: [572.0,573.0]
+Optimality Gap: 0.16999999999999998%
+Data: 572.0,573.0,0.16999999999999998
+250.68 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 50 35 46 42 24 28 3 32 13 7 37 38 55 6 12 20 2 15 51 54 34 14 27 5 57 19 25 33 43 59 53 9 4 44 41 47 23 16 45 48 18 22 30 52 49 26 11 8 21 56 58 10 40 36 31 39 17 61 60 29 62 
+Cost: 573
+280.64 seconds
+Bounds: [573.0,573.0]
+Optimality Gap: 0.0%
+Data: 573.0,573.0,0.0
+280.64 seconds

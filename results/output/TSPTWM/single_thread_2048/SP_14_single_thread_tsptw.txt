@@ -1,0 +1,53 @@
+File Name: rc204.2
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+7.98 seconds
+Bounds: [701.0789,NA]
+Data: 701.0789,9223372036854775807,100.0
+29.24 seconds
+Improved Solution:
+Sequence: 1 23 20 17 15 13 12 14 16 18 19 28 36 22 5 9 7 21 4 33 25 24 41 37 38 2 30 35 6 8 10 27 40 3 31 32 34 26 11 39 29 42 
+Cost: 931.4295
+Bounds: [701.0789,931.4295]
+Optimality Gap: 24.73%
+Data: 701.0789,931.4295,24.73
+611.31 seconds
+Nodes In Queue: 1
+Improved Solution:
+Sequence: 1 23 20 17 15 13 12 14 16 18 19 28 36 29 6 22 5 9 7 21 4 33 41 2 38 27 37 25 24 30 35 8 10 31 3 40 32 34 26 11 39 42 
+Cost: 919.7242
+Bounds: [728.9379,919.7242]
+Optimality Gap: 20.74%
+Data: 728.9379,919.7242,20.74
+700.37 seconds
+Nodes In Queue: 2
+Improved Solution:
+Sequence: 1 23 20 17 15 13 19 14 12 16 18 28 36 29 33 4 9 7 21 5 22 8 10 41 2 38 37 25 35 30 24 27 32 40 3 31 6 39 11 34 26 42 
+Cost: 917.6346000000001
+Bounds: [728.9379,917.6346000000001]
+Optimality Gap: 20.560000000000002%
+Data: 728.9379,917.6346000000001,20.560000000000002
+2168.56 seconds
+Nodes In Queue: 36
+Improved Solution:
+Sequence: 1 23 20 17 15 19 18 16 14 12 13 28 36 29 33 4 9 7 21 5 22 8 10 41 2 38 37 25 35 30 24 27 32 40 3 31 6 39 11 34 26 42 
+Cost: 915.8947000000001
+Bounds: [728.9379,915.8947000000001]
+Optimality Gap: 20.41%
+Data: 728.9379,915.8947000000001,20.41
+2819.72 seconds
+Nodes In Queue: 52
+Improved Solution:
+Sequence: 1 23 20 17 15 19 18 16 14 12 13 28 36 29 33 4 9 7 21 5 22 8 10 41 2 38 24 30 35 25 37 27 32 40 3 31 6 39 11 34 26 42 
+Cost: 914.8894
+Bounds: [728.9379,914.8894]
+Optimality Gap: 20.330000000000002%
+Data: 728.9379,914.8894,20.330000000000002
+3009.95 seconds
+Nodes In Queue: 56

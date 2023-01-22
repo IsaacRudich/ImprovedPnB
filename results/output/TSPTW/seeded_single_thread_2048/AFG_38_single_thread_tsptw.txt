@@ -1,0 +1,29 @@
+File Name: rbg086a.tw
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [7876.0,8400.0]
+Optimality Gap: 6.239999999999999%
+Data: 7876.0,8400.0,6.239999999999999
+24.59 seconds
+Nodes In Queue: 1
+Bounds: [8298.0,8400.0]
+Optimality Gap: 1.21%
+Data: 8298.0,8400.0,1.21
+72.69 seconds
+Nodes In Queue: 2
+Bounds: [8398.0,8400.0]
+Optimality Gap: 0.02%
+Data: 8398.0,8400.0,0.02
+115.26 seconds
+Nodes In Queue: 2
+132.49 seconds
+Bounds: [8400.0,8400.0]
+Optimality Gap: 0.0%
+Data: 8400.0,8400.0,0.0
+132.49 seconds

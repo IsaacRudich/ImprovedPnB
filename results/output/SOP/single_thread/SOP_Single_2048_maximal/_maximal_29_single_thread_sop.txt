@@ -1,0 +1,114 @@
+File Name: rbg050c.sop
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 5
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 3 2 12 4 21 36 47 30 31 6 20 19 5 25 24 27 8 35 34 17 16 29 42 43 39 28 41 7 44 18 9 10 11 13 22 14 23 15 26 48 32 33 51 50 49 45 40 38 37 46 52 
+Cost: 567
+11.98 seconds
+Bounds: [165,567]
+Optimality Gap: 70.89999999999999%
+Data: 165,567,70.89999999999999
+59.52 seconds
+Improved Solution:
+Sequence: 1 3 2 12 4 21 47 30 6 20 19 5 25 24 27 8 7 14 43 28 15 36 42 18 10 35 34 22 39 9 41 11 31 13 17 29 16 26 44 32 23 33 46 48 38 51 50 49 45 40 37 52 
+Cost: 493
+Bounds: [165,493]
+Optimality Gap: 66.53%
+Data: 165,493,66.53
+96.67 seconds
+Nodes In Queue: 1
+Bounds: [243,493]
+Optimality Gap: 50.71%
+Data: 243,493,50.71
+177.83 seconds
+Nodes In Queue: 2
+Bounds: [246,493]
+Optimality Gap: 50.1%
+Data: 246,493,50.1
+258.56 seconds
+Nodes In Queue: 3
+Bounds: [268,493]
+Optimality Gap: 45.64%
+Data: 268,493,45.64
+338.31 seconds
+Nodes In Queue: 4
+Bounds: [271,493]
+Optimality Gap: 45.03%
+Data: 271,493,45.03
+407.53 seconds
+Nodes In Queue: 5
+Bounds: [272,493]
+Optimality Gap: 44.83%
+Data: 272,493,44.83
+479.17 seconds
+Nodes In Queue: 6
+Bounds: [274,493]
+Optimality Gap: 44.42%
+Data: 274,493,44.42
+523.48 seconds
+Nodes In Queue: 6
+Bounds: [280,493]
+Optimality Gap: 43.2%
+Data: 280,493,43.2
+566.05 seconds
+Nodes In Queue: 6
+Bounds: [281,493]
+Optimality Gap: 43.0%
+Data: 281,493,43.0
+693.33 seconds
+Nodes In Queue: 8
+Bounds: [282,493]
+Optimality Gap: 42.8%
+Data: 282,493,42.8
+964.59 seconds
+Nodes In Queue: 11
+Bounds: [283,493]
+Optimality Gap: 42.6%
+Data: 283,493,42.6
+1096.17 seconds
+Nodes In Queue: 13
+Bounds: [284,493]
+Optimality Gap: 42.39%
+Data: 284,493,42.39
+1426.18 seconds
+Nodes In Queue: 17
+Bounds: [285,493]
+Optimality Gap: 42.19%
+Data: 285,493,42.19
+1622.57 seconds
+Nodes In Queue: 20
+Bounds: [286,493]
+Optimality Gap: 41.99%
+Data: 286,493,41.99
+1798.24 seconds
+Nodes In Queue: 23
+Bounds: [287,493]
+Optimality Gap: 41.78%
+Data: 287,493,41.78
+2041.58 seconds
+Nodes In Queue: 27
+Bounds: [288,493]
+Optimality Gap: 41.58%
+Data: 288,493,41.58
+2297.87 seconds
+Nodes In Queue: 31
+Bounds: [289,493]
+Optimality Gap: 41.38%
+Data: 289,493,41.38
+2605.43 seconds
+Nodes In Queue: 36
+Bounds: [290,493]
+Optimality Gap: 41.18%
+Data: 290,493,41.18
+3038.11 seconds
+Nodes In Queue: 43
+Bounds: [291,493]
+Optimality Gap: 40.97%
+Data: 291,493,40.97
+3609.61 seconds
+Nodes In Queue: 52

@@ -1,0 +1,24 @@
+File Name: rbg021.5.tw
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [4473.0,4515.0]
+Optimality Gap: 0.9299999999999999%
+Data: 4473.0,4515.0,0.9299999999999999
+5.47 seconds
+Nodes In Queue: 1
+Bounds: [4483.0,4515.0]
+Optimality Gap: 0.7100000000000001%
+Data: 4483.0,4515.0,0.7100000000000001
+11.24 seconds
+Nodes In Queue: 1
+12.88 seconds
+Bounds: [4515.0,4515.0]
+Optimality Gap: 0.0%
+Data: 4515.0,4515.0,0.0
+12.88 seconds

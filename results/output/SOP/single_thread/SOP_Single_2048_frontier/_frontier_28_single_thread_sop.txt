@@ -1,0 +1,81 @@
+File Name: rbg048a.sop
+Peel Setting: frontier
+Max Width: 2048
+Variety Search Width: 5
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 48 2 4 19 22 5 3 32 7 16 30 34 15 13 11 12 27 17 29 49 26 18 23 14 20 28 21 6 24 10 9 31 33 8 25 36 35 37 38 40 47 45 39 46 42 43 41 44 50 
+Cost: 399
+12.5 seconds
+Bounds: [179,399]
+Optimality Gap: 55.14%
+Data: 179,399,55.14
+56.1 seconds
+Improved Solution:
+Sequence: 1 2 4 19 22 5 6 3 24 8 48 29 49 26 18 17 7 16 30 34 15 13 11 12 27 23 28 21 20 14 33 10 9 31 25 36 35 32 38 37 47 42 43 40 41 39 46 45 44 50 
+Cost: 390
+Bounds: [179,390]
+Optimality Gap: 54.1%
+Data: 179,390,54.1
+96.67 seconds
+Nodes In Queue: 1
+Bounds: [221,390]
+Optimality Gap: 43.33%
+Data: 221,390,43.33
+177.3 seconds
+Nodes In Queue: 2
+Bounds: [236,390]
+Optimality Gap: 39.489999999999995%
+Data: 236,390,39.489999999999995
+250.77 seconds
+Nodes In Queue: 3
+Improved Solution:
+Sequence: 1 49 10 48 2 4 19 22 35 30 34 15 13 28 27 17 18 23 5 3 32 29 7 16 11 12 21 20 14 25 6 24 8 26 9 31 36 33 38 37 43 46 42 47 45 39 40 41 44 50 
+Cost: 386
+Bounds: [236,386]
+Optimality Gap: 38.86%
+Data: 236,386,38.86
+326.31 seconds
+Nodes In Queue: 4
+Improved Solution:
+Sequence: 1 2 4 19 22 5 3 32 7 6 24 8 48 29 9 16 34 30 15 13 11 12 27 17 49 10 18 23 14 20 28 21 25 36 35 31 33 26 38 37 45 47 42 43 46 39 40 41 44 50 
+Cost: 385
+Bounds: [237,385]
+Optimality Gap: 38.440000000000005%
+Data: 237,385,38.440000000000005
+392.81 seconds
+Nodes In Queue: 5
+Improved Solution:
+Sequence: 1 2 4 19 22 5 3 24 7 16 34 30 15 13 6 32 8 48 29 9 20 28 27 17 49 26 10 18 23 25 12 21 14 35 11 36 31 33 38 37 43 46 42 47 45 39 40 41 44 50 
+Cost: 366
+Bounds: [237,366]
+Optimality Gap: 35.25%
+Data: 237,366,35.25
+446.87 seconds
+Nodes In Queue: 6
+Bounds: [238,366]
+Optimality Gap: 34.97%
+Data: 238,366,34.97
+866.37 seconds
+Nodes In Queue: 13
+Bounds: [239,366]
+Optimality Gap: 34.699999999999996%
+Data: 239,366,34.699999999999996
+1498.2 seconds
+Nodes In Queue: 25
+Improved Solution:
+Sequence: 1 2 4 25 5 3 24 7 35 6 32 8 48 29 9 16 34 30 15 13 11 19 22 28 27 17 49 10 18 23 14 20 12 21 31 36 33 26 38 37 47 42 43 46 45 39 40 41 44 50 
+Cost: 365
+Bounds: [239,365]
+Optimality Gap: 34.52%
+Data: 239,365,34.52
+2495.86 seconds
+Nodes In Queue: 42
+Bounds: [240,365]
+Optimality Gap: 34.25%
+Data: 240,365,34.25
+3231.21 seconds
+Nodes In Queue: 54

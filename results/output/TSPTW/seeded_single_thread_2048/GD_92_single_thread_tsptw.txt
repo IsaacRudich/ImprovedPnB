@@ -1,0 +1,29 @@
+File Name: n60w180.002.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [247.0,399.0]
+Optimality Gap: 38.1%
+Data: 247.0,399.0,38.1
+72.84 seconds
+Nodes In Queue: 1
+Bounds: [280.0,399.0]
+Optimality Gap: 29.82%
+Data: 280.0,399.0,29.82
+257.82 seconds
+Nodes In Queue: 2
+Bounds: [304.0,399.0]
+Optimality Gap: 23.810000000000002%
+Data: 304.0,399.0,23.810000000000002
+416.21 seconds
+Nodes In Queue: 3
+Bounds: [305.0,399.0]
+Optimality Gap: 23.56%
+Data: 305.0,399.0,23.56
+2772.21 seconds
+Nodes In Queue: 24

@@ -1,0 +1,40 @@
+File Name: n80w120.001.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 18 59 30 38 40 54 65 78 80 51 39 10 3 7 2 34 20 35 32 23 77 74 67 55 75 49 9 4 8 50 15 16 6 56 45 57 36 26 61 63 25 31 72 48 21 33 22 62 14 19 5 66 53 42 47 17 29 58 69 60 41 79 44 37 46 24 73 68 13 52 28 71 27 43 12 81 76 11 70 64 82 
+Cost: 607
+42.98 seconds
+Bounds: [198.0,607.0]
+Optimality Gap: 67.38%
+Data: 198.0,607.0,67.38
+134.94 seconds
+Improved Solution:
+Sequence: 1 18 35 32 59 30 38 40 54 65 78 20 80 51 10 39 3 7 2 49 75 55 50 15 16 6 8 56 74 67 4 9 34 72 31 23 25 77 57 45 36 61 26 63 48 21 33 22 62 14 19 5 66 53 42 47 17 29 58 69 60 41 79 24 46 37 44 68 73 13 52 28 71 27 43 12 11 76 81 64 70 82 
+Cost: 514
+Bounds: [198.0,514.0]
+Optimality Gap: 61.480000000000004%
+Data: 198.0,514.0,61.480000000000004
+219.56 seconds
+Nodes In Queue: 1
+Bounds: [326.0,514.0]
+Optimality Gap: 36.58%
+Data: 326.0,514.0,36.58
+408.21 seconds
+Nodes In Queue: 2
+Bounds: [327.0,514.0]
+Optimality Gap: 36.38%
+Data: 327.0,514.0,36.38
+628.12 seconds
+Nodes In Queue: 3
+Bounds: [362.0,514.0]
+Optimality Gap: 29.57%
+Data: 362.0,514.0,29.57
+864.11 seconds
+Nodes In Queue: 4

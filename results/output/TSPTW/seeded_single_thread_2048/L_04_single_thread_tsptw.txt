@@ -1,0 +1,14 @@
+File Name: N20ft304.dat
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+0.18 seconds
+Bounds: [817.0,817.0]
+Optimality Gap: 0.0%
+Data: 817.0,817.0,0.0
+0.18 seconds

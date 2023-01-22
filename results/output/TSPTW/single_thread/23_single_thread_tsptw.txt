@@ -1,0 +1,73 @@
+File Name: n150w40.003.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+42.23 seconds
+Bounds: [329.0,NA]
+Data: 329.0,9223372036854775807,100.0
+160.76 seconds
+Improved Solution:
+Sequence: 1 87 143 139 16 142 95 71 14 44 89 88 36 54 72 52 81 104 39 125 141 76 64 5 18 34 23 62 7 121 75 86 29 93 30 97 21 127 6 47 108 59 107 31 140 80 3 26 124 137 60 42 96 146 24 129 84 22 35 49 19 82 114 136 111 103 123 122 138 46 98 38 2 130 131 69 58 70 78 33 112 25 56 118 119 147 109 20 43 120 132 77 144 106 94 135 53 12 51 45 9 85 27 115 102 113 37 61 117 101 17 74 32 65 73 99 105 50 110 13 149 133 68 4 10 57 134 92 148 145 15 11 55 91 90 63 8 41 66 116 126 79 83 100 48 67 150 40 128 151 28 152 
+Cost: 747
+Bounds: [329.0,747.0]
+Optimality Gap: 55.96%
+Data: 329.0,747.0,55.96
+209.54 seconds
+Improved Solution:
+Sequence: 1 87 139 143 16 142 95 71 14 44 89 88 36 54 72 52 81 104 39 141 125 76 64 5 18 34 23 62 7 121 75 86 29 93 30 97 21 6 47 108 127 107 59 31 140 80 3 26 124 137 60 96 42 146 24 129 84 22 49 35 19 82 114 136 103 111 123 122 138 46 98 38 2 130 131 69 58 70 78 33 112 25 56 118 119 147 109 20 43 120 132 77 144 106 94 135 53 12 51 45 9 85 27 113 37 61 117 101 17 74 32 115 102 65 73 99 105 110 13 50 149 133 68 4 10 134 92 57 148 145 15 11 63 8 41 55 90 91 66 116 126 79 83 100 48 67 150 40 128 151 28 152 
+Cost: 737
+Bounds: [329.0,737.0]
+Optimality Gap: 55.36%
+Data: 329.0,737.0,55.36
+237.37 seconds
+Nodes In Queue: 1
+Bounds: [394.0,737.0]
+Optimality Gap: 46.54%
+Data: 394.0,737.0,46.54
+784.89 seconds
+Nodes In Queue: 2
+Bounds: [396.0,737.0]
+Optimality Gap: 46.27%
+Data: 396.0,737.0,46.27
+1254.2 seconds
+Nodes In Queue: 3
+Bounds: [479.0,737.0]
+Optimality Gap: 35.010000000000005%
+Data: 479.0,737.0,35.010000000000005
+1738.42 seconds
+Nodes In Queue: 4
+Bounds: [481.0,737.0]
+Optimality Gap: 34.74%
+Data: 481.0,737.0,34.74
+2100.25 seconds
+Nodes In Queue: 5
+Bounds: [484.0,737.0]
+Optimality Gap: 34.33%
+Data: 484.0,737.0,34.33
+2462.05 seconds
+Nodes In Queue: 6
+Bounds: [487.0,737.0]
+Optimality Gap: 33.92%
+Data: 487.0,737.0,33.92
+2844.55 seconds
+Nodes In Queue: 7
+Bounds: [525.0,737.0]
+Optimality Gap: 28.77%
+Data: 525.0,737.0,28.77
+3047.1 seconds
+Nodes In Queue: 7
+Bounds: [526.0,737.0]
+Optimality Gap: 28.63%
+Data: 526.0,737.0,28.63
+3335.86 seconds
+Nodes In Queue: 8
+Bounds: [528.0,737.0]
+Optimality Gap: 28.360000000000003%
+Data: 528.0,737.0,28.360000000000003
+3499.23 seconds
+Nodes In Queue: 8

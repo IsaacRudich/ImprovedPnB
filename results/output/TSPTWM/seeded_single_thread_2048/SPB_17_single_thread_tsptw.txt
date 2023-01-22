@@ -1,0 +1,22 @@
+File Name: rc_205.2.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [809.6469,820.19]
+Optimality Gap: 1.29%
+Data: 809.6469,820.19,1.29
+5.96 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 13 18 23 5 4 2 12 10 7 8 24 15 26 25 14 11 9 17 27 20 16 22 3 6 19 21 28 
+Cost: 820.1853
+9.11 seconds
+Bounds: [820.1853,820.1853]
+Optimality Gap: 0.0%
+Data: 820.1853,820.1853,0.0
+9.12 seconds

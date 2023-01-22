@@ -1,0 +1,24 @@
+File Name: rbg034a.tw
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [1950.0,2222.0]
+Optimality Gap: 12.24%
+Data: 1950.0,2222.0,12.24
+9.55 seconds
+Nodes In Queue: 1
+Bounds: [2123.0,2222.0]
+Optimality Gap: 4.46%
+Data: 2123.0,2222.0,4.46
+26.88 seconds
+Nodes In Queue: 2
+34.02 seconds
+Bounds: [2222.0,2222.0]
+Optimality Gap: 0.0%
+Data: 2222.0,2222.0,0.0
+34.02 seconds

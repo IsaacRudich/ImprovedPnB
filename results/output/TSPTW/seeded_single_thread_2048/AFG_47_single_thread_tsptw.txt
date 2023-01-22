@@ -1,0 +1,44 @@
+File Name: rbg193.tw
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [10054.0,12535.0]
+Optimality Gap: 19.79%
+Data: 10054.0,12535.0,19.79
+418.74 seconds
+Nodes In Queue: 1
+Bounds: [10786.0,12535.0]
+Optimality Gap: 13.950000000000001%
+Data: 10786.0,12535.0,13.950000000000001
+951.45 seconds
+Nodes In Queue: 2
+Bounds: [11247.0,12535.0]
+Optimality Gap: 10.280000000000001%
+Data: 11247.0,12535.0,10.280000000000001
+1875.9 seconds
+Nodes In Queue: 4
+Bounds: [11260.0,12535.0]
+Optimality Gap: 10.17%
+Data: 11260.0,12535.0,10.17
+2507.35 seconds
+Nodes In Queue: 6
+Bounds: [11929.0,12535.0]
+Optimality Gap: 4.83%
+Data: 11929.0,12535.0,4.83
+3146.11 seconds
+Nodes In Queue: 8
+Bounds: [11932.0,12535.0]
+Optimality Gap: 4.81%
+Data: 11932.0,12535.0,4.81
+3371.27 seconds
+Nodes In Queue: 9
+Bounds: [11958.0,12535.0]
+Optimality Gap: 4.6%
+Data: 11958.0,12535.0,4.6
+3600.51 seconds
+Nodes In Queue: 10

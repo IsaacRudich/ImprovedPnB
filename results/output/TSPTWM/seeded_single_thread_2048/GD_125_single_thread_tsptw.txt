@@ -1,0 +1,19 @@
+File Name: n80w180.005.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [443.0,632.0]
+Optimality Gap: 29.909999999999997%
+Data: 443.0,632.0,29.909999999999997
+133.42 seconds
+Nodes In Queue: 1
+Bounds: [444.0,632.0]
+Optimality Gap: 29.75%
+Data: 444.0,632.0,29.75
+374.28 seconds
+Nodes In Queue: 2

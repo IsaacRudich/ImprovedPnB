@@ -1,0 +1,89 @@
+File Name: rbg050b.tw
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [9508.0,9863.0]
+Optimality Gap: 3.5999999999999996%
+Data: 9508.0,9863.0,3.5999999999999996
+30.1 seconds
+Nodes In Queue: 1
+Bounds: [9687.0,9863.0]
+Optimality Gap: 1.78%
+Data: 9687.0,9863.0,1.78
+84.42 seconds
+Nodes In Queue: 2
+Bounds: [9694.0,9863.0]
+Optimality Gap: 1.71%
+Data: 9694.0,9863.0,1.71
+114.61 seconds
+Nodes In Queue: 2
+Bounds: [9701.0,9863.0]
+Optimality Gap: 1.6400000000000001%
+Data: 9701.0,9863.0,1.6400000000000001
+145.62 seconds
+Nodes In Queue: 2
+Bounds: [9702.0,9863.0]
+Optimality Gap: 1.63%
+Data: 9702.0,9863.0,1.63
+292.54 seconds
+Nodes In Queue: 4
+Bounds: [9703.0,9863.0]
+Optimality Gap: 1.6199999999999999%
+Data: 9703.0,9863.0,1.6199999999999999
+553.83 seconds
+Nodes In Queue: 8
+Bounds: [9704.0,9863.0]
+Optimality Gap: 1.6099999999999999%
+Data: 9704.0,9863.0,1.6099999999999999
+790.26 seconds
+Nodes In Queue: 13
+Bounds: [9705.0,9863.0]
+Optimality Gap: 1.6%
+Data: 9705.0,9863.0,1.6
+1014.69 seconds
+Nodes In Queue: 17
+Bounds: [9706.0,9863.0]
+Optimality Gap: 1.59%
+Data: 9706.0,9863.0,1.59
+1236.05 seconds
+Nodes In Queue: 22
+Bounds: [9707.0,9863.0]
+Optimality Gap: 1.58%
+Data: 9707.0,9863.0,1.58
+1488.25 seconds
+Nodes In Queue: 28
+Bounds: [9708.0,9863.0]
+Optimality Gap: 1.5699999999999998%
+Data: 9708.0,9863.0,1.5699999999999998
+1823.45 seconds
+Nodes In Queue: 37
+Bounds: [9709.0,9863.0]
+Optimality Gap: 1.5599999999999998%
+Data: 9709.0,9863.0,1.5599999999999998
+2082.85 seconds
+Nodes In Queue: 44
+Bounds: [9710.0,9863.0]
+Optimality Gap: 1.55%
+Data: 9710.0,9863.0,1.55
+2209.3 seconds
+Nodes In Queue: 47
+Bounds: [9711.0,9863.0]
+Optimality Gap: 1.54%
+Data: 9711.0,9863.0,1.54
+2597.16 seconds
+Nodes In Queue: 56
+Bounds: [9712.0,9863.0]
+Optimality Gap: 1.53%
+Data: 9712.0,9863.0,1.53
+3067.73 seconds
+Nodes In Queue: 68
+Bounds: [9713.0,9863.0]
+Optimality Gap: 1.52%
+Data: 9713.0,9863.0,1.52
+3471.06 seconds
+Nodes In Queue: 78

@@ -1,0 +1,33 @@
+File Name: rbg033a.tw
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 2 4 5 6 7 8 3 11 10 9 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 33 34 32 35 
+Cost: 3758
+6.66 seconds
+Bounds: [3714.0,3758.0]
+Optimality Gap: 1.17%
+Data: 3714.0,3758.0,1.17
+14.39 seconds
+Improved Solution:
+Sequence: 1 2 5 4 3 9 11 6 8 7 12 13 10 15 16 14 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 
+Cost: 3757
+Bounds: [3714.0,3757.0]
+Optimality Gap: 1.1400000000000001%
+Data: 3714.0,3757.0,1.1400000000000001
+22.64 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 2 5 4 3 9 11 6 8 7 12 13 10 15 16 14 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 
+Cost: 3757
+26.84 seconds
+Bounds: [3757.0,3757.0]
+Optimality Gap: 0.0%
+Data: 3757.0,3757.0,0.0
+26.84 seconds

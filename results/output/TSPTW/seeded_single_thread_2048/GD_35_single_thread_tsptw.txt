@@ -1,0 +1,19 @@
+File Name: n20w140.005.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [205.0,225.0]
+Optimality Gap: 8.89%
+Data: 205.0,225.0,8.89
+4.12 seconds
+Nodes In Queue: 1
+6.15 seconds
+Bounds: [225.0,225.0]
+Optimality Gap: 0.0%
+Data: 225.0,225.0,0.0
+6.15 seconds

@@ -1,0 +1,21 @@
+File Name: N60ft306.dat
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 7 50 48 42 8 41 14 58 16 24 20 59 28 23 45 51 10 13 54 26 56 57 39 6 18 25 34 4 11 43 30 36 12 32 52 38 35 5 37 47 46 22 33 60 40 44 31 21 15 53 49 27 19 3 9 55 2 17 29 61 
+Cost: 1167.8999999999999
+4.17 seconds
+Optimal Solution Found:
+Sequence: 1 7 50 48 42 8 41 14 58 16 24 20 59 28 23 45 51 10 13 54 26 56 57 39 6 18 25 34 4 11 43 30 36 12 32 52 38 35 5 37 47 46 22 33 60 40 44 31 21 15 53 49 27 19 3 9 55 2 17 29 61 
+Cost: 1167.8999999999999
+4.87 seconds
+Bounds: [1167.8999999999999,1167.8999999999999]
+Optimality Gap: 0.0%
+Data: 1167.8999999999999,1167.8999999999999,0.0
+4.87 seconds

@@ -1,0 +1,39 @@
+File Name: n40w100.003.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 23 17 27 14 18 35 26 3 24 31 19 15 13 9 16 4 40 22 2 8 5 30 32 36 25 29 39 38 28 11 21 10 12 7 34 6 37 41 33 20 42 
+Cost: 368
+9.86 seconds
+Bounds: [274.0,368.0]
+Optimality Gap: 25.540000000000003%
+Data: 274.0,368.0,25.540000000000003
+29.17 seconds
+Nodes In Queue: 1
+Bounds: [314.0,368.0]
+Optimality Gap: 14.67%
+Data: 314.0,368.0,14.67
+62.76 seconds
+Nodes In Queue: 2
+Improved Solution:
+Sequence: 1 23 17 27 14 18 35 26 3 24 31 19 15 13 9 16 4 22 40 36 25 32 30 5 8 2 29 39 38 28 11 21 10 7 12 34 6 41 37 33 20 42 
+Cost: 364
+Bounds: [330.0,364.0]
+Optimality Gap: 9.34%
+Data: 330.0,364.0,9.34
+67.96 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 23 17 27 14 18 35 26 3 24 31 19 15 13 9 16 4 22 40 36 25 32 30 5 8 2 29 39 38 28 11 21 10 7 12 34 6 41 37 33 20 42 
+Cost: 364
+71.79 seconds
+Bounds: [364.0,364.0]
+Optimality Gap: 0.0%
+Data: 364.0,364.0,0.0
+71.79 seconds

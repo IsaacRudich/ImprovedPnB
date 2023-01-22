@@ -1,0 +1,39 @@
+File Name: rbg050c.tw
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+5.21 seconds
+Bounds: [10898.0,NA]
+Data: 10898.0,9223372036854775807,100.0
+24.48 seconds
+Nodes In Queue: 1
+Bounds: [10921.0,NA]
+Data: 10921.0,9223372036854775807,100.0
+127.54 seconds
+Nodes In Queue: 2
+Improved Solution:
+Sequence: 1 3 2 4 5 6 7 12 34 8 16 29 42 43 9 10 11 17 18 14 20 19 13 21 22 15 36 24 25 27 28 23 47 30 31 41 32 33 26 48 35 50 49 44 39 38 40 37 45 51 46 52 
+Cost: 10985
+Bounds: [10921.0,10985.0]
+Optimality Gap: 0.58%
+Data: 10921.0,10985.0,0.58
+449.98 seconds
+Nodes In Queue: 9
+Bounds: [10985.0,10985.0]
+Optimality Gap: 0.0%
+Data: 10985.0,10985.0,0.0
+608.13 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 3 2 4 5 6 7 12 34 8 16 29 42 43 9 10 11 17 18 14 20 19 13 21 22 15 36 24 25 27 28 23 47 30 31 41 32 33 26 48 35 50 49 44 39 38 40 37 45 51 46 52 
+Cost: 10985
+612.44 seconds
+Bounds: [10985.0,10985.0]
+Optimality Gap: 0.0%
+Data: 10985.0,10985.0,0.0
+612.44 seconds

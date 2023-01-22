@@ -1,0 +1,21 @@
+File Name: rc201.3
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 10 8 9 16 11 14 20 17 6 19 5 18 7 12 3 13 15 4 2 21 
+Cost: 722.4343
+1.21 seconds
+Optimal Solution Found:
+Sequence: 1 10 8 9 16 11 14 20 17 6 19 5 18 7 12 3 13 15 4 2 21 
+Cost: 722.4343
+1.61 seconds
+Bounds: [722.4343,722.4343]
+Optimality Gap: 0.0%
+Data: 722.4343,722.4343,0.0
+1.62 seconds

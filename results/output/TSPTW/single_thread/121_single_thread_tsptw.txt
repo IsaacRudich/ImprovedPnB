@@ -1,0 +1,64 @@
+File Name: n80w40.001.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 6 57 39 52 61 55 62 28 51 18 54 20 5 7 35 25 34 14 10 15 31 71 46 70 4 72 73 50 21 67 37 65 79 69 9 58 49 26 13 30 59 56 42 43 80 16 22 36 60 53 33 2 8 74 48 45 27 63 76 75 29 11 17 47 32 77 44 40 19 38 64 66 3 41 24 68 78 12 81 23 82 
+Cost: 616
+21.03 seconds
+Bounds: [448.0,616.0]
+Optimality Gap: 27.27%
+Data: 448.0,616.0,27.27
+79.7 seconds
+Nodes In Queue: 1
+Bounds: [521.0,616.0]
+Optimality Gap: 15.42%
+Data: 521.0,616.0,15.42
+167.68 seconds
+Nodes In Queue: 2
+Bounds: [524.0,616.0]
+Optimality Gap: 14.940000000000001%
+Data: 524.0,616.0,14.940000000000001
+197.06 seconds
+Nodes In Queue: 2
+Bounds: [568.0,616.0]
+Optimality Gap: 7.79%
+Data: 568.0,616.0,7.79
+225.72 seconds
+Nodes In Queue: 2
+Bounds: [570.0,616.0]
+Optimality Gap: 7.470000000000001%
+Data: 570.0,616.0,7.470000000000001
+260.83 seconds
+Nodes In Queue: 3
+Bounds: [579.0,616.0]
+Optimality Gap: 6.01%
+Data: 579.0,616.0,6.01
+283.21 seconds
+Nodes In Queue: 3
+Improved Solution:
+Sequence: 1 6 57 39 52 61 55 62 28 51 18 54 20 5 7 35 25 14 34 10 15 31 71 46 70 4 72 73 50 21 67 37 65 69 79 9 58 49 26 13 30 59 56 42 43 36 22 16 80 60 53 33 2 8 74 48 45 27 63 76 75 29 11 17 47 32 77 44 40 19 38 64 66 3 41 24 68 78 12 81 23 82 
+Cost: 606
+Bounds: [587.0,606.0]
+Optimality Gap: 3.1399999999999997%
+Data: 587.0,606.0,3.1399999999999997
+295.22 seconds
+Nodes In Queue: 2
+Bounds: [589.0,606.0]
+Optimality Gap: 2.81%
+Data: 589.0,606.0,2.81
+305.34 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 6 57 39 52 61 55 62 28 51 18 54 20 5 7 35 25 14 34 10 15 31 71 46 70 4 72 73 50 21 67 37 65 69 79 9 58 49 26 13 30 59 56 42 43 36 22 16 80 60 53 33 2 8 74 48 45 27 63 76 75 29 11 17 47 32 77 44 40 19 38 64 66 3 41 24 68 78 12 81 23 82 
+Cost: 606
+313.45 seconds
+Bounds: [606.0,606.0]
+Optimality Gap: 0.0%
+Data: 606.0,606.0,0.0
+313.45 seconds

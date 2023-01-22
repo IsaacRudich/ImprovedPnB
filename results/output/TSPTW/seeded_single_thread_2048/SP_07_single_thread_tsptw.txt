@@ -1,0 +1,19 @@
+File Name: rc202.2
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [556.8552999999999,611.77]
+Optimality Gap: 8.98%
+Data: 556.8552999999999,611.77,8.98
+7.22 seconds
+Nodes In Queue: 1
+9.32 seconds
+Bounds: [611.77,611.77]
+Optimality Gap: 0.0%
+Data: 611.77,611.77,0.0
+9.32 seconds

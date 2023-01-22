@@ -1,0 +1,33 @@
+File Name: n100w160.001.txt
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 57 37 83 11 81 44 69 68 80 40 70 32 56 29 82 7 46 2 18 47 34 91 20 50 43 22 5 84 16 86 17 9 3 12 58 21 99 65 49 30 90 13 76 62 73 78 51 15 95 92 89 26 60 97 14 25 72 27 101 8 98 100 31 19 45 54 33 48 79 75 71 52 94 77 66 59 41 55 35 74 88 53 67 39 93 6 87 96 4 38 85 23 24 28 64 42 61 63 10 36 102 
+Cost: 614
+83.86 seconds
+Bounds: [305.0,614.0]
+Optimality Gap: 50.33%
+Data: 305.0,614.0,50.33
+250.43 seconds
+Nodes In Queue: 1
+Bounds: [410.0,614.0]
+Optimality Gap: 33.22%
+Data: 410.0,614.0,33.22
+814.64 seconds
+Nodes In Queue: 2
+Bounds: [411.0,614.0]
+Optimality Gap: 33.06%
+Data: 411.0,614.0,33.06
+1143.17 seconds
+Nodes In Queue: 3
+Bounds: [415.0,614.0]
+Optimality Gap: 32.41%
+Data: 415.0,614.0,32.41
+1489.41 seconds
+Nodes In Queue: 4

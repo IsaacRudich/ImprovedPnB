@@ -1,0 +1,34 @@
+File Name: rbg152.3.tw
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [6902.0,9788.0]
+Optimality Gap: 29.49%
+Data: 6902.0,9788.0,29.49
+523.36 seconds
+Nodes In Queue: 1
+Bounds: [7166.0,9788.0]
+Optimality Gap: 26.790000000000003%
+Data: 7166.0,9788.0,26.790000000000003
+1384.79 seconds
+Nodes In Queue: 2
+Bounds: [7228.0,9788.0]
+Optimality Gap: 26.150000000000002%
+Data: 7228.0,9788.0,26.150000000000002
+2154.45 seconds
+Nodes In Queue: 3
+Bounds: [7239.0,9788.0]
+Optimality Gap: 26.040000000000003%
+Data: 7239.0,9788.0,26.040000000000003
+2884.64 seconds
+Nodes In Queue: 4
+Bounds: [7240.0,9788.0]
+Optimality Gap: 26.029999999999998%
+Data: 7240.0,9788.0,26.029999999999998
+3650.04 seconds
+Nodes In Queue: 5

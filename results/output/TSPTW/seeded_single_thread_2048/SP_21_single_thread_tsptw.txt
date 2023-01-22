@@ -1,0 +1,29 @@
+File Name: rc206.2
+Makespan Objective: false
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Bounds: [580.6492999999999,655.37]
+Optimality Gap: 11.4%
+Data: 580.6492999999999,655.37,11.4
+10.13 seconds
+Nodes In Queue: 1
+Bounds: [594.8981,655.37]
+Optimality Gap: 9.229999999999999%
+Data: 594.8981,655.37,9.229999999999999
+22.71 seconds
+Nodes In Queue: 2
+Bounds: [597.5647,655.37]
+Optimality Gap: 8.82%
+Data: 597.5647,655.37,8.82
+26.07 seconds
+Nodes In Queue: 1
+29.53 seconds
+Bounds: [655.37,655.37]
+Optimality Gap: 0.0%
+Data: 655.37,655.37,0.0
+29.53 seconds

@@ -1,0 +1,39 @@
+File Name: kro124p.3.sop
+Peel Setting: frontier
+Max Width: 2048
+Variety Search Width: 5
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 93 28 58 67 8 92 63 6 90 88 79 10 21 32 15 17 45 77 51 9 57 83 55 34 3 48 52 5 13 33 82 50 2 64 40 31 89 80 97 75 49 19 53 65 26 66 70 94 22 18 36 84 72 11 23 60 62 35 7 25 61 69 85 30 96 78 41 100 71 14 29 27 12 20 87 98 91 24 99 38 16 56 54 44 95 76 37 46 43 86 68 81 59 74 4 42 73 39 47 101 
+Cost: 63184
+44.95 seconds
+Bounds: [22580,63184]
+Optimality Gap: 64.25999999999999%
+Data: 22580,63184,64.25999999999999
+543.38 seconds
+Improved Solution:
+Sequence: 1 63 6 92 8 31 89 67 28 93 58 51 57 77 32 15 17 11 21 72 10 49 90 79 53 88 70 65 26 66 75 61 69 50 2 64 40 25 9 34 83 55 3 29 100 48 78 52 5 33 76 13 82 85 30 7 87 20 86 35 60 45 91 59 36 38 24 16 22 94 18 19 97 80 56 23 62 98 74 84 42 54 68 81 73 44 95 96 37 39 14 71 41 43 46 27 12 47 99 4 101 
+Cost: 59931
+Bounds: [22580,59931]
+Optimality Gap: 62.32%
+Data: 22580,59931,62.32
+672.53 seconds
+Nodes In Queue: 1
+Bounds: [22899,59931]
+Optimality Gap: 61.79%
+Data: 22899,59931,61.79
+1484.03 seconds
+Nodes In Queue: 2
+Bounds: [22939,59931]
+Optimality Gap: 61.72%
+Data: 22939,59931,61.72
+2313.21 seconds
+Nodes In Queue: 3
+Bounds: [23006,59931]
+Optimality Gap: 61.61%
+Data: 23006,59931,61.61
+3188.14 seconds
+Nodes In Queue: 4

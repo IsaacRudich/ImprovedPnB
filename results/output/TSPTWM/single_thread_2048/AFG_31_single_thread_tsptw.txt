@@ -1,0 +1,21 @@
+File Name: rbg048a.tw
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 2 3 4 5 6 34 30 15 13 11 10 7 14 12 27 17 8 9 16 20 18 19 22 21 25 23 35 24 49 26 29 36 28 31 48 33 32 37 38 40 39 42 41 46 45 43 44 47 50 
+Cost: 9799
+12.03 seconds
+Optimal Solution Found:
+Sequence: 1 2 3 4 5 6 34 30 15 13 11 10 7 14 12 27 17 8 9 16 20 18 19 22 21 25 23 35 24 49 26 29 36 28 31 48 33 32 37 38 40 39 42 41 46 45 43 44 47 50 
+Cost: 9799
+47.5 seconds
+Bounds: [9799.0,9799.0]
+Optimality Gap: 0.0%
+Data: 9799.0,9799.0,0.0
+47.5 seconds

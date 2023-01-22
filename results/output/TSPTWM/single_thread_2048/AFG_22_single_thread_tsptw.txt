@@ -1,0 +1,21 @@
+File Name: rbg031a.tw
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 2 5 3 4 7 8 9 10 11 6 12 13 14 15 16 17 20 19 18 21 22 24 23 25 26 27 28 29 30 31 32 33 
+Cost: 3498
+6.28 seconds
+Optimal Solution Found:
+Sequence: 1 2 5 3 4 7 8 9 10 11 6 12 13 14 15 16 17 20 19 18 21 22 24 23 25 26 27 28 29 30 31 32 33 
+Cost: 3498
+12.87 seconds
+Bounds: [3498.0,3498.0]
+Optimality Gap: 0.0%
+Data: 3498.0,3498.0,0.0
+12.87 seconds

@@ -1,0 +1,26 @@
+File Name: n20w200.002.txt
+Makespan Objective: true
+Peel Setting: maximal
+Max Width: 2048
+Variety Search Width: 100
+Parallel: false
+Threads: 1
+Time Limit (seconds): 3600
+Memory Limit (GB): 640.0
+Initial Solution:
+Sequence: 1 11 9 16 17 18 13 3 12 6 20 5 2 4 14 8 15 10 7 19 21 22 
+Cost: 242
+3.83 seconds
+Bounds: [235.0,242.0]
+Optimality Gap: 2.8899999999999997%
+Data: 235.0,242.0,2.8899999999999997
+8.98 seconds
+Nodes In Queue: 1
+Optimal Solution Found:
+Sequence: 1 11 9 16 17 18 13 3 12 6 20 5 2 4 14 8 15 10 7 19 21 22 
+Cost: 242
+32.44 seconds
+Bounds: [242.0,242.0]
+Optimality Gap: 0.0%
+Data: 242.0,242.0,0.0
+32.44 seconds
