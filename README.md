@@ -35,7 +35,7 @@ Now that the REPL is running and the code is loaded, there are a few methods ava
 A command using all of the optional parameters may look like this:
 `solve_tsptw(false,set=7,num=135,max_width=2048, widthofsearch=5,peel_setting=maximal, run_parallel=false, file_name="./example.txt", time_limit=1800,bestknownvalue=100000)`
 
-If you want to get under the hood and play around with the solver more directy, you will find the setup code for TSPTW and SOP in the `user_files` folder. All of the code specific to those problems is located there. The generic code for the solver is in the `solver` folder. The frameworks for modeling DD nodes and problems are in the `model` folder. 
+If you want to get under the hood and play around with the solver more directy, you will find the setup code for TSPTW and SOP in the `user_files` folder. All of the code specific to those problems is located there. The generic code for the solver is in the `solver` folder. The frameworks for modeling DD nodes and problems are in the `model` folder. All of the code for the solver is self-documenting. That means that after loading the code you can call the julia help function on any function and see the documentation for it without having to go to it directly. 
 
 
 | Index | Problem Name |
